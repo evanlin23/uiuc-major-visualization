@@ -5488,8 +5488,13 @@
                     "Technology and management"
                 ],
                 "college": "College of Agricultural, Consumer & Environmental Sciences",
+                "related_majors": [
+                    "Integrative Biology",
+                    "Molecular and Cellular Biology",
+                    "Natural Resources and Environmental Sciences"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$35,047",
+                    "average_salary": 35047,
                     "employer_destinations": [
                         "Accelerated Genetics",
                         "Addison Animal Hospital",
@@ -5638,8 +5643,14 @@
                     "Horticultural food systems"
                 ],
                 "college": "College of Agricultural, Consumer & Environmental Sciences",
+                "related_majors": [
+                    "Computer Science",
+                    "Computer Science and Crop Sciences",
+                    "Integrative Biology",
+                    "Molecular and Cellular Biology"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$44,932",
+                    "average_salary": 44932,
                     "employer_destinations": [
                         "AgReliant Genetics",
                         "AgriCorps",
@@ -5717,6 +5728,13 @@
                     "Family studies"
                 ],
                 "college": "College of Agricultural, Consumer & Environmental Sciences",
+                "related_majors": [
+                    "Community Health",
+                    "Early Childhood Education (Birth-Grade 2)",
+                    "Gender and Women's Studies",
+                    "Psychology",
+                    "Sociology"
+                ],
                 "post_graduation_success": {
                     "average_salary": "Insufficient survey data is available for average starting annual income.",
                     "employer_destinations": [
@@ -5815,8 +5833,15 @@
                     "Human dimensions of the environment"
                 ],
                 "college": "College of Agricultural, Consumer & Environmental Sciences",
+                "related_majors": [
+                    "Earth, Society, and Environmental Sustainability",
+                    "Environmental Economics & Policy",
+                    "Landscape Architecture ",
+                    "Policy, International Trade & Development",
+                    "Urban Studies and Planning"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$32,944",
+                    "average_salary": 32944,
                     "employer_destinations": [
                         "AbbVie",
                         "AmeriCorps",
@@ -5916,6 +5941,12 @@
                     "And data analysis."
                 ],
                 "college": "College of Agricultural, Consumer & Environmental Sciences",
+                "related_majors": [
+                    "Computer Science and Crop Sciences",
+                    "Crop Sciences",
+                    "Integrative Biology",
+                    "Plant Biotechnology"
+                ],
                 "post_graduation_success": {
                     "average_salary": "Insufficient survey data is available for average starting annual income.",
                     "employer_destinations": [
@@ -5939,8 +5970,15 @@
                     "Technical sales"
                 ],
                 "college": "College of Agricultural, Consumer & Environmental Sciences",
+                "related_majors": [
+                    "Agricultural and Biological Engineering (ENG)",
+                    "Dietetics and Nutrition",
+                    "Hospitality Management",
+                    "Molecular and Cellular Biology",
+                    "Nutrition and Health"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$44,253",
+                    "average_salary": 44253,
                     "employer_destinations": [
                         "Insufficient survey data is available for sample employer destinations."
                     ],
@@ -5959,8 +5997,15 @@
                     "Public accounting"
                 ],
                 "college": "College of Agricultural, Consumer & Environmental Sciences",
+                "related_majors": [
+                    "Accountancy",
+                    "Agribusiness, Markets & Management",
+                    "Consumer Economics & Finance",
+                    "Farm Management",
+                    "Finance in Agri-Business"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$51,576",
+                    "average_salary": 51576,
                     "employer_destinations": [
                         "Accelerated Genetics",
                         "Accenture",
@@ -6288,8 +6333,15 @@
                     "Real estate appraisal"
                 ],
                 "college": "College of Agricultural, Consumer & Environmental Sciences",
+                "related_majors": [
+                    "Agri-Accounting",
+                    "Agribusiness, Markets & Management",
+                    "Finance in Agri-Business",
+                    "Management",
+                    "Operations Management"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$51,576",
+                    "average_salary": 51576,
                     "employer_destinations": [
                         "Accelerated Genetics",
                         "Accenture",
@@ -6623,8 +6675,13 @@
                     "Technical analysis"
                 ],
                 "college": "College of Agricultural, Consumer & Environmental Sciences",
+                "related_majors": [
+                    "Agri-Accounting",
+                    "Financial Planning",
+                    "Management"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$51,576",
+                    "average_salary": 51576,
                     "employer_destinations": [
                         "Accelerated Genetics",
                         "Accenture",
@@ -6958,8 +7015,15 @@
                     "Realty"
                 ],
                 "college": "College of Agricultural, Consumer & Environmental Sciences",
+                "related_majors": [
+                    "Economics",
+                    "Environmental Economics & Policy",
+                    "Finance",
+                    "Finance in Agri-Business",
+                    "Financial Planning"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$51,576",
+                    "average_salary": 51576,
                     "employer_destinations": [
                         "Accelerated Genetics",
                         "Accenture",
@@ -7292,8 +7356,15 @@
                     "Economics"
                 ],
                 "college": "College of Agricultural, Consumer & Environmental Sciences",
+                "related_majors": [
+                    "Earth, Society, and Environmental Sustainability",
+                    "Natural Resources and Environmental Sciences",
+                    "Policy, International Trade & Development",
+                    "Public Policy & Law",
+                    "Urban Studies and Planning"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$51,576",
+                    "average_salary": 51576,
                     "employer_destinations": [
                         "Accelerated Genetics",
                         "Accenture",
@@ -7625,8 +7696,14 @@
                     "Trade"
                 ],
                 "college": "College of Agricultural, Consumer & Environmental Sciences",
+                "related_majors": [
+                    "Agribusiness, Markets & Management",
+                    "Environmental Economics & Policy",
+                    "Public Policy & Law",
+                    "Urban Studies and Planning"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$51,576",
+                    "average_salary": 51576,
                     "employer_destinations": [
                         "Accelerated Genetics",
                         "Accenture",
@@ -7958,8 +8035,14 @@
                     "State government"
                 ],
                 "college": "College of Agricultural, Consumer & Environmental Sciences",
+                "related_majors": [
+                    "Agribusiness, Markets & Management",
+                    "Environmental Economics & Policy",
+                    "Policy, International Trade & Development",
+                    "Urban Studies and Planning"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$51,576",
+                    "average_salary": 51576,
                     "employer_destinations": [
                         "Accelerated Genetics",
                         "Accenture",
@@ -8290,8 +8373,15 @@
                     "Risk-management strategies"
                 ],
                 "college": "College of Agricultural, Consumer & Environmental Sciences",
+                "related_majors": [
+                    "Agri-Accounting",
+                    "Consumer Economics & Finance",
+                    "Finance",
+                    "Finance in Agri-Business",
+                    "Management"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$51,576",
+                    "average_salary": 51576,
                     "employer_destinations": [
                         "Accelerated Genetics",
                         "Accenture",
@@ -8627,8 +8717,15 @@
                     "Project management"
                 ],
                 "college": "College of Agricultural, Consumer & Environmental Sciences",
+                "related_majors": [
+                    "Bioengineering",
+                    "Civil Engineering",
+                    "Crop Sciences",
+                    "Molecular and Cellular Biology",
+                    "Natural Resources and Environmental Sciences"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$60,681",
+                    "average_salary": 60681,
                     "employer_destinations": [
                         "Abbott Diagnostics",
                         "Archer Daniels Midland (ADM)",
@@ -8717,8 +8814,15 @@
                     "Securities"
                 ],
                 "college": "College of Agricultural, Consumer & Environmental Sciences",
+                "related_majors": [
+                    "Agri-Accounting",
+                    "Agribusiness, Markets & Management",
+                    "Finance",
+                    "Financial Planning",
+                    "Operations Management"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$51,576",
+                    "average_salary": 51576,
                     "employer_destinations": [
                         "Accelerated Genetics",
                         "Accenture",
@@ -9049,6 +9153,13 @@
                     "And data analysis."
                 ],
                 "college": "College of Agricultural, Consumer & Environmental Sciences",
+                "related_majors": [
+                    "Agricultural and Biological Engineering (ACES)",
+                    "Computer Science and Crop Sciences",
+                    "Crop Sciences",
+                    "Integrative Biology",
+                    "Molecular and Cellular Biology"
+                ],
                 "post_graduation_success": {
                     "average_salary": "Insufficient survey data is available for average starting annual income.",
                     "employer_destinations": [
@@ -9068,8 +9179,11 @@
                     "Strong social science and business-related coursework and performance"
                 ],
                 "college": "College of Agricultural, Consumer & Environmental Sciences",
+                "related_majors": [
+                    "Undeclared"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$47,120",
+                    "average_salary": 47120,
                     "employer_destinations": [
                         "Insufficient survey data is available for sample employer destinations."
                     ],
@@ -9093,6 +9207,13 @@
                     "Web programming"
                 ],
                 "college": "College of Agricultural, Consumer & Environmental Sciences",
+                "related_majors": [
+                    "Agricultural and Biological Engineering (ACES)",
+                    "Agricultural and Biological Engineering (ENG)",
+                    "Computer Science",
+                    "Crop Sciences",
+                    "Molecular and Cellular Biology"
+                ],
                 "post_graduation_success": {
                     "average_salary": "Insufficient survey data is available for average starting annual income.",
                     "employer_destinations": [
@@ -9116,8 +9237,13 @@
                     "Training & organizational development"
                 ],
                 "college": "College of Agricultural, Consumer & Environmental Sciences",
+                "related_majors": [
+                    "Elementary Education (Grades 1-6)",
+                    "Learning and Education Studies",
+                    "Organizational and Community Leadership"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$47,120",
+                    "average_salary": 47120,
                     "employer_destinations": [
                         "Insufficient survey data is available for sample employer destinations."
                     ],
@@ -9142,8 +9268,12 @@
                     "Training & organizational development"
                 ],
                 "college": "College of Agricultural, Consumer & Environmental Sciences",
+                "related_majors": [
+                    "Agricultural Education",
+                    "Learning and Education Studies"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$47,120",
+                    "average_salary": 47120,
                     "employer_destinations": [
                         "Insufficient survey data is available for sample employer destinations."
                     ],
@@ -9169,6 +9299,12 @@
                     "Remote sensing"
                 ],
                 "college": "College of Agricultural, Consumer & Environmental Sciences",
+                "related_majors": [
+                    "Animal Sciences",
+                    "Computer Science",
+                    "Computer Science and Crop Sciences",
+                    "Natural Resources and Environmental Sciences"
+                ],
                 "post_graduation_success": {
                     "average_salary": "Insufficient survey data is available for average starting annual income.",
                     "employer_destinations": [
@@ -9191,6 +9327,13 @@
                     "Renewable energy systems"
                 ],
                 "college": "College of Agricultural, Consumer & Environmental Sciences",
+                "related_majors": [
+                    "Agricultural and Biological Engineering (ENG)",
+                    "Civil Engineering",
+                    "Farm Management",
+                    "Management",
+                    "Marketing"
+                ],
                 "post_graduation_success": {
                     "average_salary": "Insufficient survey data is available for average starting annual income.",
                     "employer_destinations": [
@@ -9217,6 +9360,12 @@
                     "\u00b7         writing"
                 ],
                 "college": "College of Agricultural, Consumer & Environmental Sciences",
+                "related_majors": [
+                    "Advertising",
+                    "Agricultural Education",
+                    "Communication",
+                    "Organizational and Community Leadership"
+                ],
                 "post_graduation_success": {
                     "average_salary": "Insufficient survey data is available for average starting annual income.",
                     "employer_destinations": [
@@ -9239,6 +9388,12 @@
                     "The human body"
                 ],
                 "college": "College of Agricultural, Consumer & Environmental Sciences",
+                "related_majors": [
+                    "Food Science",
+                    "Health Sciences, Interdisciplinary ",
+                    "Hospitality Management",
+                    "Nutrition and Health"
+                ],
                 "post_graduation_success": {
                     "average_salary": "Insufficient survey data is available for average starting annual income.",
                     "employer_destinations": [
@@ -9260,8 +9415,14 @@
                     "Restaurant management"
                 ],
                 "college": "College of Agricultural, Consumer & Environmental Sciences",
+                "related_majors": [
+                    "Dietetics and Nutrition",
+                    "Food Science",
+                    "Nutrition and Health",
+                    "Recreation, Sport and Tourism"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$44,253",
+                    "average_salary": 44253,
                     "employer_destinations": [
                         "Insufficient survey data is available for sample employer destinations."
                     ],
@@ -9283,6 +9444,11 @@
                     "Research"
                 ],
                 "college": "College of Agricultural, Consumer & Environmental Sciences",
+                "related_majors": [
+                    "Community Health",
+                    "Dietetics and Nutrition",
+                    "Molecular and Cellular Biology"
+                ],
                 "post_graduation_success": {
                     "average_salary": "Insufficient survey data is available for average starting annual income.",
                     "employer_destinations": [
@@ -9308,6 +9474,13 @@
                     "Urban planning"
                 ],
                 "college": "College of Agricultural, Consumer & Environmental Sciences",
+                "related_majors": [
+                    "Agribusiness, Markets & Management",
+                    "Environmental Economics & Policy",
+                    "Operations Management",
+                    "Public Policy & Law",
+                    "Urban Studies and Planning"
+                ],
                 "post_graduation_success": {
                     "average_salary": "Insufficient survey data is available for average starting annual income.",
                     "employer_destinations": [
@@ -9335,6 +9508,13 @@
                     "Supply chain management"
                 ],
                 "college": "Gies College of Business",
+                "related_majors": [
+                    "Accountancy",
+                    "Finance",
+                    "Information Systems",
+                    "Management",
+                    "Marketing"
+                ],
                 "post_graduation_success": {
                     "average_salary": "Insufficient survey data is available for average starting annual income.",
                     "employer_destinations": [
@@ -9359,8 +9539,15 @@
                     "Risk consulting"
                 ],
                 "college": "Gies College of Business",
+                "related_majors": [
+                    "Accountancy + Data Science",
+                    "Agri-Accounting",
+                    "Business Undeclared",
+                    "Finance",
+                    "Financial Planning"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$62,142",
+                    "average_salary": 62142,
                     "employer_destinations": [
                         "Abbott",
                         "Abbott Laboratories",
@@ -9638,8 +9825,15 @@
                     "Wealth management"
                 ],
                 "college": "Gies College of Business",
+                "related_majors": [
+                    "Actuarial Science",
+                    "Economics",
+                    "Finance + Data Science",
+                    "Finance in Agri-Business",
+                    "Financial Planning"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$65,053",
+                    "average_salary": 65053,
                     "employer_destinations": [
                         "1code",
                         "3F Commerce",
@@ -9966,8 +10160,14 @@
                     "Sales"
                 ],
                 "college": "Gies College of Business",
+                "related_majors": [
+                    "Advertising",
+                    "Communication",
+                    "Psychology",
+                    "Recreation, Sport and Tourism"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$56,125",
+                    "average_salary": 56125,
                     "employer_destinations": [
                         "3M",
                         "AbbVie",
@@ -10234,8 +10434,14 @@
                     "Supply chain analysis"
                 ],
                 "college": "Gies College of Business",
+                "related_majors": [
+                    "Agribusiness, Markets & Management",
+                    "Farm Management",
+                    "Management",
+                    "Operations Management"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$63,420",
+                    "average_salary": 63420,
                     "employer_destinations": [
                         "3M",
                         "Abbott",
@@ -10340,8 +10546,14 @@
                     "Human resources"
                 ],
                 "college": "Gies College of Business",
+                "related_majors": [
+                    "Agribusiness, Markets & Management",
+                    "Community Health",
+                    "Operations Management",
+                    "Recreation, Sport and Tourism"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$54,681",
+                    "average_salary": 54681,
                     "employer_destinations": [
                         "3M",
                         "AbbVie",
@@ -10499,8 +10711,15 @@
                     "Systems analysis"
                 ],
                 "college": "Gies College of Business",
+                "related_majors": [
+                    "Computer Science",
+                    "Information Sciences",
+                    "Information Sciences + Data Science",
+                    "Statistics",
+                    "Systems Engineering and Design "
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$64,602",
+                    "average_salary": 64602,
                     "employer_destinations": [
                         "Insufficient survey data is available for sample employer destinations."
                     ],
@@ -10523,8 +10742,14 @@
                     "Value stream manager"
                 ],
                 "college": "Gies College of Business",
+                "related_majors": [
+                    "Business Undeclared",
+                    "Community Health",
+                    "Management",
+                    "Recreation, Sport and Tourism"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$60,571",
+                    "average_salary": 60571,
                     "employer_destinations": [
                         "Insufficient survey data is available for sample employer destinations."
                     ],
@@ -10557,6 +10782,13 @@
                     "Sales & trading"
                 ],
                 "college": "Gies College of Business",
+                "related_majors": [
+                    "Accountancy + Data Science",
+                    "Astronomy + Data Science",
+                    "Business Undeclared",
+                    "Finance",
+                    "Information Sciences + Data Science"
+                ],
                 "post_graduation_success": {
                     "average_salary": "Insufficient survey data is available for average starting annual income.",
                     "employer_destinations": [
@@ -10589,6 +10821,13 @@
                     "Risk consulting"
                 ],
                 "college": "Gies College of Business",
+                "related_majors": [
+                    "Accountancy",
+                    "Astronomy + Data Science",
+                    "Business Undeclared",
+                    "Finance + Data Science",
+                    "Information Sciences + Data Science"
+                ],
                 "post_graduation_success": {
                     "average_salary": "Insufficient survey data is available for average starting annual income.",
                     "employer_destinations": [
@@ -10611,6 +10850,13 @@
                     "Logistics"
                 ],
                 "college": "Gies College of Business",
+                "related_majors": [
+                    "Advertising",
+                    "Business Undeclared",
+                    "Earth, Society, and Environmental Sustainability",
+                    "Operations Management",
+                    "Supply Chain Management"
+                ],
                 "post_graduation_success": {
                     "average_salary": "Insufficient survey data is available for average starting annual income.",
                     "employer_destinations": [
@@ -10635,6 +10881,13 @@
                     "Sport data analytics"
                 ],
                 "college": "Gies College of Business",
+                "related_majors": [
+                    "Accountancy + Data Science",
+                    "Finance + Data Science",
+                    "Information Systems",
+                    "Management",
+                    "Operations Management"
+                ],
                 "post_graduation_success": {
                     "average_salary": "Insufficient survey data is available for average starting annual income.",
                     "employer_destinations": [
@@ -10658,8 +10911,14 @@
                     "Social work"
                 ],
                 "college": "College of Education",
+                "related_majors": [
+                    "Early Childhood Education (Birth-Grade 2)",
+                    "Elementary Education (Grades 1-6)",
+                    "Middle Grades Education (Grades 5-8)",
+                    "Speech and Hearing Science"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$43,213",
+                    "average_salary": 43213,
                     "employer_destinations": [
                         "Alan B Shepard Middle School",
                         "Algonquin Middle School",
@@ -10737,8 +10996,14 @@
                     "Preschool education"
                 ],
                 "college": "College of Education",
+                "related_majors": [
+                    "Elementary Education (Grades 1-6)",
+                    "Learning and Education Studies",
+                    "Psychology",
+                    "Special Education"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$41,112",
+                    "average_salary": 41112,
                     "employer_destinations": [
                         "Ayeyarwaddy International School",
                         "Concordia Place",
@@ -10769,8 +11034,14 @@
                     "School administration"
                 ],
                 "college": "College of Education",
+                "related_majors": [
+                    "Early Childhood Education (Birth-Grade 2)",
+                    "Learning and Education Studies",
+                    "Middle Grades Education (Grades 5-8)",
+                    "Special Education"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$40,087",
+                    "average_salary": 40087,
                     "employer_destinations": [
                         "Akira Chicago",
                         "Algonquin Road Elementary School",
@@ -10914,6 +11185,13 @@
                     "Research"
                 ],
                 "college": "College of Education",
+                "related_majors": [
+                    "Early Childhood Education (Birth-Grade 2)",
+                    "Elementary Education (Grades 1-6)",
+                    "Learning and Education Studies",
+                    "Middle Grades Education (Grades 5-8)",
+                    "Special Education"
+                ],
                 "post_graduation_success": {
                     "average_salary": "Insufficient survey data is available for average starting annual income.",
                     "employer_destinations": [
@@ -10934,8 +11212,15 @@
                     "Workplace training and development"
                 ],
                 "college": "College of Education",
+                "related_majors": [
+                    "African American Studies",
+                    "Latina/Latino Studies",
+                    "Management",
+                    "Psychology",
+                    "Statistics and Computer Science"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$41,112",
+                    "average_salary": 41112,
                     "employer_destinations": [
                         "Blue Cross Blue Shield of Illinois",
                         "Busy Bees Childcare Centre",
@@ -10966,8 +11251,14 @@
                     "School administration"
                 ],
                 "college": "College of Education",
+                "related_majors": [
+                    "Art Education (K-12)",
+                    "Elementary Education (Grades 1-6)",
+                    "Mathematics",
+                    "Psychology"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$41,112",
+                    "average_salary": 41112,
                     "employer_destinations": [
                         "Alton Middle School",
                         "Edison Middle School",
@@ -10999,6 +11290,13 @@
                     "And empathy."
                 ],
                 "college": "College of Education",
+                "related_majors": [
+                    "Computer Science and Education, Secondary Education",
+                    "Elementary Education (Grades 1-6)",
+                    "Learning and Education Studies",
+                    "Middle Grades Education (Grades 5-8)",
+                    "Secondary Education: Mathematics"
+                ],
                 "post_graduation_success": {
                     "average_salary": "Insufficient survey data is available for average starting annual income.",
                     "employer_destinations": [
@@ -11019,6 +11317,13 @@
                     "Postsecondary teacher"
                 ],
                 "college": "College of Education",
+                "related_majors": [
+                    "Computer Science and Education, Learning Sciences",
+                    "Elementary Education (Grades 1-6)",
+                    "Learning and Education Studies",
+                    "Middle Grades Education (Grades 5-8)",
+                    "Secondary Education: Mathematics"
+                ],
                 "post_graduation_success": {
                     "average_salary": "Insufficient survey data is available for average starting annual income.",
                     "employer_destinations": [
@@ -11042,8 +11347,14 @@
                     "Designing and constructing the world\u2019s tallest buildings and most iconic bridges"
                 ],
                 "college": "Grainger College of Engineering",
+                "related_majors": [
+                    "Industrial Engineering",
+                    "Landscape Architecture ",
+                    "Systems Engineering and Design ",
+                    "Urban Studies and Planning"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$59,226",
+                    "average_salary": 59226,
                     "employer_destinations": [
                         "A&R Mechanical Contractors",
                         "Aallied Die Casting",
@@ -11301,8 +11612,15 @@
                     "Software architecture"
                 ],
                 "college": "Grainger College of Engineering",
+                "related_majors": [
+                    "Computer Science",
+                    "Electrical Engineering",
+                    "Industrial Engineering",
+                    "Statistics",
+                    "Systems Engineering and Design "
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$88,109",
+                    "average_salary": 88109,
                     "employer_destinations": [
                         "Accenture",
                         "Acquire Automation",
@@ -11587,8 +11905,15 @@
                     "Studio tools developer"
                 ],
                 "college": "Grainger College of Engineering",
+                "related_majors": [
+                    "Computer Engineering",
+                    "Electrical Engineering",
+                    "Industrial Engineering",
+                    "Statistics",
+                    "Systems Engineering and Design "
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$93,500",
+                    "average_salary": 93500,
                     "employer_destinations": [
                         "@Walmartlabs",
                         "Accenture",
@@ -11873,8 +12198,14 @@
                     "Signalimageand speech processing"
                 ],
                 "college": "Grainger College of Engineering",
+                "related_majors": [
+                    "Computer Engineering",
+                    "Engineering Mechanics",
+                    "Mechanical Engineering",
+                    "Systems Engineering and Design "
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$70,183",
+                    "average_salary": 70183,
                     "employer_destinations": [
                         "Abbott",
                         "Accenture",
@@ -12146,8 +12477,15 @@
                     "Aeronautical and aerospace engineering"
                 ],
                 "college": "Grainger College of Engineering",
+                "related_majors": [
+                    "Aerospace Engineering",
+                    "Bioengineering",
+                    "Computer Science",
+                    "Mathematics",
+                    "Mechanical Engineering"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$66,952",
+                    "average_salary": 66952,
                     "employer_destinations": [
                         "Abbott Laboratories",
                         "Alicona Corporation",
@@ -12206,8 +12544,14 @@
                     "Eliminating waste of timemoneymaterialsenergyand other commodities"
                 ],
                 "college": "Grainger College of Engineering",
+                "related_majors": [
+                    "Materials Science and Engineering",
+                    "Operations Management",
+                    "Supply Chain Management",
+                    "Systems Engineering and Design "
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$64,216",
+                    "average_salary": 64216,
                     "employer_destinations": [
                         "Accenture",
                         "Advanced Technology Services",
@@ -12361,8 +12705,15 @@
                     "Designing safer and more sustainable batteries."
                 ],
                 "college": "Grainger College of Engineering",
+                "related_majors": [
+                    "Bioengineering",
+                    "Chemistry",
+                    "Computer Engineering",
+                    "Computer Science",
+                    "Electrical Engineering"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$63,282",
+                    "average_salary": 63282,
                     "employer_destinations": [
                         "3M",
                         "AbbVie",
@@ -12533,8 +12884,15 @@
                     "Research & development"
                 ],
                 "college": "Grainger College of Engineering",
+                "related_majors": [
+                    "Aerospace Engineering",
+                    "Agricultural and Biological Engineering (ENG)",
+                    "Civil Engineering",
+                    "Engineering Mechanics",
+                    "Industrial Engineering"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$65,785",
+                    "average_salary": 65785,
                     "employer_destinations": [
                         "3M",
                         "AARP",
@@ -12850,8 +13208,15 @@
                     "Teaching"
                 ],
                 "college": "Grainger College of Engineering",
+                "related_majors": [
+                    "Astronomy",
+                    "Chemistry",
+                    "Electrical Engineering",
+                    "Mathematics",
+                    "Nuclear, Plasma, and Radiological Engineering"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$62,989",
+                    "average_salary": 62989,
                     "employer_destinations": [
                         "Allant Group",
                         "Armstrong World Industries",
@@ -12963,8 +13328,15 @@
                     "And drug delivery."
                 ],
                 "college": "Grainger College of Engineering",
+                "related_majors": [
+                    "Agricultural and Biological Engineering (ENG)",
+                    "Biochemistry",
+                    "Chemistry",
+                    "Materials Science and Engineering",
+                    "Molecular and Cellular Biology"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$60,237",
+                    "average_salary": 60237,
                     "employer_destinations": [
                         "Abbott",
                         "Abbott Diagnostics",
@@ -13085,6 +13457,13 @@
                     "Designing sustainable and resilient infrastructure that promote strong communities while protecting the environment"
                 ],
                 "college": "Grainger College of Engineering",
+                "related_majors": [
+                    "Agricultural and Biological Engineering (ACES)",
+                    "Atmospheric Sciences",
+                    "Chemical Engineering",
+                    "Civil Engineering",
+                    "Earth, Society, and Environmental Sustainability"
+                ],
                 "post_graduation_success": {
                     "average_salary": "Insufficient survey data is available for average starting annual income.",
                     "employer_destinations": [
@@ -13109,8 +13488,14 @@
                     "Security"
                 ],
                 "college": "Grainger College of Engineering",
+                "related_majors": [
+                    "Electrical Engineering",
+                    "Engineering Mechanics",
+                    "Industrial Engineering",
+                    "Mechanical Engineering"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$65,361",
+                    "average_salary": 65361,
                     "employer_destinations": [
                         "Accenture",
                         "American Airlines",
@@ -13246,8 +13631,15 @@
                     "Project management"
                 ],
                 "college": "Grainger College of Engineering",
+                "related_majors": [
+                    "Bioengineering",
+                    "Civil Engineering",
+                    "Crop Sciences",
+                    "Molecular and Cellular Biology",
+                    "Natural Resources and Environmental Sciences"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$60,681",
+                    "average_salary": 60681,
                     "employer_destinations": [
                         "Abbott Diagnostics",
                         "Archer Daniels Midland (ADM)",
@@ -13338,8 +13730,14 @@
                     "Waste management"
                 ],
                 "college": "Grainger College of Engineering",
+                "related_majors": [
+                    "Bioengineering",
+                    "Mechanical Engineering",
+                    "Natural Resources and Environmental Sciences",
+                    "Systems Engineering and Design "
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$63,686",
+                    "average_salary": 63686,
                     "employer_destinations": [
                         "Accenture",
                         "AIG",
@@ -13396,6 +13794,7 @@
                     "Interest in improving society through engineering"
                 ],
                 "college": "Grainger College of Engineering",
+                "related_majors": [],
                 "post_graduation_success": {
                     "average_salary": "Insufficient survey data is available for average starting annual income.",
                     "employer_destinations": [
@@ -13421,8 +13820,14 @@
                     "Robotics"
                 ],
                 "college": "Grainger College of Engineering",
+                "related_majors": [
+                    "Engineering Mechanics",
+                    "Materials Science and Engineering",
+                    "Operations Management",
+                    "Supply Chain Management"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$65,116",
+                    "average_salary": 65116,
                     "employer_destinations": [
                         "1872 Consulting",
                         "AbbVie",
@@ -13478,6 +13883,13 @@
                     "And enabled noninvasive monitoring of electrical signals from individual neurons in the living brain."
                 ],
                 "college": "Grainger College of Engineering",
+                "related_majors": [
+                    "Bioengineering",
+                    "Biology",
+                    "Electrical Engineering",
+                    "Neuroscience",
+                    "Psychology"
+                ],
                 "post_graduation_success": {
                     "average_salary": "Insufficient survey data is available for average starting annual income.",
                     "employer_destinations": [
@@ -13500,6 +13912,13 @@
                     "Finance"
                 ],
                 "college": "Grainger College of Engineering",
+                "related_majors": [
+                    "Astronomy",
+                    "Chemistry",
+                    "Computer Science",
+                    "Mathematics",
+                    "Physics"
+                ],
                 "post_graduation_success": {
                     "average_salary": "Insufficient survey data is available for average starting annual income.",
                     "employer_destinations": [
@@ -13520,6 +13939,12 @@
                     "And design and install advanced diagnostic and therapeutic techniques to improve human health."
                 ],
                 "college": "Grainger College of Engineering",
+                "related_majors": [
+                    "Bioengineering",
+                    "Computer Science",
+                    "Information Sciences + Data Science",
+                    "Neural Engineering"
+                ],
                 "post_graduation_success": {
                     "average_salary": "Insufficient survey data is available for average starting annual income.",
                     "employer_destinations": [
@@ -13544,8 +13969,12 @@
                     "Social responsibility"
                 ],
                 "college": "College of Fine & Applied Arts",
+                "related_majors": [
+                    "Advertising",
+                    "Communication"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$76,522",
+                    "average_salary": 76522,
                     "employer_destinations": [
                         "8 Hospitality",
                         "AbbVie",
@@ -13624,8 +14053,15 @@
                     "Urban planning"
                 ],
                 "college": "College of Fine & Applied Arts",
+                "related_majors": [
+                    "Architectural Studies",
+                    "Civil Engineering",
+                    "Earth, Society, and Environmental Sustainability",
+                    "Natural Resources and Environmental Sciences",
+                    "Urban Studies and Planning"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$50,503",
+                    "average_salary": 50503,
                     "employer_destinations": [
                         "Anne Roberts Gardens",
                         "Confluence",
@@ -13662,8 +14098,14 @@
                     "Vocal performance"
                 ],
                 "college": "College of Fine & Applied Arts",
+                "related_majors": [
+                    "Acting",
+                    "Jazz Performance",
+                    "Music Instrumental Performance",
+                    "Music Open Studies"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$50,503",
+                    "average_salary": 50503,
                     "employer_destinations": [
                         "Lundahl Middle School"
                     ],
@@ -13689,8 +14131,15 @@
                     "Teaching"
                 ],
                 "college": "College of Fine & Applied Arts",
+                "related_majors": [
+                    "Jazz Performance",
+                    "Music",
+                    "Music Education (K-12)",
+                    "Music Open Studies",
+                    "Musicology"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$50,503",
+                    "average_salary": 50503,
                     "employer_destinations": [
                         "Centre of Musical Arts",
                         "GEICO",
@@ -13724,8 +14173,14 @@
                     "Teaching"
                 ],
                 "college": "College of Fine & Applied Arts",
+                "related_majors": [
+                    "Jazz Performance",
+                    "Music",
+                    "Music Education (K-12)",
+                    "Musicology"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$50,503",
+                    "average_salary": 50503,
                     "employer_destinations": [
                         "Insufficient survey data is available for sample employer destinations."
                     ],
@@ -13749,8 +14204,14 @@
                     "Piano pedagogy"
                 ],
                 "college": "College of Fine & Applied Arts",
+                "related_majors": [
+                    "Music",
+                    "Music Composition ",
+                    "Music Instrumental Performance",
+                    "Music Voice Performance"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$50,503",
+                    "average_salary": 50503,
                     "employer_destinations": [
                         "Jellyvision"
                     ],
@@ -13770,8 +14231,14 @@
                     "Technology"
                 ],
                 "college": "College of Fine & Applied Arts",
+                "related_majors": [
+                    "Music",
+                    "Music Composition ",
+                    "Music Open Studies",
+                    "Music Voice Performance"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$38,311",
+                    "average_salary": 38311,
                     "employer_destinations": [
                         "Alma Center School District",
                         "Attea Middle School",
@@ -13839,8 +14306,12 @@
                     "Research"
                 ],
                 "college": "College of Fine & Applied Arts",
+                "related_majors": [
+                    "Elementary Education (Grades 1-6)",
+                    "Middle Grades Education (Grades 5-8)"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$37,544",
+                    "average_salary": 37544,
                     "employer_destinations": [
                         "Archdiocese Of Chicago",
                         "ASPIRA Inc. of Illinois",
@@ -13869,6 +14340,12 @@
                     "Dance theory"
                 ],
                 "college": "College of Fine & Applied Arts",
+                "related_majors": [
+                    "Acting",
+                    "Kinesiology",
+                    "Media and Cinema Studies",
+                    "Music Open Studies"
+                ],
                 "post_graduation_success": {
                     "average_salary": "Insufficient survey data is available for average starting annual income.",
                     "employer_destinations": [
@@ -13917,8 +14394,14 @@
                     "Teaching"
                 ],
                 "college": "College of Fine & Applied Arts",
+                "related_majors": [
+                    "Acting",
+                    "Kinesiology",
+                    "Music",
+                    "Music Open Studies"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$50,503",
+                    "average_salary": 50503,
                     "employer_destinations": [
                         "AIPAC",
                         "ArtistYear AmeriCorp",
@@ -13949,8 +14432,13 @@
                     "Music+"
                 ],
                 "college": "College of Fine & Applied Arts",
+                "related_majors": [
+                    "Music Composition ",
+                    "Music Open Studies",
+                    "Musicology"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$50,503",
+                    "average_salary": 50503,
                     "employer_destinations": [
                         "Google",
                         "Guitar Center",
@@ -13986,8 +14474,15 @@
                     "Teaching"
                 ],
                 "college": "College of Fine & Applied Arts",
+                "related_majors": [
+                    "History",
+                    "Jazz Performance",
+                    "Music Composition ",
+                    "Music Education (K-12)",
+                    "Music Instrumental Performance"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$50,503",
+                    "average_salary": 50503,
                     "employer_destinations": [
                         "Insufficient survey data is available for sample employer destinations."
                     ],
@@ -14006,8 +14501,15 @@
                     "Stage management"
                 ],
                 "college": "College of Fine & Applied Arts",
+                "related_majors": [
+                    "Costume Design and Technology",
+                    "Lighting Design and Technology ",
+                    "Scenic Design",
+                    "Scenic Technology",
+                    "Theatre Studies"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$50,503",
+                    "average_salary": 50503,
                     "employer_destinations": [
                         "American Conservatory Theater",
                         "Arkansas Shakespeare Theatre",
@@ -14051,8 +14553,15 @@
                     "Theatre management"
                 ],
                 "college": "College of Fine & Applied Arts",
+                "related_majors": [
+                    "Acting",
+                    "Creative Writing",
+                    "Media and Cinema Studies",
+                    "Music Open Studies",
+                    "Stage Management"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$50,503",
+                    "average_salary": 50503,
                     "employer_destinations": [
                         "American Conservatory Theater",
                         "Arkansas Shakespeare Theatre",
@@ -14091,8 +14600,13 @@
                     "Theatre"
                 ],
                 "college": "College of Fine & Applied Arts",
+                "related_majors": [
+                    "Dance (BFA)",
+                    "Music Open Studies",
+                    "Theatre Studies"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$50,503",
+                    "average_salary": 50503,
                     "employer_destinations": [
                         "American Conservatory Theater",
                         "Arkansas Shakespeare Theatre",
@@ -14129,8 +14643,12 @@
                     "Costume technology"
                 ],
                 "college": "College of Fine & Applied Arts",
+                "related_majors": [
+                    "Scenic Design",
+                    "Scenic Technology"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$50,503",
+                    "average_salary": 50503,
                     "employer_destinations": [
                         "American Conservatory Theater",
                         "Arkansas Shakespeare Theatre",
@@ -14170,8 +14688,14 @@
                     "Touring"
                 ],
                 "college": "College of Fine & Applied Arts",
+                "related_majors": [
+                    "Costume Design and Technology",
+                    "Lighting Design and Technology ",
+                    "Scenic Design",
+                    "Theatre Studies"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$50,503",
+                    "average_salary": 50503,
                     "employer_destinations": [
                         "American Conservatory Theater",
                         "Arkansas Shakespeare Theatre",
@@ -14209,8 +14733,14 @@
                     "Projection design"
                 ],
                 "college": "College of Fine & Applied Arts",
+                "related_majors": [
+                    "Scenic Design",
+                    "Scenic Technology",
+                    "Sound Design and Technology",
+                    "Stage Management"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$50,503",
+                    "average_salary": 50503,
                     "employer_destinations": [
                         "American Conservatory Theater",
                         "American Conservatory Theater",
@@ -14270,8 +14800,15 @@
                     "Soundboard operation"
                 ],
                 "college": "College of Fine & Applied Arts",
+                "related_majors": [
+                    "Lighting Design and Technology ",
+                    "Scenic Design",
+                    "Scenic Technology",
+                    "Stage Management",
+                    "Theatre Studies"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$50,503",
+                    "average_salary": 50503,
                     "employer_destinations": [
                         "American Conservatory Theater",
                         "Arkansas Shakespeare Theatre",
@@ -14307,8 +14844,15 @@
                     "Set design"
                 ],
                 "college": "College of Fine & Applied Arts",
+                "related_majors": [
+                    "Costume Design and Technology",
+                    "Lighting Design and Technology ",
+                    "Scenic Technology",
+                    "Stage Management",
+                    "Theatre Studies"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$50,503",
+                    "average_salary": 50503,
                     "employer_destinations": [
                         "American Conservatory Theater",
                         "Arkansas Shakespeare Theatre",
@@ -14343,6 +14887,7 @@
                     "Strong talent review (audition or portfolio)"
                 ],
                 "college": "College of Fine & Applied Arts",
+                "related_majors": [],
                 "post_graduation_success": {
                     "average_salary": "Insufficient survey data is available for average starting annual income.",
                     "employer_destinations": [
@@ -14370,8 +14915,14 @@
                     "Product design"
                 ],
                 "college": "College of Fine & Applied Arts",
+                "related_majors": [
+                    "Civil Engineering",
+                    "Graphic Design",
+                    "Landscape Architecture ",
+                    "Urban Studies and Planning"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$43,828",
+                    "average_salary": 43828,
                     "employer_destinations": [
                         "Advanced Technologies Group (ATG)",
                         "AECOM",
@@ -14473,8 +15024,14 @@
                     "Ensembles"
                 ],
                 "college": "College of Fine & Applied Arts",
+                "related_majors": [
+                    "Music",
+                    "Music Education (K-12)",
+                    "Music Voice Performance",
+                    "Musicology"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$50,503",
+                    "average_salary": 50503,
                     "employer_destinations": [
                         "American Medical Association",
                         "The High School of St. Thomas More"
@@ -14500,8 +15057,13 @@
                     "Aestheticculturalsocialeconomicecologicaland physical characteristics of human settlement"
                 ],
                 "college": "College of Fine & Applied Arts",
+                "related_majors": [
+                    "Civil Engineering",
+                    "Landscape Architecture ",
+                    "Public Policy & Law"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$42,173",
+                    "average_salary": 42173,
                     "employer_destinations": [
                         "AmeriCorps",
                         "Hamilton County Planning + Development",
@@ -14536,6 +15098,12 @@
                     "Teaching"
                 ],
                 "college": "College of Fine & Applied Arts",
+                "related_majors": [
+                    "Computer Science",
+                    "Music",
+                    "Music Composition ",
+                    "Sound Design and Technology"
+                ],
                 "post_graduation_success": {
                     "average_salary": "Insufficient survey data is available for average starting annual income.",
                     "employer_destinations": [
@@ -14561,8 +15129,17 @@
                     "Vocal performance"
                 ],
                 "college": "College of Fine & Applied Arts",
+                "related_majors": [
+                    "Acting",
+                    "Dance (BFA)",
+                    "Music",
+                    "Music Education (K-12)",
+                    "Music Instrumental Performance",
+                    "Music Open Studies",
+                    "Music Voice Performance"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$50,503",
+                    "average_salary": 50503,
                     "employer_destinations": [
                         "Insufficient survey data is available for sample employer destinations."
                     ],
@@ -14585,8 +15162,11 @@
                     "Sculpture"
                 ],
                 "college": "College of Fine & Applied Arts",
+                "related_majors": [
+                    "Art Education (K-12)"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$50,503",
+                    "average_salary": 50503,
                     "employer_destinations": [
                         "Insufficient survey data is available for sample employer destinations."
                     ],
@@ -14609,8 +15189,12 @@
                     "Sculpture"
                 ],
                 "college": "College of Fine & Applied Arts",
+                "related_majors": [
+                    "Art and Art History ",
+                    "Media and Cinema Studies"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$37,544",
+                    "average_salary": 37544,
                     "employer_destinations": [
                         "Insufficient survey data is available for sample employer destinations."
                     ],
@@ -14637,8 +15221,15 @@
                     "Teaching"
                 ],
                 "college": "College of Fine & Applied Arts",
+                "related_majors": [
+                    "Art Education (K-12)",
+                    "History",
+                    "History of Art",
+                    "Studio Art (BA)",
+                    "Studio Art (BFA)"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$50,503",
+                    "average_salary": 50503,
                     "employer_destinations": [
                         "Insufficient survey data is available for sample employer destinations."
                     ],
@@ -14661,6 +15252,12 @@
                     "Waste reduction"
                 ],
                 "college": "College of Fine & Applied Arts",
+                "related_majors": [
+                    "Architectural Studies",
+                    "Graphic Design",
+                    "Landscape Architecture ",
+                    "Urban Studies and Planning"
+                ],
                 "post_graduation_success": {
                     "average_salary": "Insufficient survey data is available for average starting annual income.",
                     "employer_destinations": [
@@ -14683,6 +15280,12 @@
                     "Master electrician"
                 ],
                 "college": "College of Fine & Applied Arts",
+                "related_majors": [
+                    "Computer Science",
+                    "Lighting Design and Technology ",
+                    "Scenic Technology",
+                    "Sound Design and Technology"
+                ],
                 "post_graduation_success": {
                     "average_salary": "Insufficient survey data is available for average starting annual income.",
                     "employer_destinations": [
@@ -14729,8 +15332,15 @@
                     "Sales"
                 ],
                 "college": "College of Media",
+                "related_majors": [
+                    "Communication",
+                    "Graphic Design",
+                    "Journalism",
+                    "Marketing",
+                    "Psychology"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$43,041",
+                    "average_salary": 43041,
                     "employer_destinations": [
                         "360i",
                         "3Q Digital",
@@ -15100,8 +15710,15 @@
                     "Television & radio producing"
                 ],
                 "college": "College of Media",
+                "related_majors": [
+                    "Advertising",
+                    "Communication",
+                    "Information Sciences",
+                    "Media and Cinema Studies",
+                    "Political Science"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$35,828",
+                    "average_salary": 35828,
                     "employer_destinations": [
                         "Arizona Republic",
                         "BCV",
@@ -15158,8 +15775,14 @@
                     "Videography"
                 ],
                 "college": "College of Media",
+                "related_majors": [
+                    "Advertising",
+                    "Journalism",
+                    "Sociology",
+                    "Theatre Studies"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$34,663",
+                    "average_salary": 34663,
                     "employer_destinations": [
                         "BCV",
                         "BMM Logistics",
@@ -15226,6 +15849,13 @@
                     "Marketing coordinator"
                 ],
                 "college": "College of Media",
+                "related_majors": [
+                    "Advertising",
+                    "Communication",
+                    "Computer Science",
+                    "Graphic Design",
+                    "Marketing"
+                ],
                 "post_graduation_success": {
                     "average_salary": "Insufficient survey data is available for average starting annual income.",
                     "employer_destinations": [
@@ -15247,8 +15877,15 @@
                     "Development of human capital"
                 ],
                 "college": "College of Liberal Arts & Sciences",
+                "related_majors": [
+                    "Actuarial Science",
+                    "Agricultural and Consumer Economics",
+                    "Finance",
+                    "Management",
+                    "Statistics"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$53,419",
+                    "average_salary": 53419,
                     "employer_destinations": [
                         "Abay Cleaning Service",
                         "Abbott Laboratories",
@@ -15775,8 +16412,14 @@
                     "Research"
                 ],
                 "college": "College of Liberal Arts & Sciences",
+                "related_majors": [
+                    "Anthropology",
+                    "Art and Art History ",
+                    "Art Education (K-12)",
+                    "History"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$35,560",
+                    "average_salary": 35560,
                     "employer_destinations": [
                         "AbbVie",
                         "AbbVie",
@@ -15815,8 +16458,15 @@
                     "And receive more advanced knowledge of the region."
                 ],
                 "college": "College of Liberal Arts & Sciences",
+                "related_majors": [
+                    "Anthropology",
+                    "Communication",
+                    "Global Studies",
+                    "Linguistics",
+                    "Sociology"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$42,419",
+                    "average_salary": 42419,
                     "employer_destinations": [
                         "American Petroleum Institute",
                         "Charter Fitness",
@@ -15848,8 +16498,15 @@
                     "Tourism"
                 ],
                 "college": "College of Liberal Arts & Sciences",
+                "related_majors": [
+                    "Anthropology",
+                    "Latina/Latino Studies",
+                    "Portuguese",
+                    "Sociology",
+                    "Spanish"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$36,509",
+                    "average_salary": 36509,
                     "employer_destinations": [
                         "Insufficient survey data is available for sample employer destinations."
                     ],
@@ -15871,8 +16528,15 @@
                     "Plastics"
                 ],
                 "college": "College of Liberal Arts & Sciences",
+                "related_majors": [
+                    "Biochemistry",
+                    "Bioengineering",
+                    "Chemistry",
+                    "Integrative Biology",
+                    "Molecular and Cellular Biology"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$70,588",
+                    "average_salary": 70588,
                     "employer_destinations": [
                         "3M",
                         "A123 Systems",
@@ -16121,8 +16785,15 @@
                     "Global security"
                 ],
                 "college": "College of Liberal Arts & Sciences",
+                "related_majors": [
+                    "Computer Science and Linguistics",
+                    "French",
+                    "Italian",
+                    "Latin American Studies",
+                    "Spanish"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$47,721",
+                    "average_salary": 47721,
                     "employer_destinations": [
                         "American Petroleum Institute",
                         "Capital One",
@@ -16170,8 +16841,15 @@
                     "Translation"
                 ],
                 "college": "College of Liberal Arts & Sciences",
+                "related_majors": [
+                    "Economics",
+                    "Global Studies",
+                    "History",
+                    "Integrative Biology",
+                    "Political Science"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$38,242",
+                    "average_salary": 38242,
                     "employer_destinations": [
                         "Acad\u00e9mie De Besan\u00e7on",
                         "Addecco",
@@ -16223,8 +16901,15 @@
                     "Translation"
                 ],
                 "college": "College of Liberal Arts & Sciences",
+                "related_majors": [
+                    "French",
+                    "Linguistics",
+                    "Public Policy & Law",
+                    "Sociology",
+                    "Spanish"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$42,419",
+                    "average_salary": 42419,
                     "employer_destinations": [
                         "City Year",
                         "TopBloc"
@@ -16250,8 +16935,14 @@
                     "Translation & interpretation"
                 ],
                 "college": "College of Liberal Arts & Sciences",
+                "related_majors": [
+                    "Latin American Studies",
+                    "Latina/Latino Studies",
+                    "Management",
+                    "Spanish"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$42,419",
+                    "average_salary": 42419,
                     "employer_destinations": [
                         "Archer Daniels Midland (ADM), Institute for the Prevention of Postharvest Loss",
                         "Invenergy",
@@ -16275,8 +16966,14 @@
                     "Translation"
                 ],
                 "college": "College of Liberal Arts & Sciences",
+                "related_majors": [
+                    "Latin American Studies",
+                    "Latina/Latino Studies",
+                    "Management",
+                    "Marketing"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$44,043",
+                    "average_salary": 44043,
                     "employer_destinations": [
                         "Accenture",
                         "Accuity",
@@ -16390,8 +17087,14 @@
                     "Philosophy and linguistics"
                 ],
                 "college": "College of Liberal Arts & Sciences",
+                "related_majors": [
+                    "Anthropology",
+                    "History",
+                    "Linguistics",
+                    "Philosophy"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$42,419",
+                    "average_salary": 42419,
                     "employer_destinations": [
                         "Avis Budget Group",
                         "Avis Budget Group",
@@ -16428,8 +17131,14 @@
                     "Essays"
                 ],
                 "college": "College of Liberal Arts & Sciences",
+                "related_majors": [
+                    "Advertising",
+                    "Communication",
+                    "Journalism",
+                    "Theatre Studies"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$37,070",
+                    "average_salary": 37070,
                     "employer_destinations": [
                         "91.3 WYEP",
                         "AbbVie",
@@ -16604,6 +17313,12 @@
                     "Demonstrated understanding of and interest in the major"
                 ],
                 "college": "College of Liberal Arts & Sciences",
+                "related_majors": [
+                    "Biochemistry",
+                    "Integrative Biology",
+                    "Molecular and Cellular Biology",
+                    "Secondary Education: Biology"
+                ],
                 "post_graduation_success": {
                     "average_salary": "Insufficient survey data is available for average starting annual income.",
                     "employer_destinations": [
@@ -16632,8 +17347,15 @@
                     "Medicine"
                 ],
                 "college": "College of Liberal Arts & Sciences",
+                "related_majors": [
+                    "Bioengineering",
+                    "Chemical Engineering",
+                    "Chemistry",
+                    "Integrative Biology",
+                    "Molecular and Cellular Biology"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$51,527",
+                    "average_salary": 51527,
                     "employer_destinations": [
                         "AbbVie",
                         "Epic Systems",
@@ -16684,6 +17406,12 @@
                     "Neuropsychologist"
                 ],
                 "college": "College of Liberal Arts & Sciences",
+                "related_majors": [
+                    "Biochemistry",
+                    "Integrative Biology",
+                    "Molecular and Cellular Biology",
+                    "Psychology"
+                ],
                 "post_graduation_success": {
                     "average_salary": "Insufficient survey data is available for average starting annual income.",
                     "employer_destinations": [
@@ -16705,8 +17433,14 @@
                     "Medical research"
                 ],
                 "college": "College of Liberal Arts & Sciences",
+                "related_majors": [
+                    "Computer Science",
+                    "Economics",
+                    "Mathematics",
+                    "Statistics and Computer Science"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$57,962",
+                    "average_salary": 57962,
                     "employer_destinations": [
                         "@WalmartLabs",
                         "AbbVie",
@@ -16893,8 +17627,14 @@
                     "Television"
                 ],
                 "college": "College of Liberal Arts & Sciences",
+                "related_majors": [
+                    "English",
+                    "History",
+                    "Journalism",
+                    "Media and Cinema Studies"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$51,527",
+                    "average_salary": 51527,
                     "employer_destinations": [
                         "Accenture",
                         "Advance Auto Parts",
@@ -16948,8 +17688,13 @@
                     "Museum work"
                 ],
                 "college": "College of Liberal Arts & Sciences",
+                "related_majors": [
+                    "Aerospace Engineering",
+                    "Computer Science and Astronomy",
+                    "Mathematics"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$57,842",
+                    "average_salary": 57842,
                     "employer_destinations": [
                         "Epic Systems",
                         "IBM",
@@ -16982,8 +17727,14 @@
                     "Higher education"
                 ],
                 "college": "College of Liberal Arts & Sciences",
+                "related_majors": [
+                    "Chemistry",
+                    "Civil Engineering",
+                    "Earth, Society, and Environmental Sustainability",
+                    "Mathematics"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$57,842",
+                    "average_salary": 57842,
                     "employer_destinations": [
                         "AIR",
                         "Caddo Parish School District",
@@ -17029,8 +17780,15 @@
                     "Create new theoretical frameworks to understand and predict molecular behavior."
                 ],
                 "college": "College of Liberal Arts & Sciences",
+                "related_majors": [
+                    "Biochemistry",
+                    "Bioengineering",
+                    "Chemical Engineering",
+                    "Materials Science and Engineering",
+                    "Molecular and Cellular Biology"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$45,611",
+                    "average_salary": 45611,
                     "employer_destinations": [
                         "Abbott",
                         "AbbVie",
@@ -17227,8 +17985,15 @@
                     "Teaching"
                 ],
                 "college": "College of Liberal Arts & Sciences",
+                "related_majors": [
+                    "Chemistry",
+                    "Earth, Society, and Environmental Sustainability",
+                    "Environmental Economics & Policy",
+                    "Natural Resources and Environmental Sciences",
+                    "Public Policy & Law"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$51,527",
+                    "average_salary": 51527,
                     "employer_destinations": [
                         "3D marketing",
                         "Apex Systems",
@@ -17296,8 +18061,14 @@
                     "Social justice"
                 ],
                 "college": "College of Liberal Arts & Sciences",
+                "related_majors": [
+                    "Art and Art History ",
+                    "History",
+                    "Psychology",
+                    "Sociology"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$46,748",
+                    "average_salary": 46748,
                     "employer_destinations": [
                         "Amazon",
                         "American Museum Of Natural History",
@@ -17369,8 +18140,15 @@
                     "Technology"
                 ],
                 "college": "College of Liberal Arts & Sciences",
+                "related_majors": [
+                    "Anthropology",
+                    "Art and Art History ",
+                    "History of Art",
+                    "Musicology",
+                    "Sociology"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$41,546",
+                    "average_salary": 41546,
                     "employer_destinations": [
                         "Affiliates in Oral & Maxillofacial Surgery",
                         "Alteryx",
@@ -17510,8 +18288,9 @@
                     "World politics"
                 ],
                 "college": "College of Liberal Arts & Sciences",
+                "related_majors": [],
                 "post_graduation_success": {
-                    "average_salary": "$45,463",
+                    "average_salary": 45463,
                     "employer_destinations": [
                         "5W Public Relations",
                         "Abstrakt Marketing Group",
@@ -17828,8 +18607,14 @@
                     "Sociology"
                 ],
                 "college": "College of Liberal Arts & Sciences",
+                "related_majors": [
+                    "Anthropology",
+                    "Gender and Women's Studies",
+                    "Psychology",
+                    "Social Work"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$38,493",
+                    "average_salary": 38493,
                     "employer_destinations": [
                         "Aerotek",
                         "AME Bank",
@@ -17933,8 +18718,15 @@
                     "How these processes go awry during injuryinfectionor genetic diseases"
                 ],
                 "college": "College of Liberal Arts & Sciences",
+                "related_majors": [
+                    "Biochemistry",
+                    "Bioengineering",
+                    "Chemistry",
+                    "Health Sciences, Interdisciplinary ",
+                    "Integrative Biology"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$39,086",
+                    "average_salary": 39086,
                     "employer_destinations": [
                         "AAYU Clinics",
                         "Abbott",
@@ -18292,8 +19084,15 @@
                     "Veterinary medicine"
                 ],
                 "college": "College of Liberal Arts & Sciences",
+                "related_majors": [
+                    "Agricultural and Biological Engineering (ENG)",
+                    "Biochemistry",
+                    "Chemistry",
+                    "Crop Sciences",
+                    "Molecular and Cellular Biology"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$35,471",
+                    "average_salary": 35471,
                     "employer_destinations": [
                         "4 & 1 Siblings Productions",
                         "AbbVie",
@@ -18493,8 +19292,14 @@
                     "Graduate studies preparation"
                 ],
                 "college": "College of Liberal Arts & Sciences",
+                "related_majors": [
+                    "Computer Science",
+                    "Economics",
+                    "Mathematics and Computer Science",
+                    "Statistics"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$60,191",
+                    "average_salary": 60191,
                     "employer_destinations": [
                         "Aflac",
                         "Air Force Academy High School",
@@ -18661,8 +19466,15 @@
                     "Risk management"
                 ],
                 "college": "College of Liberal Arts & Sciences",
+                "related_majors": [
+                    "Economics",
+                    "Finance",
+                    "Mathematics",
+                    "Statistics",
+                    "Statistics and Computer Science"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$61,563",
+                    "average_salary": 61563,
                     "employer_destinations": [
                         "Aetna",
                         "AIG",
@@ -18798,8 +19610,14 @@
                     "Risk analysis"
                 ],
                 "college": "College of Liberal Arts & Sciences",
+                "related_majors": [
+                    "Computer Science",
+                    "Economics",
+                    "Mathematics",
+                    "Statistics"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$86,661",
+                    "average_salary": 86661,
                     "employer_destinations": [
                         "Allstate Insurance Company",
                         "Amazon",
@@ -18855,8 +19673,15 @@
                     "Social work"
                 ],
                 "college": "College of Liberal Arts & Sciences",
+                "related_majors": [
+                    "Anthropology",
+                    "English",
+                    "History",
+                    "Social Work",
+                    "Sociology"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$36,509",
+                    "average_salary": 36509,
                     "employer_destinations": [
                         "Great Oaks Legacy Charter School",
                         "Manchester University",
@@ -18887,8 +19712,14 @@
                     "Victim advocacy"
                 ],
                 "college": "College of Liberal Arts & Sciences",
+                "related_majors": [
+                    "Anthropology",
+                    "Psychology",
+                    "Social Work",
+                    "Sociology"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$36,509",
+                    "average_salary": 36509,
                     "employer_destinations": [
                         "Becker's Healthcare",
                         "Courage Connection",
@@ -18919,8 +19750,15 @@
                     "Linguistics."
                 ],
                 "college": "College of Liberal Arts & Sciences",
+                "related_majors": [
+                    "Economics",
+                    "Global Studies",
+                    "Linguistics",
+                    "Molecular and Cellular Biology",
+                    "Psychology"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$42,419",
+                    "average_salary": 42419,
                     "employer_destinations": [
                         "Insufficient survey data is available for sample employer destinations."
                     ],
@@ -18943,8 +19781,14 @@
                     "Statistics"
                 ],
                 "college": "College of Liberal Arts & Sciences",
+                "related_majors": [
+                    "Computer Science",
+                    "Economics",
+                    "Mathematics",
+                    "Statistics"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$89,187",
+                    "average_salary": 89187,
                     "employer_destinations": [
                         "Airbnb",
                         "Allstate Insurance Company",
@@ -19043,8 +19887,14 @@
                     "Museum curation"
                 ],
                 "college": "College of Liberal Arts & Sciences",
+                "related_majors": [
+                    "Anthropology",
+                    "Gender and Women's Studies",
+                    "Psychology",
+                    "Sociology"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$51,527",
+                    "average_salary": 51527,
                     "employer_destinations": [
                         "DLA Piper",
                         "Hauswirth/CO"
@@ -19066,8 +19916,14 @@
                     "Social services"
                 ],
                 "college": "College of Liberal Arts & Sciences",
+                "related_majors": [
+                    "History",
+                    "Public Policy & Law",
+                    "Slavic Studies",
+                    "Sociology"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$36,509",
+                    "average_salary": 36509,
                     "employer_destinations": [
                         "CBRE",
                         "Jaxford",
@@ -19093,8 +19949,15 @@
                     "Sales"
                 ],
                 "college": "College of Liberal Arts & Sciences",
+                "related_majors": [
+                    "Advertising",
+                    "English",
+                    "Graphic Design",
+                    "Journalism",
+                    "Sociology"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$44,534",
+                    "average_salary": 44534,
                     "employer_destinations": [
                         "5W Public Relations",
                         "72andsunny",
@@ -19568,8 +20431,15 @@
                     "Social work"
                 ],
                 "college": "College of Liberal Arts & Sciences",
+                "related_majors": [
+                    "Gender and Women's Studies",
+                    "History",
+                    "Political Science",
+                    "Sociology",
+                    "Spanish"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$36,509",
+                    "average_salary": 36509,
                     "employer_destinations": [
                         "BMO Harris Bank",
                         "City Year",
@@ -19597,8 +20467,15 @@
                     "Individually designed areas of study"
                 ],
                 "college": "College of Liberal Arts & Sciences",
+                "related_majors": [
+                    "Anthropology",
+                    "History",
+                    "History of Art",
+                    "Journalism",
+                    "Sociology"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$42,419",
+                    "average_salary": 42419,
                     "employer_destinations": [
                         "Stephens Family YMCA"
                     ],
@@ -19622,8 +20499,15 @@
                     "Global business and markets"
                 ],
                 "college": "College of Liberal Arts & Sciences",
+                "related_majors": [
+                    "Anthropology",
+                    "Economics",
+                    "Geography and Geographic Information Science",
+                    "Political Science",
+                    "Sociology"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$44,179",
+                    "average_salary": 44179,
                     "employer_destinations": [
                         "Addecco",
                         "Aerotek",
@@ -19727,6 +20611,9 @@
                     "Interest in exploring majors and academic interests within the college of las"
                 ],
                 "college": "College of Liberal Arts & Sciences",
+                "related_majors": [
+                    "Undeclared"
+                ],
                 "post_graduation_success": {
                     "average_salary": "Insufficient survey data is available for average starting annual income.",
                     "employer_destinations": [
@@ -19748,8 +20635,14 @@
                     "Environmental science"
                 ],
                 "college": "College of Liberal Arts & Sciences",
+                "related_majors": [
+                    "Environmental Economics & Policy",
+                    "Geology",
+                    "Landscape Architecture ",
+                    "Natural Resources and Environmental Sciences"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$46,914",
+                    "average_salary": 46914,
                     "employer_destinations": [
                         "Antioch Chrysler Dodge Jeep Ram",
                         "Apex Systems",
@@ -19853,8 +20746,14 @@
                     "Tax consulting"
                 ],
                 "college": "College of Liberal Arts & Sciences",
+                "related_majors": [
+                    "Actuarial Science",
+                    "Economics",
+                    "Mathematics",
+                    "Statistics"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$51,527",
+                    "average_salary": 51527,
                     "employer_destinations": [
                         "Insufficient survey data is available for sample employer destinations."
                     ],
@@ -19874,8 +20773,12 @@
                     "Physical geography"
                 ],
                 "college": "College of Liberal Arts & Sciences",
+                "related_majors": [
+                    "Landscape Architecture ",
+                    "Urban Studies and Planning"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$52,326",
+                    "average_salary": 52326,
                     "employer_destinations": [
                         "Bayer Crop Science",
                         "BMM Transportation & BMM Logistics",
@@ -19921,8 +20824,15 @@
                     "Problem-solving"
                 ],
                 "college": "College of Liberal Arts & Sciences",
+                "related_majors": [
+                    "Communication",
+                    "English",
+                    "Journalism",
+                    "Media and Cinema Studies",
+                    "Theatre Studies"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$39,000",
+                    "average_salary": 39000,
                     "employer_destinations": [
                         "Amphorae Publishing Group",
                         "AXA Advisors",
@@ -19978,6 +20888,13 @@
                     "Social justice"
                 ],
                 "college": "College of Liberal Arts & Sciences",
+                "related_majors": [
+                    "Anthropology",
+                    "Communication",
+                    "Community Health",
+                    "Computer Science",
+                    "Computer Science and Linguistics"
+                ],
                 "post_graduation_success": {
                     "average_salary": "Insufficient survey data is available for average starting annual income.",
                     "employer_destinations": [
@@ -20003,6 +20920,12 @@
                     "Dynamical and statistical simulation of astronomical systems"
                 ],
                 "college": "College of Liberal Arts & Sciences",
+                "related_majors": [
+                    "Aerospace Engineering",
+                    "Astronomy",
+                    "Computer Science",
+                    "Statistics"
+                ],
                 "post_graduation_success": {
                     "average_salary": "Insufficient survey data is available for average starting annual income.",
                     "employer_destinations": [
@@ -20028,6 +20951,13 @@
                     "Research"
                 ],
                 "college": "College of Liberal Arts & Sciences",
+                "related_majors": [
+                    "Biochemistry",
+                    "Chemical Engineering",
+                    "Chemistry",
+                    "Computer Science",
+                    "Molecular and Cellular Biology"
+                ],
                 "post_graduation_success": {
                     "average_salary": "Insufficient survey data is available for average starting annual income.",
                     "employer_destinations": [
@@ -20053,8 +20983,15 @@
                     "Teaching"
                 ],
                 "college": "College of Liberal Arts & Sciences",
+                "related_majors": [
+                    "Computer Science",
+                    "French",
+                    "Italian",
+                    "Linguistics",
+                    "Spanish"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$87,450",
+                    "average_salary": 87450,
                     "employer_destinations": [
                         "Amazon",
                         "Apple",
@@ -20089,8 +21026,14 @@
                     "Ukrainian studies"
                 ],
                 "college": "College of Liberal Arts & Sciences",
+                "related_majors": [
+                    "History",
+                    "Public Policy & Law",
+                    "Russian, East European, and Eurasian Studies",
+                    "Theatre Studies"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$36,509",
+                    "average_salary": 36509,
                     "employer_destinations": [
                         "U.S. Peace Corps"
                     ],
@@ -20113,8 +21056,14 @@
                     "Social work"
                 ],
                 "college": "College of Liberal Arts & Sciences",
+                "related_majors": [
+                    "Anthropology",
+                    "English",
+                    "History",
+                    "Sociology"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$51,527",
+                    "average_salary": 51527,
                     "employer_destinations": [
                         "Insufficient survey data is available for sample employer destinations."
                     ],
@@ -20140,8 +21089,14 @@
                     "Social psychology"
                 ],
                 "college": "College of Liberal Arts & Sciences",
+                "related_majors": [
+                    "Advertising",
+                    "Community Health",
+                    "Social Work",
+                    "Sociology"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$39,986",
+                    "average_salary": 39986,
                     "employer_destinations": [
                         "AbbVie",
                         "Academic Endocrine Metabolism & Nutrition",
@@ -20576,6 +21531,11 @@
                     "Statician"
                 ],
                 "college": "College of Liberal Arts & Sciences",
+                "related_majors": [
+                    "Actuarial Science",
+                    "Mathematics",
+                    "Statistics"
+                ],
                 "post_graduation_success": {
                     "average_salary": "Insufficient survey data is available for average starting annual income.",
                     "employer_destinations": [
@@ -20596,6 +21556,13 @@
                     "Landscape architect"
                 ],
                 "college": "College of Liberal Arts & Sciences",
+                "related_majors": [
+                    "Anthropology",
+                    "Atmospheric Sciences",
+                    "Earth, Society, and Environmental Sustainability",
+                    "Geology",
+                    "Global Studies"
+                ],
                 "post_graduation_success": {
                     "average_salary": "Insufficient survey data is available for average starting annual income.",
                     "employer_destinations": [
@@ -20619,6 +21586,13 @@
                     "Software developer"
                 ],
                 "college": "College of Liberal Arts & Sciences",
+                "related_majors": [
+                    "Communication",
+                    "Creative Writing",
+                    "History",
+                    "Psychology",
+                    "Sociology"
+                ],
                 "post_graduation_success": {
                     "average_salary": "Insufficient survey data is available for average starting annual income.",
                     "employer_destinations": [
@@ -20641,8 +21615,15 @@
                     "Linguistics"
                 ],
                 "college": "College of Liberal Arts & Sciences",
+                "related_majors": [
+                    "Anthropology",
+                    "Communication",
+                    "English",
+                    "History",
+                    "Linguistics"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$42,419",
+                    "average_salary": 42419,
                     "employer_destinations": [
                         "Insufficient survey data is available for sample employer destinations."
                     ],
@@ -20665,6 +21646,13 @@
                     "Teaching"
                 ],
                 "college": "College of Liberal Arts & Sciences",
+                "related_majors": [
+                    "Anthropology",
+                    "Computer Science",
+                    "Computer Science and Linguistics",
+                    "Linguistics",
+                    "Psychology"
+                ],
                 "post_graduation_success": {
                     "average_salary": "Insufficient survey data is available for average starting annual income.",
                     "employer_destinations": [
@@ -20689,6 +21677,13 @@
                     "Technical or professional communication"
                 ],
                 "college": "College of Liberal Arts & Sciences",
+                "related_majors": [
+                    "Elementary Education (Grades 1-6)",
+                    "English",
+                    "Global Studies",
+                    "Psychology",
+                    "Secondary Education"
+                ],
                 "post_graduation_success": {
                     "average_salary": "Insufficient survey data is available for average starting annual income.",
                     "employer_destinations": [
@@ -20712,6 +21707,12 @@
                     "Scientific research"
                 ],
                 "college": "College of Liberal Arts & Sciences",
+                "related_majors": [
+                    "Astronomy",
+                    "Astronomy + Data Science",
+                    "Computer Science and Astronomy",
+                    "Physics"
+                ],
                 "post_graduation_success": {
                     "average_salary": "Insufficient survey data is available for average starting annual income.",
                     "employer_destinations": [
@@ -20735,6 +21736,13 @@
                     "Scientific research"
                 ],
                 "college": "College of Liberal Arts & Sciences",
+                "related_majors": [
+                    "Astronomy",
+                    "Astrophysics",
+                    "Computer Science and Astronomy",
+                    "Information Sciences + Data Science",
+                    "Statistics"
+                ],
                 "post_graduation_success": {
                     "average_salary": "Insufficient survey data is available for average starting annual income.",
                     "employer_destinations": [
@@ -20753,6 +21761,13 @@
                     "This is an explorative path to other academic degrees. career options depend on what program you ultimately choose to pursue."
                 ],
                 "college": "Division of General Studies",
+                "related_majors": [
+                    "ACES Undeclared",
+                    "Art Undeclared ",
+                    "Business Undeclared",
+                    "Engineering Undeclared",
+                    "LAS Undeclared"
+                ],
                 "post_graduation_success": {
                     "average_salary": "Insufficient survey data is available for average starting annual income.",
                     "employer_destinations": [
@@ -20773,8 +21788,13 @@
                     "Rehabilitation & disability studies"
                 ],
                 "college": "College of Applied Health Sciences",
+                "related_majors": [
+                    "Health Sciences, Interdisciplinary ",
+                    "Kinesiology",
+                    "Social Work"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$44,877",
+                    "average_salary": 44877,
                     "employer_destinations": [
                         "Accelerated Physical Therapy",
                         "Accretive Health",
@@ -21047,8 +22067,14 @@
                     "Sports psychology"
                 ],
                 "college": "College of Applied Health Sciences",
+                "related_majors": [
+                    "Community Health",
+                    "Health Sciences, Interdisciplinary ",
+                    "Molecular and Cellular Biology",
+                    "Recreation, Sport and Tourism"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$37,578",
+                    "average_salary": 37578,
                     "employer_destinations": [
                         "Academic Approach",
                         "Aerotek",
@@ -21234,8 +22260,14 @@
                     "Speech-language pathology"
                 ],
                 "college": "College of Applied Health Sciences",
+                "related_majors": [
+                    "Community Health",
+                    "Linguistics",
+                    "Music Voice Performance",
+                    "Special Education"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$29,304",
+                    "average_salary": 29304,
                     "employer_destinations": [
                         "ATI Physical Therapy",
                         "Cantata Adult Life Services",
@@ -21324,8 +22356,13 @@
                     "Tourism management"
                 ],
                 "college": "College of Applied Health Sciences",
+                "related_majors": [
+                    "Management",
+                    "Marketing",
+                    "Natural Resources and Environmental Sciences"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$37,034",
+                    "average_salary": 37034,
                     "employer_destinations": [
                         "Accelerated Center",
                         "ADP",
@@ -21507,8 +22544,15 @@
                     "Health diversity"
                 ],
                 "college": "College of Applied Health Sciences",
+                "related_majors": [
+                    "Chemistry",
+                    "Community Health",
+                    "Integrative Biology",
+                    "Kinesiology",
+                    "Molecular and Cellular Biology"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$37,281",
+                    "average_salary": 37281,
                     "employer_destinations": [
                         "4Life Research",
                         "Advocate Christ Medical Center",
@@ -21620,8 +22664,14 @@
                     "Therapy"
                 ],
                 "college": "School of Social Work",
+                "related_majors": [
+                    "Community Health",
+                    "Gender and Women's Studies",
+                    "Psychology",
+                    "Sociology"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$31,530",
+                    "average_salary": 31530,
                     "employer_destinations": [
                         "Accent Counseling",
                         "Acm care",
@@ -21686,6 +22736,13 @@
                     "Web content analyst"
                 ],
                 "college": "School of Information Sciences",
+                "related_majors": [
+                    "Communication",
+                    "Information Systems",
+                    "Learning and Education Studies",
+                    "Media and Cinema Studies",
+                    "Psychology"
+                ],
                 "post_graduation_success": {
                     "average_salary": "Insufficient survey data is available for average starting annual income.",
                     "employer_destinations": [
@@ -21709,6 +22766,12 @@
                     "Data visualization engineer"
                 ],
                 "college": "School of Information Sciences",
+                "related_majors": [
+                    "Accountancy + Data Science",
+                    "Astronomy + Data Science",
+                    "Finance + Data Science",
+                    "Information Sciences"
+                ],
                 "post_graduation_success": {
                     "average_salary": "Insufficient survey data is available for average starting annual income.",
                     "employer_destinations": [
@@ -21730,6 +22793,7 @@
                     "Motor development"
                 ],
                 "college": "College of Fine & Applied Arts",
+                "related_majors": [],
                 "post_graduation_success": {
                     "average_salary": "Insufficient survey data is available for average starting annual income.",
                     "employer_destinations": [
@@ -21756,8 +22820,15 @@
                     "Public policy & law"
                 ],
                 "college": "College of Agricultural, Consumer & Environmental Sciences",
+                "related_majors": [
+                    "Agri-Accounting",
+                    "Consumer Economics & Finance",
+                    "Farm Management",
+                    "Financial Planning",
+                    "Public Policy & Law"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$51,576",
+                    "average_salary": 51576,
                     "employer_destinations": [
                         "Insufficient survey data is available for sample employer destinations."
                     ],
@@ -21776,8 +22847,13 @@
                     "Organization & community leadership"
                 ],
                 "college": "College of Agricultural, Consumer & Environmental Sciences",
+                "related_majors": [
+                    "Agricultural Education",
+                    "Learning and Education Studies",
+                    "Organizational and Community Leadership"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$47,120",
+                    "average_salary": 47120,
                     "employer_destinations": [
                         "Insufficient survey data is available for sample employer destinations."
                     ],
@@ -21800,8 +22876,15 @@
                     "Elementarymiddle and high school principal"
                 ],
                 "college": "College of Liberal Arts & Sciences",
+                "related_majors": [
+                    "Early Childhood Education (Birth-Grade 2)",
+                    "Elementary Education (Grades 1-6)",
+                    "Learning and Education Studies",
+                    "Middle Grades Education (Grades 5-8)",
+                    "Special Education"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$51,527",
+                    "average_salary": 51527,
                     "employer_destinations": [
                         "Insufficient survey data is available for sample employer destinations."
                     ],
@@ -21824,8 +22907,15 @@
                     "Elementarymiddle and high school principal"
                 ],
                 "college": "College of Liberal Arts & Sciences",
+                "related_majors": [
+                    "Early Childhood Education (Birth-Grade 2)",
+                    "Elementary Education (Grades 1-6)",
+                    "Learning and Education Studies",
+                    "Middle Grades Education (Grades 5-8)",
+                    "Special Education"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$51,527",
+                    "average_salary": 51527,
                     "employer_destinations": [
                         "Insufficient survey data is available for sample employer destinations."
                     ],
@@ -21848,8 +22938,15 @@
                     "Elementarymiddle and high school principal"
                 ],
                 "college": "College of Liberal Arts & Sciences",
+                "related_majors": [
+                    "Early Childhood Education (Birth-Grade 2)",
+                    "Elementary Education (Grades 1-6)",
+                    "Learning and Education Studies",
+                    "Middle Grades Education (Grades 5-8)",
+                    "Special Education"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$51,527",
+                    "average_salary": 51527,
                     "employer_destinations": [
                         "Insufficient survey data is available for sample employer destinations."
                     ],
@@ -21872,8 +22969,15 @@
                     "Elementarymiddle and high school principal"
                 ],
                 "college": "College of Liberal Arts & Sciences",
+                "related_majors": [
+                    "Early Childhood Education (Birth-Grade 2)",
+                    "Elementary Education (Grades 1-6)",
+                    "Learning and Education Studies",
+                    "Middle Grades Education (Grades 5-8)",
+                    "Special Education"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$51,527",
+                    "average_salary": 51527,
                     "employer_destinations": [
                         "Insufficient survey data is available for sample employer destinations."
                     ],
@@ -21896,8 +23000,15 @@
                     "Elementarymiddle and high school principal"
                 ],
                 "college": "College of Liberal Arts & Sciences",
+                "related_majors": [
+                    "Early Childhood Education (Birth-Grade 2)",
+                    "Elementary Education (Grades 1-6)",
+                    "Learning and Education Studies",
+                    "Middle Grades Education (Grades 5-8)",
+                    "Special Education"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$51,527",
+                    "average_salary": 51527,
                     "employer_destinations": [
                         "Insufficient survey data is available for sample employer destinations."
                     ],
@@ -21920,8 +23031,15 @@
                     "Elementarymiddle and high school principal"
                 ],
                 "college": "College of Liberal Arts & Sciences",
+                "related_majors": [
+                    "Early Childhood Education (Birth-Grade 2)",
+                    "Elementary Education (Grades 1-6)",
+                    "Learning and Education Studies",
+                    "Middle Grades Education (Grades 5-8)",
+                    "Special Education"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$51,527",
+                    "average_salary": 51527,
                     "employer_destinations": [
                         "Insufficient survey data is available for sample employer destinations."
                     ],
@@ -21944,8 +23062,15 @@
                     "Elementarymiddle and high school principal"
                 ],
                 "college": "College of Liberal Arts & Sciences",
+                "related_majors": [
+                    "Early Childhood Education (Birth-Grade 2)",
+                    "Elementary Education (Grades 1-6)",
+                    "Learning and Education Studies",
+                    "Middle Grades Education (Grades 5-8)",
+                    "Special Education"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$51,527",
+                    "average_salary": 51527,
                     "employer_destinations": [
                         "Insufficient survey data is available for sample employer destinations."
                     ],
@@ -21968,8 +23093,15 @@
                     "Elementarymiddle and high school principal"
                 ],
                 "college": "College of Liberal Arts & Sciences",
+                "related_majors": [
+                    "Early Childhood Education (Birth-Grade 2)",
+                    "Elementary Education (Grades 1-6)",
+                    "Learning and Education Studies",
+                    "Middle Grades Education (Grades 5-8)",
+                    "Special Education"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$51,527",
+                    "average_salary": 51527,
                     "employer_destinations": [
                         "Insufficient survey data is available for sample employer destinations."
                     ],
@@ -21986,8 +23118,13 @@
                     "Teaching"
                 ],
                 "college": "College of Liberal Arts & Sciences",
+                "related_majors": [
+                    "East Asian Languages and Cultures",
+                    "French",
+                    "Germanic Studies"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$51,527",
+                    "average_salary": 51527,
                     "employer_destinations": [
                         "Insufficient survey data is available for sample employer destinations."
                     ],
@@ -22004,8 +23141,14 @@
                     "Teaching"
                 ],
                 "college": "College of Liberal Arts & Sciences",
+                "related_majors": [
+                    "East Asian Languages and Cultures",
+                    "French",
+                    "Germanic Studies",
+                    "Spanish"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$51,527",
+                    "average_salary": 51527,
                     "employer_destinations": [
                         "Insufficient survey data is available for sample employer destinations."
                     ],
@@ -22022,8 +23165,9 @@
                     "Teaching"
                 ],
                 "college": "College of Applied Health Sciences",
+                "related_majors": [],
                 "post_graduation_success": {
-                    "average_salary": "$40,577",
+                    "average_salary": 40577,
                     "employer_destinations": [
                         "Insufficient survey data is available for sample employer destinations."
                     ],
@@ -22040,8 +23184,14 @@
                     "Teaching"
                 ],
                 "college": "College of Liberal Arts & Sciences",
+                "related_majors": [
+                    "East Asian Languages and Cultures",
+                    "French",
+                    "Germanic Studies",
+                    "Spanish"
+                ],
                 "post_graduation_success": {
-                    "average_salary": "$51,527",
+                    "average_salary": 51527,
                     "employer_destinations": [
                         "Insufficient survey data is available for sample employer destinations."
                     ],

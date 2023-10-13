@@ -3,932 +3,1304 @@
         {
             "id": "animal sciences",
             "label": "Animal Sciences",
-            "level": 1
+            "level": 1,
+            "color": "#0a7200",
+            "salary": 35047
         },
         {
             "id": "crop sciences",
             "label": "Crop Sciences",
-            "level": 1
+            "level": 1,
+            "color": "#218900",
+            "salary": 44932
         },
         {
             "id": "human development and family studies",
             "label": "Human Development and Family Studies",
-            "level": 1
+            "level": 1,
+            "color": "#4C4E52",
+            "salary": "Not Enough Data"
         },
         {
             "id": "natural resources and environmental sciences",
             "label": "Natural Resources and Environmental Sciences",
-            "level": 1
+            "level": 1,
+            "color": "#066d00",
+            "salary": 32944
         },
         {
             "id": "agronomy",
             "label": "Agronomy",
-            "level": 1
+            "level": 1,
+            "color": "#4C4E52",
+            "salary": "Not Enough Data"
         },
         {
             "id": "food science",
             "label": "Food Science",
-            "level": 1
+            "level": 1,
+            "color": "#1f8800",
+            "salary": 44253
         },
         {
             "id": "agri-accounting",
             "label": "Agri-Accounting",
-            "level": 1
+            "level": 1,
+            "color": "#359a00",
+            "salary": 51576
         },
         {
             "id": "farm management",
             "label": "Farm Management",
-            "level": 1
+            "level": 1,
+            "color": "#359a00",
+            "salary": 51576
         },
         {
             "id": "agribusiness, markets & management",
             "label": "Agribusiness, Markets & Management",
-            "level": 1
+            "level": 1,
+            "color": "#359a00",
+            "salary": 51576
         },
         {
             "id": "consumer economics & finance",
             "label": "Consumer Economics & Finance",
-            "level": 1
+            "level": 1,
+            "color": "#359a00",
+            "salary": 51576
         },
         {
             "id": "environmental economics & policy",
             "label": "Environmental Economics & Policy",
-            "level": 1
+            "level": 1,
+            "color": "#359a00",
+            "salary": 51576
         },
         {
             "id": "policy, international trade & development",
             "label": "Policy, International Trade & Development",
-            "level": 1
+            "level": 1,
+            "color": "#359a00",
+            "salary": 51576
         },
         {
             "id": "public policy & law",
             "label": "Public Policy & Law",
-            "level": 1
+            "level": 1,
+            "color": "#359a00",
+            "salary": 51576
         },
         {
             "id": "financial planning",
             "label": "Financial Planning",
-            "level": 1
+            "level": 1,
+            "color": "#359a00",
+            "salary": 51576
         },
         {
             "id": "agricultural and biological engineering (aces)",
             "label": "Agricultural and Biological Engineering (ACES)",
-            "level": 1
+            "level": 1,
+            "color": "#56b000",
+            "salary": 60681
         },
         {
             "id": "finance in agri-business",
             "label": "Finance in Agri-Business",
-            "level": 1
+            "level": 1,
+            "color": "#359a00",
+            "salary": 51576
         },
         {
             "id": "plant biotechnology",
             "label": "Plant Biotechnology",
-            "level": 1
+            "level": 1,
+            "color": "#4C4E52",
+            "salary": "Not Enough Data"
         },
         {
             "id": "aces undeclared",
             "label": "ACES Undeclared",
-            "level": 1
+            "level": 1,
+            "color": "#278f00",
+            "salary": 47120
         },
         {
             "id": "computer science and crop sciences",
             "label": "Computer Science and Crop Sciences",
-            "level": 1
+            "level": 1,
+            "color": "#4C4E52",
+            "salary": "Not Enough Data"
         },
         {
             "id": "agricultural education",
             "label": "Agricultural Education",
-            "level": 1
+            "level": 1,
+            "color": "#278f00",
+            "salary": 47120
         },
         {
             "id": "organizational and community leadership",
             "label": "Organizational and Community Leadership",
-            "level": 1
+            "level": 1,
+            "color": "#278f00",
+            "salary": 47120
         },
         {
             "id": "computer science and animal sciences",
             "label": "Computer Science and Animal Sciences",
-            "level": 1
+            "level": 1,
+            "color": "#4C4E52",
+            "salary": "Not Enough Data"
         },
         {
             "id": "engineering technology and management for agricultural systems",
             "label": "Engineering Technology and Management for Agricultural Systems",
-            "level": 1
+            "level": 1,
+            "color": "#4C4E52",
+            "salary": "Not Enough Data"
         },
         {
             "id": "agricultural communications",
             "label": "Agricultural Communications",
-            "level": 1
+            "level": 1,
+            "color": "#4C4E52",
+            "salary": "Not Enough Data"
         },
         {
             "id": "dietetics and nutrition",
             "label": "Dietetics and Nutrition",
-            "level": 1
+            "level": 1,
+            "color": "#4C4E52",
+            "salary": "Not Enough Data"
         },
         {
             "id": "hospitality management",
             "label": "Hospitality Management",
-            "level": 1
+            "level": 1,
+            "color": "#1f8800",
+            "salary": 44253
         },
         {
             "id": "nutrition and health",
             "label": "Nutrition and Health",
-            "level": 1
+            "level": 1,
+            "color": "#4C4E52",
+            "salary": "Not Enough Data"
         },
         {
             "id": "sustainability in food & environmental systems",
             "label": "Sustainability in Food & Environmental Systems",
-            "level": 1
+            "level": 1,
+            "color": "#4C4E52",
+            "salary": "Not Enough Data"
         },
         {
             "id": "business undeclared",
             "label": "Business Undeclared",
-            "level": 1
+            "level": 1,
+            "color": "#4C4E52",
+            "salary": "Not Enough Data"
         },
         {
             "id": "accountancy",
             "label": "Accountancy",
-            "level": 1
+            "level": 1,
+            "color": "#5cb300",
+            "salary": 62142
         },
         {
             "id": "finance",
             "label": "Finance",
-            "level": 1
+            "level": 1,
+            "color": "#68ba00",
+            "salary": 65053
         },
         {
             "id": "marketing",
             "label": "Marketing",
-            "level": 1
+            "level": 1,
+            "color": "#45a500",
+            "salary": 56125
         },
         {
             "id": "supply chain management",
             "label": "Supply Chain Management",
-            "level": 1
+            "level": 1,
+            "color": "#61b700",
+            "salary": 63420
         },
         {
             "id": "management",
             "label": "Management",
-            "level": 1
+            "level": 1,
+            "color": "#40a200",
+            "salary": 54681
         },
         {
             "id": "information systems",
             "label": "Information Systems",
-            "level": 1
+            "level": 1,
+            "color": "#65b900",
+            "salary": 64602
         },
         {
             "id": "operations management",
             "label": "Operations Management",
-            "level": 1
+            "level": 1,
+            "color": "#56b000",
+            "salary": 60571
         },
         {
             "id": "finance + data science",
             "label": "Finance + Data Science",
-            "level": 1
+            "level": 1,
+            "color": "#4C4E52",
+            "salary": "Not Enough Data"
         },
         {
             "id": "accountancy + data science",
             "label": "Accountancy + Data Science",
-            "level": 1
+            "level": 1,
+            "color": "#4C4E52",
+            "salary": "Not Enough Data"
         },
         {
             "id": "strategy, innovation and entrepreneurship",
             "label": "Strategy, Innovation and Entrepreneurship",
-            "level": 1
+            "level": 1,
+            "color": "#4C4E52",
+            "salary": "Not Enough Data"
         },
         {
             "id": "business + data science",
             "label": "Business + Data Science",
-            "level": 1
+            "level": 1,
+            "color": "#4C4E52",
+            "salary": "Not Enough Data"
         },
         {
             "id": "special education",
             "label": "Special Education",
-            "level": 1
+            "level": 1,
+            "color": "#1d8500",
+            "salary": 43213
         },
         {
             "id": "early childhood education (birth-grade 2)",
             "label": "Early Childhood Education (Birth-Grade 2)",
-            "level": 1
+            "level": 1,
+            "color": "#188100",
+            "salary": 41112
         },
         {
             "id": "elementary education (grades 1-6)",
             "label": "Elementary Education (Grades 1-6)",
-            "level": 1
+            "level": 1,
+            "color": "#157e00",
+            "salary": 40087
         },
         {
             "id": "secondary education: mathematics",
             "label": "Secondary Education: Mathematics",
-            "level": 1
+            "level": 1,
+            "color": "#4C4E52",
+            "salary": "Not Enough Data"
         },
         {
             "id": "learning and education studies",
             "label": "Learning and Education Studies",
-            "level": 1
+            "level": 1,
+            "color": "#188100",
+            "salary": 41112
         },
         {
             "id": "middle grades education (grades 5-8)",
             "label": "Middle Grades Education (Grades 5-8)",
-            "level": 1
+            "level": 1,
+            "color": "#188100",
+            "salary": 41112
         },
         {
             "id": "computer science and education, learning sciences",
             "label": "Computer Science and Education, Learning Sciences",
-            "level": 1
+            "level": 1,
+            "color": "#4C4E52",
+            "salary": "Not Enough Data"
         },
         {
             "id": "computer science and education, secondary education",
             "label": "Computer Science and Education, Secondary Education",
-            "level": 1
+            "level": 1,
+            "color": "#4C4E52",
+            "salary": "Not Enough Data"
         },
         {
             "id": "civil engineering",
             "label": "Civil Engineering",
-            "level": 1
+            "level": 1,
+            "color": "#51ac00",
+            "salary": 59226
         },
         {
             "id": "computer engineering",
             "label": "Computer Engineering",
-            "level": 1
+            "level": 1,
+            "color": "#ddf200",
+            "salary": 88109
         },
         {
             "id": "computer science",
             "label": "Computer Science",
-            "level": 1
+            "level": 1,
+            "color": "#ff0",
+            "salary": 93500
         },
         {
             "id": "electrical engineering",
             "label": "Electrical Engineering",
-            "level": 1
+            "level": 1,
+            "color": "#7fc700",
+            "salary": 70183
         },
         {
             "id": "engineering mechanics",
             "label": "Engineering Mechanics",
-            "level": 1
+            "level": 1,
+            "color": "#70bf00",
+            "salary": 66952
         },
         {
             "id": "industrial engineering",
             "label": "Industrial Engineering",
-            "level": 1
+            "level": 1,
+            "color": "#64b800",
+            "salary": 64216
         },
         {
             "id": "materials science and engineering",
             "label": "Materials Science and Engineering",
-            "level": 1
+            "level": 1,
+            "color": "#60b600",
+            "salary": 63282
         },
         {
             "id": "mechanical engineering",
             "label": "Mechanical Engineering",
-            "level": 1
+            "level": 1,
+            "color": "#6bbc00",
+            "salary": 65785
         },
         {
             "id": "physics",
             "label": "Physics",
-            "level": 1
+            "level": 1,
+            "color": "#5fb500",
+            "salary": 62989
         },
         {
             "id": "bioengineering",
             "label": "Bioengineering",
-            "level": 1
+            "level": 1,
+            "color": "#54af00",
+            "salary": 60237
         },
         {
             "id": "environmental engineering",
             "label": "Environmental Engineering",
-            "level": 1
+            "level": 1,
+            "color": "#4C4E52",
+            "salary": "Not Enough Data"
         },
         {
             "id": "aerospace engineering",
             "label": "Aerospace Engineering",
-            "level": 1
+            "level": 1,
+            "color": "#69bb00",
+            "salary": 65361
         },
         {
             "id": "agricultural and biological engineering (eng)",
             "label": "Agricultural and Biological Engineering (ENG)",
-            "level": 1
+            "level": 1,
+            "color": "#56b000",
+            "salary": 60681
         },
         {
             "id": "nuclear, plasma, and radiological engineering",
             "label": "Nuclear, Plasma, and Radiological Engineering",
-            "level": 1
+            "level": 1,
+            "color": "#63b700",
+            "salary": 63686
         },
         {
             "id": "engineering undeclared",
             "label": "Engineering Undeclared",
-            "level": 1
+            "level": 1,
+            "color": "#4C4E52",
+            "salary": "Not Enough Data"
         },
         {
             "id": "systems engineering and design ",
             "label": "Systems Engineering and Design ",
-            "level": 1
+            "level": 1,
+            "color": "#68ba00",
+            "salary": 65116
         },
         {
             "id": "neural engineering",
             "label": "Neural Engineering",
-            "level": 1
+            "level": 1,
+            "color": "#4C4E52",
+            "salary": "Not Enough Data"
         },
         {
             "id": "computer science and physics",
             "label": "Computer Science and Physics",
-            "level": 1
+            "level": 1,
+            "color": "#4C4E52",
+            "salary": "Not Enough Data"
         },
         {
             "id": "computer science and bioengineering",
             "label": "Computer Science and Bioengineering",
-            "level": 1
+            "level": 1,
+            "color": "#4C4E52",
+            "salary": "Not Enough Data"
         },
         {
             "id": "graphic design",
             "label": "Graphic Design",
-            "level": 1
+            "level": 1,
+            "color": "#9dd600",
+            "salary": 76522
         },
         {
             "id": "landscape architecture ",
             "label": "Landscape Architecture ",
-            "level": 1
+            "level": 1,
+            "color": "#329700",
+            "salary": 50503
         },
         {
             "id": "music voice performance",
             "label": "Music Voice Performance",
-            "level": 1
+            "level": 1,
+            "color": "#329700",
+            "salary": 50503
         },
         {
             "id": "music instrumental performance",
             "label": "Music Instrumental Performance",
-            "level": 1
+            "level": 1,
+            "color": "#329700",
+            "salary": 50503
         },
         {
             "id": "music composition ",
             "label": "Music Composition ",
-            "level": 1
+            "level": 1,
+            "color": "#329700",
+            "salary": 50503
         },
         {
             "id": "music open studies",
             "label": "Music Open Studies",
-            "level": 1
+            "level": 1,
+            "color": "#329700",
+            "salary": 50503
         },
         {
             "id": "music education (k-12)",
             "label": "Music Education (K-12)",
-            "level": 1
+            "level": 1,
+            "color": "#117a00",
+            "salary": 38311
         },
         {
             "id": "art education (k-12)",
             "label": "Art Education (K-12)",
-            "level": 1
+            "level": 1,
+            "color": "#107800",
+            "salary": 37544
         },
         {
             "id": "dance (ba)",
             "label": "Dance (BA)",
-            "level": 1
+            "level": 1,
+            "color": "#4C4E52",
+            "salary": "Not Enough Data"
         },
         {
             "id": "dance (bfa)",
             "label": "Dance (BFA)",
-            "level": 1
+            "level": 1,
+            "color": "#329700",
+            "salary": 50503
         },
         {
             "id": "music",
             "label": "Music",
-            "level": 1
+            "level": 1,
+            "color": "#329700",
+            "salary": 50503
         },
         {
             "id": "musicology",
             "label": "Musicology",
-            "level": 1
+            "level": 1,
+            "color": "#329700",
+            "salary": 50503
         },
         {
             "id": "stage management",
             "label": "Stage Management",
-            "level": 1
+            "level": 1,
+            "color": "#329700",
+            "salary": 50503
         },
         {
             "id": "theatre studies",
             "label": "Theatre Studies",
-            "level": 1
+            "level": 1,
+            "color": "#329700",
+            "salary": 50503
         },
         {
             "id": "acting",
             "label": "Acting",
-            "level": 1
+            "level": 1,
+            "color": "#329700",
+            "salary": 50503
         },
         {
             "id": "costume design and technology",
             "label": "Costume Design and Technology",
-            "level": 1
+            "level": 1,
+            "color": "#329700",
+            "salary": 50503
         },
         {
             "id": "scenic technology",
             "label": "Scenic Technology",
-            "level": 1
+            "level": 1,
+            "color": "#329700",
+            "salary": 50503
         },
         {
             "id": "lighting design and technology ",
             "label": "Lighting Design and Technology ",
-            "level": 1
+            "level": 1,
+            "color": "#329700",
+            "salary": 50503
         },
         {
             "id": "sound design and technology",
             "label": "Sound Design and Technology",
-            "level": 1
+            "level": 1,
+            "color": "#329700",
+            "salary": 50503
         },
         {
             "id": "scenic design",
             "label": "Scenic Design",
-            "level": 1
+            "level": 1,
+            "color": "#329700",
+            "salary": 50503
         },
         {
             "id": "art undeclared ",
             "label": "Art Undeclared ",
-            "level": 1
+            "level": 1,
+            "color": "#4C4E52",
+            "salary": "Not Enough Data"
         },
         {
             "id": "architectural studies",
             "label": "Architectural Studies",
-            "level": 1
+            "level": 1,
+            "color": "#1f8700",
+            "salary": 43828
         },
         {
             "id": "jazz performance",
             "label": "Jazz Performance",
-            "level": 1
+            "level": 1,
+            "color": "#329700",
+            "salary": 50503
         },
         {
             "id": "urban studies and planning",
             "label": "Urban Studies and Planning",
-            "level": 1
+            "level": 1,
+            "color": "#1a8300",
+            "salary": 42173
         },
         {
             "id": "computer science and music",
             "label": "Computer Science and Music",
-            "level": 1
+            "level": 1,
+            "color": "#4C4E52",
+            "salary": "Not Enough Data"
         },
         {
             "id": "lyric theatre",
             "label": "Lyric Theatre",
-            "level": 1
+            "level": 1,
+            "color": "#329700",
+            "salary": 50503
         },
         {
             "id": "studio art (ba)",
             "label": "Studio Art (BA)",
-            "level": 1
+            "level": 1,
+            "color": "#329700",
+            "salary": 50503
         },
         {
             "id": "studio art (bfa)",
             "label": "Studio Art (BFA)",
-            "level": 1
+            "level": 1,
+            "color": "#107800",
+            "salary": 37544
         },
         {
             "id": "art and art history ",
             "label": "Art and Art History ",
-            "level": 1
+            "level": 1,
+            "color": "#329700",
+            "salary": 50503
         },
         {
             "id": "sustainable design",
             "label": "Sustainable Design",
-            "level": 1
+            "level": 1,
+            "color": "#4C4E52",
+            "salary": "Not Enough Data"
         },
         {
             "id": "arts and entertainment technology ",
             "label": "Arts and Entertainment Technology ",
-            "level": 1
+            "level": 1,
+            "color": "#4C4E52",
+            "salary": "Not Enough Data"
         },
         {
             "id": "advertising",
             "label": "Advertising",
-            "level": 1
+            "level": 1,
+            "color": "#1d8500",
+            "salary": 43041
         },
         {
             "id": "journalism",
             "label": "Journalism",
-            "level": 1
+            "level": 1,
+            "color": "#0c7400",
+            "salary": 35828
         },
         {
             "id": "media and cinema studies",
             "label": "Media and Cinema Studies",
-            "level": 1
+            "level": 1,
+            "color": "#0a7100",
+            "salary": 34663
         },
         {
             "id": "computer science and advertising",
             "label": "Computer Science and Advertising",
-            "level": 1
+            "level": 1,
+            "color": "#4C4E52",
+            "salary": "Not Enough Data"
         },
         {
             "id": "economics",
             "label": "Economics",
-            "level": 1
+            "level": 1,
+            "color": "#3c9e00",
+            "salary": 53419
         },
         {
             "id": "history of art",
             "label": "History of Art",
-            "level": 1
+            "level": 1,
+            "color": "#0b7300",
+            "salary": 35560
         },
         {
             "id": "east asian languages and cultures",
             "label": "East Asian Languages and Cultures",
-            "level": 1
+            "level": 1,
+            "color": "#1b8400",
+            "salary": 42419
         },
         {
             "id": "latin american studies",
             "label": "Latin American Studies",
-            "level": 1
+            "level": 1,
+            "color": "#0d7500",
+            "salary": 36509
         },
         {
             "id": "chemical engineering",
             "label": "Chemical Engineering",
-            "level": 1
+            "level": 1,
+            "color": "#80c800",
+            "salary": 70588
         },
         {
             "id": "linguistics",
             "label": "Linguistics",
-            "level": 1
+            "level": 1,
+            "color": "#299000",
+            "salary": 47721
         },
         {
             "id": "french",
             "label": "French",
-            "level": 1
+            "level": 1,
+            "color": "#117a00",
+            "salary": 38242
         },
         {
             "id": "italian",
             "label": "Italian",
-            "level": 1
+            "level": 1,
+            "color": "#1b8400",
+            "salary": 42419
         },
         {
             "id": "portuguese",
             "label": "Portuguese",
-            "level": 1
+            "level": 1,
+            "color": "#1b8400",
+            "salary": 42419
         },
         {
             "id": "spanish",
             "label": "Spanish",
-            "level": 1
+            "level": 1,
+            "color": "#1f8800",
+            "salary": 44043
         },
         {
             "id": "classics",
             "label": "Classics",
-            "level": 1
+            "level": 1,
+            "color": "#1b8400",
+            "salary": 42419
         },
         {
             "id": "english",
             "label": "English",
-            "level": 1
+            "level": 1,
+            "color": "#0e7700",
+            "salary": 37070
         },
         {
             "id": "biology",
             "label": "Biology",
-            "level": 1
+            "level": 1,
+            "color": "#4C4E52",
+            "salary": "Not Enough Data"
         },
         {
             "id": "biochemistry",
             "label": "Biochemistry",
-            "level": 1
+            "level": 1,
+            "color": "#359a00",
+            "salary": 51527
         },
         {
             "id": "neuroscience",
             "label": "Neuroscience",
-            "level": 1
+            "level": 1,
+            "color": "#4C4E52",
+            "salary": "Not Enough Data"
         },
         {
             "id": "statistics",
             "label": "Statistics",
-            "level": 1
+            "level": 1,
+            "color": "#4ca900",
+            "salary": 57962
         },
         {
             "id": "philosophy",
             "label": "Philosophy",
-            "level": 1
+            "level": 1,
+            "color": "#359a00",
+            "salary": 51527
         },
         {
             "id": "astronomy",
             "label": "Astronomy",
-            "level": 1
+            "level": 1,
+            "color": "#4ba900",
+            "salary": 57842
         },
         {
             "id": "atmospheric sciences",
             "label": "Atmospheric Sciences",
-            "level": 1
+            "level": 1,
+            "color": "#4ba900",
+            "salary": 57842
         },
         {
             "id": "chemistry",
             "label": "Chemistry",
-            "level": 1
+            "level": 1,
+            "color": "#248c00",
+            "salary": 45611
         },
         {
             "id": "geology",
             "label": "Geology",
-            "level": 1
+            "level": 1,
+            "color": "#359a00",
+            "salary": 51527
         },
         {
             "id": "anthropology",
             "label": "Anthropology",
-            "level": 1
+            "level": 1,
+            "color": "#278e00",
+            "salary": 46748
         },
         {
             "id": "history",
             "label": "History",
-            "level": 1
+            "level": 1,
+            "color": "#198200",
+            "salary": 41546
         },
         {
             "id": "political science",
             "label": "Political Science",
-            "level": 1
+            "level": 1,
+            "color": "#238b00",
+            "salary": 45463
         },
         {
             "id": "sociology",
             "label": "Sociology",
-            "level": 1
+            "level": 1,
+            "color": "#117a00",
+            "salary": 38493
         },
         {
             "id": "molecular and cellular biology",
             "label": "Molecular and Cellular Biology",
-            "level": 1
+            "level": 1,
+            "color": "#137b00",
+            "salary": 39086
         },
         {
             "id": "integrative biology",
             "label": "Integrative Biology",
-            "level": 1
+            "level": 1,
+            "color": "#0b7300",
+            "salary": 35471
         },
         {
             "id": "mathematics",
             "label": "Mathematics",
-            "level": 1
+            "level": 1,
+            "color": "#54af00",
+            "salary": 60191
         },
         {
             "id": "actuarial science",
             "label": "Actuarial Science",
-            "level": 1
+            "level": 1,
+            "color": "#59b200",
+            "salary": 61563
         },
         {
             "id": "statistics and computer science",
             "label": "Statistics and Computer Science",
-            "level": 1
+            "level": 1,
+            "color": "#d5ef00",
+            "salary": 86661
         },
         {
             "id": "african american studies",
             "label": "African American Studies",
-            "level": 1
+            "level": 1,
+            "color": "#0d7500",
+            "salary": 36509
         },
         {
             "id": "gender and women's studies",
             "label": "Gender and Women's Studies",
-            "level": 1
+            "level": 1,
+            "color": "#0d7500",
+            "salary": 36509
         },
         {
             "id": "germanic studies",
             "label": "Germanic Studies",
-            "level": 1
+            "level": 1,
+            "color": "#1b8400",
+            "salary": 42419
         },
         {
             "id": "mathematics and computer science",
             "label": "Mathematics and Computer Science",
-            "level": 1
+            "level": 1,
+            "color": "#e5f500",
+            "salary": 89187
         },
         {
             "id": "interdisciplinary studies",
             "label": "Interdisciplinary Studies",
-            "level": 1
+            "level": 1,
+            "color": "#359a00",
+            "salary": 51527
         },
         {
             "id": "russian, east european, and eurasian studies",
             "label": "Russian, East European, and Eurasian Studies",
-            "level": 1
+            "level": 1,
+            "color": "#0d7500",
+            "salary": 36509
         },
         {
             "id": "communication",
             "label": "Communication",
-            "level": 1
+            "level": 1,
+            "color": "#208900",
+            "salary": 44534
         },
         {
             "id": "latina/latino studies",
             "label": "Latina/Latino Studies",
-            "level": 1
+            "level": 1,
+            "color": "#0d7500",
+            "salary": 36509
         },
         {
             "id": "religion",
             "label": "Religion",
-            "level": 1
+            "level": 1,
+            "color": "#1b8400",
+            "salary": 42419
         },
         {
             "id": "global studies",
             "label": "Global Studies",
-            "level": 1
+            "level": 1,
+            "color": "#1f8800",
+            "salary": 44179
         },
         {
             "id": "las undeclared",
             "label": "LAS Undeclared",
-            "level": 1
+            "level": 1,
+            "color": "#4C4E52",
+            "salary": "Not Enough Data"
         },
         {
             "id": "earth, society, and environmental sustainability",
             "label": "Earth, Society, and Environmental Sustainability",
-            "level": 1
+            "level": 1,
+            "color": "#278f00",
+            "salary": 46914
         },
         {
             "id": "econometrics and quantitative economics",
             "label": "Econometrics and Quantitative Economics",
-            "level": 1
+            "level": 1,
+            "color": "#359a00",
+            "salary": 51527
         },
         {
             "id": "geography and geographic information science",
             "label": "Geography and Geographic Information Science",
-            "level": 1
+            "level": 1,
+            "color": "#379b00",
+            "salary": 52326
         },
         {
             "id": "creative writing",
             "label": "Creative Writing",
-            "level": 1
+            "level": 1,
+            "color": "#137b00",
+            "salary": 39000
         },
         {
             "id": "computer science and anthropology",
             "label": "Computer Science and Anthropology",
-            "level": 1
+            "level": 1,
+            "color": "#4C4E52",
+            "salary": "Not Enough Data"
         },
         {
             "id": "computer science and astronomy",
             "label": "Computer Science and Astronomy",
-            "level": 1
+            "level": 1,
+            "color": "#4C4E52",
+            "salary": "Not Enough Data"
         },
         {
             "id": "computer science and chemistry",
             "label": "Computer Science and Chemistry",
-            "level": 1
+            "level": 1,
+            "color": "#4C4E52",
+            "salary": "Not Enough Data"
         },
         {
             "id": "computer science and linguistics",
             "label": "Computer Science and Linguistics",
-            "level": 1
+            "level": 1,
+            "color": "#d9f000",
+            "salary": 87450
         },
         {
             "id": "slavic studies",
             "label": "Slavic Studies",
-            "level": 1
+            "level": 1,
+            "color": "#0d7500",
+            "salary": 36509
         },
         {
             "id": "asian american studies",
             "label": "Asian American Studies",
-            "level": 1
+            "level": 1,
+            "color": "#359a00",
+            "salary": 51527
         },
         {
             "id": "psychology",
             "label": "Psychology",
-            "level": 1
+            "level": 1,
+            "color": "#157e00",
+            "salary": 39986
         },
         {
             "id": "computer science and economics ",
             "label": "Computer Science and Economics ",
-            "level": 1
+            "level": 1,
+            "color": "#4C4E52",
+            "salary": "Not Enough Data"
         },
         {
             "id": "computer science and geography & geographic information science",
             "label": "Computer Science and Geography & Geographic Information Science",
-            "level": 1
+            "level": 1,
+            "color": "#4C4E52",
+            "salary": "Not Enough Data"
         },
         {
             "id": "computer science and philosophy",
             "label": "Computer Science and Philosophy",
-            "level": 1
+            "level": 1,
+            "color": "#4C4E52",
+            "salary": "Not Enough Data"
         },
         {
             "id": "comparative and world literature",
             "label": "Comparative and World Literature",
-            "level": 1
+            "level": 1,
+            "color": "#1b8400",
+            "salary": 42419
         },
         {
             "id": "brain and cognitive science",
             "label": "Brain and Cognitive Science",
-            "level": 1
+            "level": 1,
+            "color": "#4C4E52",
+            "salary": "Not Enough Data"
         },
         {
             "id": "linguistics and teaching english as a second language",
             "label": "Linguistics and Teaching English as a Second Language",
-            "level": 1
+            "level": 1,
+            "color": "#4C4E52",
+            "salary": "Not Enough Data"
         },
         {
             "id": "astrophysics",
             "label": "Astrophysics",
-            "level": 1
+            "level": 1,
+            "color": "#4C4E52",
+            "salary": "Not Enough Data"
         },
         {
             "id": "astronomy + data science",
             "label": "Astronomy + Data Science",
-            "level": 1
+            "level": 1,
+            "color": "#4C4E52",
+            "salary": "Not Enough Data"
         },
         {
             "id": "undeclared",
             "label": "Undeclared",
-            "level": 1
+            "level": 1,
+            "color": "#4C4E52",
+            "salary": "Not Enough Data"
         },
         {
             "id": "community health",
             "label": "Community Health",
-            "level": 1
+            "level": 1,
+            "color": "#218900",
+            "salary": 44877
         },
         {
             "id": "kinesiology",
             "label": "Kinesiology",
-            "level": 1
+            "level": 1,
+            "color": "#107800",
+            "salary": 37578
         },
         {
             "id": "speech and hearing science",
             "label": "Speech and Hearing Science",
-            "level": 1
+            "level": 1,
+            "color": "#006400",
+            "salary": 29304
         },
         {
             "id": "recreation, sport and tourism",
             "label": "Recreation, Sport and Tourism",
-            "level": 1
+            "level": 1,
+            "color": "#0e7700",
+            "salary": 37034
         },
         {
             "id": "health sciences, interdisciplinary ",
             "label": "Health Sciences, Interdisciplinary ",
-            "level": 1
+            "level": 1,
+            "color": "#0f7700",
+            "salary": 37281
         },
         {
             "id": "social work",
             "label": "Social Work",
-            "level": 1
+            "level": 1,
+            "color": "#046900",
+            "salary": 31530
         },
         {
             "id": "information sciences",
             "label": "Information Sciences",
-            "level": 1
+            "level": 1,
+            "color": "#4C4E52",
+            "salary": "Not Enough Data"
         },
         {
             "id": "information sciences + data science",
             "label": "Information Sciences + Data Science",
-            "level": 1
+            "level": 1,
+            "color": "#4C4E52",
+            "salary": "Not Enough Data"
         },
         {
             "id": "dance, ba and kinesiology, bs (dual degree program)",
             "label": "Dance, BA and Kinesiology, BS (Dual Degree Program)",
-            "level": 1
+            "level": 1,
+            "color": "#4C4E52",
+            "salary": "Not Enough Data"
         },
         {
             "id": "agricultural and consumer economics",
             "label": "Agricultural and Consumer Economics",
-            "level": 1
+            "level": 1,
+            "color": "#359a00",
+            "salary": 51576
         },
         {
             "id": "agricultural leadership, education, and communications",
             "label": "Agricultural Leadership, Education, and Communications",
-            "level": 1
+            "level": 1,
+            "color": "#278f00",
+            "salary": 47120
         },
         {
             "id": "secondary education",
             "label": "Secondary Education",
-            "level": 1
+            "level": 1,
+            "color": "#359a00",
+            "salary": 51527
         },
         {
             "id": "secondary education: biology",
             "label": "Secondary Education: Biology",
-            "level": 1
+            "level": 1,
+            "color": "#359a00",
+            "salary": 51527
         },
         {
             "id": "secondary education: chemistry",
             "label": "Secondary Education: Chemistry",
-            "level": 1
+            "level": 1,
+            "color": "#359a00",
+            "salary": 51527
         },
         {
             "id": "secondary education: english ",
             "label": "Secondary Education: English ",
-            "level": 1
+            "level": 1,
+            "color": "#359a00",
+            "salary": 51527
         },
         {
             "id": "secondary education: earth science",
             "label": "Secondary Education: Earth Science",
-            "level": 1
+            "level": 1,
+            "color": "#359a00",
+            "salary": 51527
         },
         {
             "id": "secondary education: mathematics (las)",
             "label": "Secondary Education: Mathematics (LAS)",
-            "level": 1
+            "level": 1,
+            "color": "#359a00",
+            "salary": 51527
         },
         {
             "id": "secondary education: physics",
             "label": "Secondary Education: Physics",
-            "level": 1
+            "level": 1,
+            "color": "#359a00",
+            "salary": 51527
         },
         {
             "id": "secondary education: social studies",
             "label": "Secondary Education: Social Studies",
-            "level": 1
+            "level": 1,
+            "color": "#359a00",
+            "salary": 51527
         },
         {
             "id": "teacher education: french (k-12)",
             "label": "Teacher Education: French (K-12)",
-            "level": 1
+            "level": 1,
+            "color": "#359a00",
+            "salary": 51527
         },
         {
             "id": "teacher education: german (k-12)",
             "label": "Teacher Education: German (K-12)",
-            "level": 1
+            "level": 1,
+            "color": "#359a00",
+            "salary": 51527
         },
         {
             "id": "teacher education: kinesiology - physical education (k-12)",
             "label": "Teacher Education: Kinesiology - Physical Education (K-12)",
-            "level": 1
+            "level": 1,
+            "color": "#167f00",
+            "salary": 40577
         },
         {
             "id": "teacher education: spanish (k-12)",
             "label": "Teacher Education: Spanish (K-12)",
-            "level": 1
+            "level": 1,
+            "color": "#359a00",
+            "salary": 51527
         },
         {
             "id": "a.t. still university of health sciences",
