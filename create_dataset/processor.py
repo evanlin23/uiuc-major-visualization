@@ -108,6 +108,9 @@ with open("index.html", "r") as input:
                 if average_salary_elem
                 else ""
             )
+            average_salary = average_salary.replace("$", "")
+            average_salary = average_salary.replace(",", "")
+            average_salary = int(average_salary)
 
         else:
             employed_or_continuing_education = ""
