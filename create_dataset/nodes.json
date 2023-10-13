@@ -5,1302 +5,1488 @@
             "label": "Animal Sciences",
             "level": 1,
             "color": "#0a7200",
-            "salary": 35047
+            "salary": 35047,
+            "college": "College of Agricultural, Consumer & Environmental Sciences"
         },
         {
             "id": "crop sciences",
             "label": "Crop Sciences",
             "level": 1,
             "color": "#218900",
-            "salary": 44932
+            "salary": 44932,
+            "college": "College of Agricultural, Consumer & Environmental Sciences"
         },
         {
             "id": "human development and family studies",
             "label": "Human Development and Family Studies",
             "level": 1,
             "color": "#4C4E52",
-            "salary": "Not Enough Data"
+            "salary": "Not Enough Data",
+            "college": "College of Agricultural, Consumer & Environmental Sciences"
         },
         {
             "id": "natural resources and environmental sciences",
             "label": "Natural Resources and Environmental Sciences",
             "level": 1,
             "color": "#066d00",
-            "salary": 32944
+            "salary": 32944,
+            "college": "College of Agricultural, Consumer & Environmental Sciences"
         },
         {
             "id": "agronomy",
             "label": "Agronomy",
             "level": 1,
             "color": "#4C4E52",
-            "salary": "Not Enough Data"
+            "salary": "Not Enough Data",
+            "college": "College of Agricultural, Consumer & Environmental Sciences"
         },
         {
             "id": "food science",
             "label": "Food Science",
             "level": 1,
             "color": "#1f8800",
-            "salary": 44253
+            "salary": 44253,
+            "college": "College of Agricultural, Consumer & Environmental Sciences"
         },
         {
             "id": "agri-accounting",
             "label": "Agri-Accounting",
             "level": 1,
             "color": "#359a00",
-            "salary": 51576
+            "salary": 51576,
+            "college": "College of Agricultural, Consumer & Environmental Sciences"
         },
         {
             "id": "farm management",
             "label": "Farm Management",
             "level": 1,
             "color": "#359a00",
-            "salary": 51576
+            "salary": 51576,
+            "college": "College of Agricultural, Consumer & Environmental Sciences"
         },
         {
             "id": "agribusiness, markets & management",
             "label": "Agribusiness, Markets & Management",
             "level": 1,
             "color": "#359a00",
-            "salary": 51576
+            "salary": 51576,
+            "college": "College of Agricultural, Consumer & Environmental Sciences"
         },
         {
             "id": "consumer economics & finance",
             "label": "Consumer Economics & Finance",
             "level": 1,
             "color": "#359a00",
-            "salary": 51576
+            "salary": 51576,
+            "college": "College of Agricultural, Consumer & Environmental Sciences"
         },
         {
             "id": "environmental economics & policy",
             "label": "Environmental Economics & Policy",
             "level": 1,
             "color": "#359a00",
-            "salary": 51576
+            "salary": 51576,
+            "college": "College of Agricultural, Consumer & Environmental Sciences"
         },
         {
             "id": "policy, international trade & development",
             "label": "Policy, International Trade & Development",
             "level": 1,
             "color": "#359a00",
-            "salary": 51576
+            "salary": 51576,
+            "college": "College of Agricultural, Consumer & Environmental Sciences"
         },
         {
             "id": "public policy & law",
             "label": "Public Policy & Law",
             "level": 1,
             "color": "#359a00",
-            "salary": 51576
+            "salary": 51576,
+            "college": "College of Agricultural, Consumer & Environmental Sciences"
         },
         {
             "id": "financial planning",
             "label": "Financial Planning",
             "level": 1,
             "color": "#359a00",
-            "salary": 51576
+            "salary": 51576,
+            "college": "College of Agricultural, Consumer & Environmental Sciences"
         },
         {
             "id": "agricultural and biological engineering (aces)",
             "label": "Agricultural and Biological Engineering (ACES)",
             "level": 1,
             "color": "#56b000",
-            "salary": 60681
+            "salary": 60681,
+            "college": "College of Agricultural, Consumer & Environmental Sciences"
         },
         {
             "id": "finance in agri-business",
             "label": "Finance in Agri-Business",
             "level": 1,
             "color": "#359a00",
-            "salary": 51576
+            "salary": 51576,
+            "college": "College of Agricultural, Consumer & Environmental Sciences"
         },
         {
             "id": "plant biotechnology",
             "label": "Plant Biotechnology",
             "level": 1,
             "color": "#4C4E52",
-            "salary": "Not Enough Data"
+            "salary": "Not Enough Data",
+            "college": "College of Agricultural, Consumer & Environmental Sciences"
         },
         {
             "id": "aces undeclared",
             "label": "ACES Undeclared",
             "level": 1,
             "color": "#278f00",
-            "salary": 47120
+            "salary": 47120,
+            "college": "College of Agricultural, Consumer & Environmental Sciences"
         },
         {
             "id": "computer science and crop sciences",
             "label": "Computer Science and Crop Sciences",
             "level": 1,
             "color": "#4C4E52",
-            "salary": "Not Enough Data"
+            "salary": "Not Enough Data",
+            "college": "College of Agricultural, Consumer & Environmental Sciences"
         },
         {
             "id": "agricultural education",
             "label": "Agricultural Education",
             "level": 1,
             "color": "#278f00",
-            "salary": 47120
+            "salary": 47120,
+            "college": "College of Agricultural, Consumer & Environmental Sciences"
         },
         {
             "id": "organizational and community leadership",
             "label": "Organizational and Community Leadership",
             "level": 1,
             "color": "#278f00",
-            "salary": 47120
+            "salary": 47120,
+            "college": "College of Agricultural, Consumer & Environmental Sciences"
         },
         {
             "id": "computer science and animal sciences",
             "label": "Computer Science and Animal Sciences",
             "level": 1,
             "color": "#4C4E52",
-            "salary": "Not Enough Data"
+            "salary": "Not Enough Data",
+            "college": "College of Agricultural, Consumer & Environmental Sciences"
         },
         {
             "id": "engineering technology and management for agricultural systems",
             "label": "Engineering Technology and Management for Agricultural Systems",
             "level": 1,
             "color": "#4C4E52",
-            "salary": "Not Enough Data"
+            "salary": "Not Enough Data",
+            "college": "College of Agricultural, Consumer & Environmental Sciences"
         },
         {
             "id": "agricultural communications",
             "label": "Agricultural Communications",
             "level": 1,
             "color": "#4C4E52",
-            "salary": "Not Enough Data"
+            "salary": "Not Enough Data",
+            "college": "College of Agricultural, Consumer & Environmental Sciences"
         },
         {
             "id": "dietetics and nutrition",
             "label": "Dietetics and Nutrition",
             "level": 1,
             "color": "#4C4E52",
-            "salary": "Not Enough Data"
+            "salary": "Not Enough Data",
+            "college": "College of Agricultural, Consumer & Environmental Sciences"
         },
         {
             "id": "hospitality management",
             "label": "Hospitality Management",
             "level": 1,
             "color": "#1f8800",
-            "salary": 44253
+            "salary": 44253,
+            "college": "College of Agricultural, Consumer & Environmental Sciences"
         },
         {
             "id": "nutrition and health",
             "label": "Nutrition and Health",
             "level": 1,
             "color": "#4C4E52",
-            "salary": "Not Enough Data"
+            "salary": "Not Enough Data",
+            "college": "College of Agricultural, Consumer & Environmental Sciences"
         },
         {
             "id": "sustainability in food & environmental systems",
             "label": "Sustainability in Food & Environmental Systems",
             "level": 1,
             "color": "#4C4E52",
-            "salary": "Not Enough Data"
+            "salary": "Not Enough Data",
+            "college": "College of Agricultural, Consumer & Environmental Sciences"
         },
         {
             "id": "business undeclared",
             "label": "Business Undeclared",
             "level": 1,
             "color": "#4C4E52",
-            "salary": "Not Enough Data"
+            "salary": "Not Enough Data",
+            "college": "Gies College of Business"
         },
         {
             "id": "accountancy",
             "label": "Accountancy",
             "level": 1,
             "color": "#5cb300",
-            "salary": 62142
+            "salary": 62142,
+            "college": "Gies College of Business"
         },
         {
             "id": "finance",
             "label": "Finance",
             "level": 1,
             "color": "#68ba00",
-            "salary": 65053
+            "salary": 65053,
+            "college": "Gies College of Business"
         },
         {
             "id": "marketing",
             "label": "Marketing",
             "level": 1,
             "color": "#45a500",
-            "salary": 56125
+            "salary": 56125,
+            "college": "Gies College of Business"
         },
         {
             "id": "supply chain management",
             "label": "Supply Chain Management",
             "level": 1,
             "color": "#61b700",
-            "salary": 63420
+            "salary": 63420,
+            "college": "Gies College of Business"
         },
         {
             "id": "management",
             "label": "Management",
             "level": 1,
             "color": "#40a200",
-            "salary": 54681
+            "salary": 54681,
+            "college": "Gies College of Business"
         },
         {
             "id": "information systems",
             "label": "Information Systems",
             "level": 1,
             "color": "#65b900",
-            "salary": 64602
+            "salary": 64602,
+            "college": "Gies College of Business"
         },
         {
             "id": "operations management",
             "label": "Operations Management",
             "level": 1,
             "color": "#56b000",
-            "salary": 60571
+            "salary": 60571,
+            "college": "Gies College of Business"
         },
         {
             "id": "finance + data science",
             "label": "Finance + Data Science",
             "level": 1,
             "color": "#4C4E52",
-            "salary": "Not Enough Data"
+            "salary": "Not Enough Data",
+            "college": "Gies College of Business"
         },
         {
             "id": "accountancy + data science",
             "label": "Accountancy + Data Science",
             "level": 1,
             "color": "#4C4E52",
-            "salary": "Not Enough Data"
+            "salary": "Not Enough Data",
+            "college": "Gies College of Business"
         },
         {
             "id": "strategy, innovation and entrepreneurship",
             "label": "Strategy, Innovation and Entrepreneurship",
             "level": 1,
             "color": "#4C4E52",
-            "salary": "Not Enough Data"
+            "salary": "Not Enough Data",
+            "college": "Gies College of Business"
         },
         {
             "id": "business + data science",
             "label": "Business + Data Science",
             "level": 1,
             "color": "#4C4E52",
-            "salary": "Not Enough Data"
+            "salary": "Not Enough Data",
+            "college": "Gies College of Business"
         },
         {
             "id": "special education",
             "label": "Special Education",
             "level": 1,
             "color": "#1d8500",
-            "salary": 43213
+            "salary": 43213,
+            "college": "College of Education"
         },
         {
             "id": "early childhood education (birth-grade 2)",
             "label": "Early Childhood Education (Birth-Grade 2)",
             "level": 1,
             "color": "#188100",
-            "salary": 41112
+            "salary": 41112,
+            "college": "College of Education"
         },
         {
             "id": "elementary education (grades 1-6)",
             "label": "Elementary Education (Grades 1-6)",
             "level": 1,
             "color": "#157e00",
-            "salary": 40087
+            "salary": 40087,
+            "college": "College of Education"
         },
         {
             "id": "secondary education: mathematics",
             "label": "Secondary Education: Mathematics",
             "level": 1,
             "color": "#4C4E52",
-            "salary": "Not Enough Data"
+            "salary": "Not Enough Data",
+            "college": "College of Education"
         },
         {
             "id": "learning and education studies",
             "label": "Learning and Education Studies",
             "level": 1,
             "color": "#188100",
-            "salary": 41112
+            "salary": 41112,
+            "college": "College of Education"
         },
         {
             "id": "middle grades education (grades 5-8)",
             "label": "Middle Grades Education (Grades 5-8)",
             "level": 1,
             "color": "#188100",
-            "salary": 41112
+            "salary": 41112,
+            "college": "College of Education"
         },
         {
             "id": "computer science and education, learning sciences",
             "label": "Computer Science and Education, Learning Sciences",
             "level": 1,
             "color": "#4C4E52",
-            "salary": "Not Enough Data"
+            "salary": "Not Enough Data",
+            "college": "College of Education"
         },
         {
             "id": "computer science and education, secondary education",
             "label": "Computer Science and Education, Secondary Education",
             "level": 1,
             "color": "#4C4E52",
-            "salary": "Not Enough Data"
+            "salary": "Not Enough Data",
+            "college": "College of Education"
         },
         {
             "id": "civil engineering",
             "label": "Civil Engineering",
             "level": 1,
             "color": "#51ac00",
-            "salary": 59226
+            "salary": 59226,
+            "college": "Grainger College of Engineering"
         },
         {
             "id": "computer engineering",
             "label": "Computer Engineering",
             "level": 1,
             "color": "#ddf200",
-            "salary": 88109
+            "salary": 88109,
+            "college": "Grainger College of Engineering"
         },
         {
             "id": "computer science",
             "label": "Computer Science",
             "level": 1,
             "color": "#ff0",
-            "salary": 93500
+            "salary": 93500,
+            "college": "Grainger College of Engineering"
         },
         {
             "id": "electrical engineering",
             "label": "Electrical Engineering",
             "level": 1,
             "color": "#7fc700",
-            "salary": 70183
+            "salary": 70183,
+            "college": "Grainger College of Engineering"
         },
         {
             "id": "engineering mechanics",
             "label": "Engineering Mechanics",
             "level": 1,
             "color": "#70bf00",
-            "salary": 66952
+            "salary": 66952,
+            "college": "Grainger College of Engineering"
         },
         {
             "id": "industrial engineering",
             "label": "Industrial Engineering",
             "level": 1,
             "color": "#64b800",
-            "salary": 64216
+            "salary": 64216,
+            "college": "Grainger College of Engineering"
         },
         {
             "id": "materials science and engineering",
             "label": "Materials Science and Engineering",
             "level": 1,
             "color": "#60b600",
-            "salary": 63282
+            "salary": 63282,
+            "college": "Grainger College of Engineering"
         },
         {
             "id": "mechanical engineering",
             "label": "Mechanical Engineering",
             "level": 1,
             "color": "#6bbc00",
-            "salary": 65785
+            "salary": 65785,
+            "college": "Grainger College of Engineering"
         },
         {
             "id": "physics",
             "label": "Physics",
             "level": 1,
             "color": "#5fb500",
-            "salary": 62989
+            "salary": 62989,
+            "college": "Grainger College of Engineering"
         },
         {
             "id": "bioengineering",
             "label": "Bioengineering",
             "level": 1,
             "color": "#54af00",
-            "salary": 60237
+            "salary": 60237,
+            "college": "Grainger College of Engineering"
         },
         {
             "id": "environmental engineering",
             "label": "Environmental Engineering",
             "level": 1,
             "color": "#4C4E52",
-            "salary": "Not Enough Data"
+            "salary": "Not Enough Data",
+            "college": "Grainger College of Engineering"
         },
         {
             "id": "aerospace engineering",
             "label": "Aerospace Engineering",
             "level": 1,
             "color": "#69bb00",
-            "salary": 65361
+            "salary": 65361,
+            "college": "Grainger College of Engineering"
         },
         {
             "id": "agricultural and biological engineering (eng)",
             "label": "Agricultural and Biological Engineering (ENG)",
             "level": 1,
             "color": "#56b000",
-            "salary": 60681
+            "salary": 60681,
+            "college": "Grainger College of Engineering"
         },
         {
             "id": "nuclear, plasma, and radiological engineering",
             "label": "Nuclear, Plasma, and Radiological Engineering",
             "level": 1,
             "color": "#63b700",
-            "salary": 63686
+            "salary": 63686,
+            "college": "Grainger College of Engineering"
         },
         {
             "id": "engineering undeclared",
             "label": "Engineering Undeclared",
             "level": 1,
             "color": "#4C4E52",
-            "salary": "Not Enough Data"
+            "salary": "Not Enough Data",
+            "college": "Grainger College of Engineering"
         },
         {
             "id": "systems engineering and design ",
             "label": "Systems Engineering and Design ",
             "level": 1,
             "color": "#68ba00",
-            "salary": 65116
+            "salary": 65116,
+            "college": "Grainger College of Engineering"
         },
         {
             "id": "neural engineering",
             "label": "Neural Engineering",
             "level": 1,
             "color": "#4C4E52",
-            "salary": "Not Enough Data"
+            "salary": "Not Enough Data",
+            "college": "Grainger College of Engineering"
         },
         {
             "id": "computer science and physics",
             "label": "Computer Science and Physics",
             "level": 1,
             "color": "#4C4E52",
-            "salary": "Not Enough Data"
+            "salary": "Not Enough Data",
+            "college": "Grainger College of Engineering"
         },
         {
             "id": "computer science and bioengineering",
             "label": "Computer Science and Bioengineering",
             "level": 1,
             "color": "#4C4E52",
-            "salary": "Not Enough Data"
+            "salary": "Not Enough Data",
+            "college": "Grainger College of Engineering"
         },
         {
             "id": "graphic design",
             "label": "Graphic Design",
             "level": 1,
             "color": "#9dd600",
-            "salary": 76522
+            "salary": 76522,
+            "college": "College of Fine & Applied Arts"
         },
         {
             "id": "landscape architecture ",
             "label": "Landscape Architecture ",
             "level": 1,
             "color": "#329700",
-            "salary": 50503
+            "salary": 50503,
+            "college": "College of Fine & Applied Arts"
         },
         {
             "id": "music voice performance",
             "label": "Music Voice Performance",
             "level": 1,
             "color": "#329700",
-            "salary": 50503
+            "salary": 50503,
+            "college": "College of Fine & Applied Arts"
         },
         {
             "id": "music instrumental performance",
             "label": "Music Instrumental Performance",
             "level": 1,
             "color": "#329700",
-            "salary": 50503
+            "salary": 50503,
+            "college": "College of Fine & Applied Arts"
         },
         {
             "id": "music composition ",
             "label": "Music Composition ",
             "level": 1,
             "color": "#329700",
-            "salary": 50503
+            "salary": 50503,
+            "college": "College of Fine & Applied Arts"
         },
         {
             "id": "music open studies",
             "label": "Music Open Studies",
             "level": 1,
             "color": "#329700",
-            "salary": 50503
+            "salary": 50503,
+            "college": "College of Fine & Applied Arts"
         },
         {
             "id": "music education (k-12)",
             "label": "Music Education (K-12)",
             "level": 1,
             "color": "#117a00",
-            "salary": 38311
+            "salary": 38311,
+            "college": "College of Fine & Applied Arts"
         },
         {
             "id": "art education (k-12)",
             "label": "Art Education (K-12)",
             "level": 1,
             "color": "#107800",
-            "salary": 37544
+            "salary": 37544,
+            "college": "College of Fine & Applied Arts"
         },
         {
             "id": "dance (ba)",
             "label": "Dance (BA)",
             "level": 1,
             "color": "#4C4E52",
-            "salary": "Not Enough Data"
+            "salary": "Not Enough Data",
+            "college": "College of Fine & Applied Arts"
         },
         {
             "id": "dance (bfa)",
             "label": "Dance (BFA)",
             "level": 1,
             "color": "#329700",
-            "salary": 50503
+            "salary": 50503,
+            "college": "College of Fine & Applied Arts"
         },
         {
             "id": "music",
             "label": "Music",
             "level": 1,
             "color": "#329700",
-            "salary": 50503
+            "salary": 50503,
+            "college": "College of Fine & Applied Arts"
         },
         {
             "id": "musicology",
             "label": "Musicology",
             "level": 1,
             "color": "#329700",
-            "salary": 50503
+            "salary": 50503,
+            "college": "College of Fine & Applied Arts"
         },
         {
             "id": "stage management",
             "label": "Stage Management",
             "level": 1,
             "color": "#329700",
-            "salary": 50503
+            "salary": 50503,
+            "college": "College of Fine & Applied Arts"
         },
         {
             "id": "theatre studies",
             "label": "Theatre Studies",
             "level": 1,
             "color": "#329700",
-            "salary": 50503
+            "salary": 50503,
+            "college": "College of Fine & Applied Arts"
         },
         {
             "id": "acting",
             "label": "Acting",
             "level": 1,
             "color": "#329700",
-            "salary": 50503
+            "salary": 50503,
+            "college": "College of Fine & Applied Arts"
         },
         {
             "id": "costume design and technology",
             "label": "Costume Design and Technology",
             "level": 1,
             "color": "#329700",
-            "salary": 50503
+            "salary": 50503,
+            "college": "College of Fine & Applied Arts"
         },
         {
             "id": "scenic technology",
             "label": "Scenic Technology",
             "level": 1,
             "color": "#329700",
-            "salary": 50503
+            "salary": 50503,
+            "college": "College of Fine & Applied Arts"
         },
         {
             "id": "lighting design and technology ",
             "label": "Lighting Design and Technology ",
             "level": 1,
             "color": "#329700",
-            "salary": 50503
+            "salary": 50503,
+            "college": "College of Fine & Applied Arts"
         },
         {
             "id": "sound design and technology",
             "label": "Sound Design and Technology",
             "level": 1,
             "color": "#329700",
-            "salary": 50503
+            "salary": 50503,
+            "college": "College of Fine & Applied Arts"
         },
         {
             "id": "scenic design",
             "label": "Scenic Design",
             "level": 1,
             "color": "#329700",
-            "salary": 50503
+            "salary": 50503,
+            "college": "College of Fine & Applied Arts"
         },
         {
             "id": "art undeclared ",
             "label": "Art Undeclared ",
             "level": 1,
             "color": "#4C4E52",
-            "salary": "Not Enough Data"
+            "salary": "Not Enough Data",
+            "college": "College of Fine & Applied Arts"
         },
         {
             "id": "architectural studies",
             "label": "Architectural Studies",
             "level": 1,
             "color": "#1f8700",
-            "salary": 43828
+            "salary": 43828,
+            "college": "College of Fine & Applied Arts"
         },
         {
             "id": "jazz performance",
             "label": "Jazz Performance",
             "level": 1,
             "color": "#329700",
-            "salary": 50503
+            "salary": 50503,
+            "college": "College of Fine & Applied Arts"
         },
         {
             "id": "urban studies and planning",
             "label": "Urban Studies and Planning",
             "level": 1,
             "color": "#1a8300",
-            "salary": 42173
+            "salary": 42173,
+            "college": "College of Fine & Applied Arts"
         },
         {
             "id": "computer science and music",
             "label": "Computer Science and Music",
             "level": 1,
             "color": "#4C4E52",
-            "salary": "Not Enough Data"
+            "salary": "Not Enough Data",
+            "college": "College of Fine & Applied Arts"
         },
         {
             "id": "lyric theatre",
             "label": "Lyric Theatre",
             "level": 1,
             "color": "#329700",
-            "salary": 50503
+            "salary": 50503,
+            "college": "College of Fine & Applied Arts"
         },
         {
             "id": "studio art (ba)",
             "label": "Studio Art (BA)",
             "level": 1,
             "color": "#329700",
-            "salary": 50503
+            "salary": 50503,
+            "college": "College of Fine & Applied Arts"
         },
         {
             "id": "studio art (bfa)",
             "label": "Studio Art (BFA)",
             "level": 1,
             "color": "#107800",
-            "salary": 37544
+            "salary": 37544,
+            "college": "College of Fine & Applied Arts"
         },
         {
             "id": "art and art history ",
             "label": "Art and Art History ",
             "level": 1,
             "color": "#329700",
-            "salary": 50503
+            "salary": 50503,
+            "college": "College of Fine & Applied Arts"
         },
         {
             "id": "sustainable design",
             "label": "Sustainable Design",
             "level": 1,
             "color": "#4C4E52",
-            "salary": "Not Enough Data"
+            "salary": "Not Enough Data",
+            "college": "College of Fine & Applied Arts"
         },
         {
             "id": "arts and entertainment technology ",
             "label": "Arts and Entertainment Technology ",
             "level": 1,
             "color": "#4C4E52",
-            "salary": "Not Enough Data"
+            "salary": "Not Enough Data",
+            "college": "College of Fine & Applied Arts"
         },
         {
             "id": "advertising",
             "label": "Advertising",
             "level": 1,
             "color": "#1d8500",
-            "salary": 43041
+            "salary": 43041,
+            "college": "College of Media"
         },
         {
             "id": "journalism",
             "label": "Journalism",
             "level": 1,
             "color": "#0c7400",
-            "salary": 35828
+            "salary": 35828,
+            "college": "College of Media"
         },
         {
             "id": "media and cinema studies",
             "label": "Media and Cinema Studies",
             "level": 1,
             "color": "#0a7100",
-            "salary": 34663
+            "salary": 34663,
+            "college": "College of Media"
         },
         {
             "id": "computer science and advertising",
             "label": "Computer Science and Advertising",
             "level": 1,
             "color": "#4C4E52",
-            "salary": "Not Enough Data"
+            "salary": "Not Enough Data",
+            "college": "College of Media"
         },
         {
             "id": "economics",
             "label": "Economics",
             "level": 1,
             "color": "#3c9e00",
-            "salary": 53419
+            "salary": 53419,
+            "college": "College of Liberal Arts & Sciences"
         },
         {
             "id": "history of art",
             "label": "History of Art",
             "level": 1,
             "color": "#0b7300",
-            "salary": 35560
+            "salary": 35560,
+            "college": "College of Liberal Arts & Sciences"
         },
         {
             "id": "east asian languages and cultures",
             "label": "East Asian Languages and Cultures",
             "level": 1,
             "color": "#1b8400",
-            "salary": 42419
+            "salary": 42419,
+            "college": "College of Liberal Arts & Sciences"
         },
         {
             "id": "latin american studies",
             "label": "Latin American Studies",
             "level": 1,
             "color": "#0d7500",
-            "salary": 36509
+            "salary": 36509,
+            "college": "College of Liberal Arts & Sciences"
         },
         {
             "id": "chemical engineering",
             "label": "Chemical Engineering",
             "level": 1,
             "color": "#80c800",
-            "salary": 70588
+            "salary": 70588,
+            "college": "College of Liberal Arts & Sciences"
         },
         {
             "id": "linguistics",
             "label": "Linguistics",
             "level": 1,
             "color": "#299000",
-            "salary": 47721
+            "salary": 47721,
+            "college": "College of Liberal Arts & Sciences"
         },
         {
             "id": "french",
             "label": "French",
             "level": 1,
             "color": "#117a00",
-            "salary": 38242
+            "salary": 38242,
+            "college": "College of Liberal Arts & Sciences"
         },
         {
             "id": "italian",
             "label": "Italian",
             "level": 1,
             "color": "#1b8400",
-            "salary": 42419
+            "salary": 42419,
+            "college": "College of Liberal Arts & Sciences"
         },
         {
             "id": "portuguese",
             "label": "Portuguese",
             "level": 1,
             "color": "#1b8400",
-            "salary": 42419
+            "salary": 42419,
+            "college": "College of Liberal Arts & Sciences"
         },
         {
             "id": "spanish",
             "label": "Spanish",
             "level": 1,
             "color": "#1f8800",
-            "salary": 44043
+            "salary": 44043,
+            "college": "College of Liberal Arts & Sciences"
         },
         {
             "id": "classics",
             "label": "Classics",
             "level": 1,
             "color": "#1b8400",
-            "salary": 42419
+            "salary": 42419,
+            "college": "College of Liberal Arts & Sciences"
         },
         {
             "id": "english",
             "label": "English",
             "level": 1,
             "color": "#0e7700",
-            "salary": 37070
+            "salary": 37070,
+            "college": "College of Liberal Arts & Sciences"
         },
         {
             "id": "biology",
             "label": "Biology",
             "level": 1,
             "color": "#4C4E52",
-            "salary": "Not Enough Data"
+            "salary": "Not Enough Data",
+            "college": "College of Liberal Arts & Sciences"
         },
         {
             "id": "biochemistry",
             "label": "Biochemistry",
             "level": 1,
             "color": "#359a00",
-            "salary": 51527
+            "salary": 51527,
+            "college": "College of Liberal Arts & Sciences"
         },
         {
             "id": "neuroscience",
             "label": "Neuroscience",
             "level": 1,
             "color": "#4C4E52",
-            "salary": "Not Enough Data"
+            "salary": "Not Enough Data",
+            "college": "College of Liberal Arts & Sciences"
         },
         {
             "id": "statistics",
             "label": "Statistics",
             "level": 1,
             "color": "#4ca900",
-            "salary": 57962
+            "salary": 57962,
+            "college": "College of Liberal Arts & Sciences"
         },
         {
             "id": "philosophy",
             "label": "Philosophy",
             "level": 1,
             "color": "#359a00",
-            "salary": 51527
+            "salary": 51527,
+            "college": "College of Liberal Arts & Sciences"
         },
         {
             "id": "astronomy",
             "label": "Astronomy",
             "level": 1,
             "color": "#4ba900",
-            "salary": 57842
+            "salary": 57842,
+            "college": "College of Liberal Arts & Sciences"
         },
         {
             "id": "atmospheric sciences",
             "label": "Atmospheric Sciences",
             "level": 1,
             "color": "#4ba900",
-            "salary": 57842
+            "salary": 57842,
+            "college": "College of Liberal Arts & Sciences"
         },
         {
             "id": "chemistry",
             "label": "Chemistry",
             "level": 1,
             "color": "#248c00",
-            "salary": 45611
+            "salary": 45611,
+            "college": "College of Liberal Arts & Sciences"
         },
         {
             "id": "geology",
             "label": "Geology",
             "level": 1,
             "color": "#359a00",
-            "salary": 51527
+            "salary": 51527,
+            "college": "College of Liberal Arts & Sciences"
         },
         {
             "id": "anthropology",
             "label": "Anthropology",
             "level": 1,
             "color": "#278e00",
-            "salary": 46748
+            "salary": 46748,
+            "college": "College of Liberal Arts & Sciences"
         },
         {
             "id": "history",
             "label": "History",
             "level": 1,
             "color": "#198200",
-            "salary": 41546
+            "salary": 41546,
+            "college": "College of Liberal Arts & Sciences"
         },
         {
             "id": "political science",
             "label": "Political Science",
             "level": 1,
             "color": "#238b00",
-            "salary": 45463
+            "salary": 45463,
+            "college": "College of Liberal Arts & Sciences"
         },
         {
             "id": "sociology",
             "label": "Sociology",
             "level": 1,
             "color": "#117a00",
-            "salary": 38493
+            "salary": 38493,
+            "college": "College of Liberal Arts & Sciences"
         },
         {
             "id": "molecular and cellular biology",
             "label": "Molecular and Cellular Biology",
             "level": 1,
             "color": "#137b00",
-            "salary": 39086
+            "salary": 39086,
+            "college": "College of Liberal Arts & Sciences"
         },
         {
             "id": "integrative biology",
             "label": "Integrative Biology",
             "level": 1,
             "color": "#0b7300",
-            "salary": 35471
+            "salary": 35471,
+            "college": "College of Liberal Arts & Sciences"
         },
         {
             "id": "mathematics",
             "label": "Mathematics",
             "level": 1,
             "color": "#54af00",
-            "salary": 60191
+            "salary": 60191,
+            "college": "College of Liberal Arts & Sciences"
         },
         {
             "id": "actuarial science",
             "label": "Actuarial Science",
             "level": 1,
             "color": "#59b200",
-            "salary": 61563
+            "salary": 61563,
+            "college": "College of Liberal Arts & Sciences"
         },
         {
             "id": "statistics and computer science",
             "label": "Statistics and Computer Science",
             "level": 1,
             "color": "#d5ef00",
-            "salary": 86661
+            "salary": 86661,
+            "college": "College of Liberal Arts & Sciences"
         },
         {
             "id": "african american studies",
             "label": "African American Studies",
             "level": 1,
             "color": "#0d7500",
-            "salary": 36509
+            "salary": 36509,
+            "college": "College of Liberal Arts & Sciences"
         },
         {
             "id": "gender and women's studies",
             "label": "Gender and Women's Studies",
             "level": 1,
             "color": "#0d7500",
-            "salary": 36509
+            "salary": 36509,
+            "college": "College of Liberal Arts & Sciences"
         },
         {
             "id": "germanic studies",
             "label": "Germanic Studies",
             "level": 1,
             "color": "#1b8400",
-            "salary": 42419
+            "salary": 42419,
+            "college": "College of Liberal Arts & Sciences"
         },
         {
             "id": "mathematics and computer science",
             "label": "Mathematics and Computer Science",
             "level": 1,
             "color": "#e5f500",
-            "salary": 89187
+            "salary": 89187,
+            "college": "College of Liberal Arts & Sciences"
         },
         {
             "id": "interdisciplinary studies",
             "label": "Interdisciplinary Studies",
             "level": 1,
             "color": "#359a00",
-            "salary": 51527
+            "salary": 51527,
+            "college": "College of Liberal Arts & Sciences"
         },
         {
             "id": "russian, east european, and eurasian studies",
             "label": "Russian, East European, and Eurasian Studies",
             "level": 1,
             "color": "#0d7500",
-            "salary": 36509
+            "salary": 36509,
+            "college": "College of Liberal Arts & Sciences"
         },
         {
             "id": "communication",
             "label": "Communication",
             "level": 1,
             "color": "#208900",
-            "salary": 44534
+            "salary": 44534,
+            "college": "College of Liberal Arts & Sciences"
         },
         {
             "id": "latina/latino studies",
             "label": "Latina/Latino Studies",
             "level": 1,
             "color": "#0d7500",
-            "salary": 36509
+            "salary": 36509,
+            "college": "College of Liberal Arts & Sciences"
         },
         {
             "id": "religion",
             "label": "Religion",
             "level": 1,
             "color": "#1b8400",
-            "salary": 42419
+            "salary": 42419,
+            "college": "College of Liberal Arts & Sciences"
         },
         {
             "id": "global studies",
             "label": "Global Studies",
             "level": 1,
             "color": "#1f8800",
-            "salary": 44179
+            "salary": 44179,
+            "college": "College of Liberal Arts & Sciences"
         },
         {
             "id": "las undeclared",
             "label": "LAS Undeclared",
             "level": 1,
             "color": "#4C4E52",
-            "salary": "Not Enough Data"
+            "salary": "Not Enough Data",
+            "college": "College of Liberal Arts & Sciences"
         },
         {
             "id": "earth, society, and environmental sustainability",
             "label": "Earth, Society, and Environmental Sustainability",
             "level": 1,
             "color": "#278f00",
-            "salary": 46914
+            "salary": 46914,
+            "college": "College of Liberal Arts & Sciences"
         },
         {
             "id": "econometrics and quantitative economics",
             "label": "Econometrics and Quantitative Economics",
             "level": 1,
             "color": "#359a00",
-            "salary": 51527
+            "salary": 51527,
+            "college": "College of Liberal Arts & Sciences"
         },
         {
             "id": "geography and geographic information science",
             "label": "Geography and Geographic Information Science",
             "level": 1,
             "color": "#379b00",
-            "salary": 52326
+            "salary": 52326,
+            "college": "College of Liberal Arts & Sciences"
         },
         {
             "id": "creative writing",
             "label": "Creative Writing",
             "level": 1,
             "color": "#137b00",
-            "salary": 39000
+            "salary": 39000,
+            "college": "College of Liberal Arts & Sciences"
         },
         {
             "id": "computer science and anthropology",
             "label": "Computer Science and Anthropology",
             "level": 1,
             "color": "#4C4E52",
-            "salary": "Not Enough Data"
+            "salary": "Not Enough Data",
+            "college": "College of Liberal Arts & Sciences"
         },
         {
             "id": "computer science and astronomy",
             "label": "Computer Science and Astronomy",
             "level": 1,
             "color": "#4C4E52",
-            "salary": "Not Enough Data"
+            "salary": "Not Enough Data",
+            "college": "College of Liberal Arts & Sciences"
         },
         {
             "id": "computer science and chemistry",
             "label": "Computer Science and Chemistry",
             "level": 1,
             "color": "#4C4E52",
-            "salary": "Not Enough Data"
+            "salary": "Not Enough Data",
+            "college": "College of Liberal Arts & Sciences"
         },
         {
             "id": "computer science and linguistics",
             "label": "Computer Science and Linguistics",
             "level": 1,
             "color": "#d9f000",
-            "salary": 87450
+            "salary": 87450,
+            "college": "College of Liberal Arts & Sciences"
         },
         {
             "id": "slavic studies",
             "label": "Slavic Studies",
             "level": 1,
             "color": "#0d7500",
-            "salary": 36509
+            "salary": 36509,
+            "college": "College of Liberal Arts & Sciences"
         },
         {
             "id": "asian american studies",
             "label": "Asian American Studies",
             "level": 1,
             "color": "#359a00",
-            "salary": 51527
+            "salary": 51527,
+            "college": "College of Liberal Arts & Sciences"
         },
         {
             "id": "psychology",
             "label": "Psychology",
             "level": 1,
             "color": "#157e00",
-            "salary": 39986
+            "salary": 39986,
+            "college": "College of Liberal Arts & Sciences"
         },
         {
             "id": "computer science and economics ",
             "label": "Computer Science and Economics ",
             "level": 1,
             "color": "#4C4E52",
-            "salary": "Not Enough Data"
+            "salary": "Not Enough Data",
+            "college": "College of Liberal Arts & Sciences"
         },
         {
             "id": "computer science and geography & geographic information science",
             "label": "Computer Science and Geography & Geographic Information Science",
             "level": 1,
             "color": "#4C4E52",
-            "salary": "Not Enough Data"
+            "salary": "Not Enough Data",
+            "college": "College of Liberal Arts & Sciences"
         },
         {
             "id": "computer science and philosophy",
             "label": "Computer Science and Philosophy",
             "level": 1,
             "color": "#4C4E52",
-            "salary": "Not Enough Data"
+            "salary": "Not Enough Data",
+            "college": "College of Liberal Arts & Sciences"
         },
         {
             "id": "comparative and world literature",
             "label": "Comparative and World Literature",
             "level": 1,
             "color": "#1b8400",
-            "salary": 42419
+            "salary": 42419,
+            "college": "College of Liberal Arts & Sciences"
         },
         {
             "id": "brain and cognitive science",
             "label": "Brain and Cognitive Science",
             "level": 1,
             "color": "#4C4E52",
-            "salary": "Not Enough Data"
+            "salary": "Not Enough Data",
+            "college": "College of Liberal Arts & Sciences"
         },
         {
             "id": "linguistics and teaching english as a second language",
             "label": "Linguistics and Teaching English as a Second Language",
             "level": 1,
             "color": "#4C4E52",
-            "salary": "Not Enough Data"
+            "salary": "Not Enough Data",
+            "college": "College of Liberal Arts & Sciences"
         },
         {
             "id": "astrophysics",
             "label": "Astrophysics",
             "level": 1,
             "color": "#4C4E52",
-            "salary": "Not Enough Data"
+            "salary": "Not Enough Data",
+            "college": "College of Liberal Arts & Sciences"
         },
         {
             "id": "astronomy + data science",
             "label": "Astronomy + Data Science",
             "level": 1,
             "color": "#4C4E52",
-            "salary": "Not Enough Data"
+            "salary": "Not Enough Data",
+            "college": "College of Liberal Arts & Sciences"
         },
         {
             "id": "undeclared",
             "label": "Undeclared",
             "level": 1,
             "color": "#4C4E52",
-            "salary": "Not Enough Data"
+            "salary": "Not Enough Data",
+            "college": "Division of General Studies"
         },
         {
             "id": "community health",
             "label": "Community Health",
             "level": 1,
             "color": "#218900",
-            "salary": 44877
+            "salary": 44877,
+            "college": "College of Applied Health Sciences"
         },
         {
             "id": "kinesiology",
             "label": "Kinesiology",
             "level": 1,
             "color": "#107800",
-            "salary": 37578
+            "salary": 37578,
+            "college": "College of Applied Health Sciences"
         },
         {
             "id": "speech and hearing science",
             "label": "Speech and Hearing Science",
             "level": 1,
             "color": "#006400",
-            "salary": 29304
+            "salary": 29304,
+            "college": "College of Applied Health Sciences"
         },
         {
             "id": "recreation, sport and tourism",
             "label": "Recreation, Sport and Tourism",
             "level": 1,
             "color": "#0e7700",
-            "salary": 37034
+            "salary": 37034,
+            "college": "College of Applied Health Sciences"
         },
         {
             "id": "health sciences, interdisciplinary ",
             "label": "Health Sciences, Interdisciplinary ",
             "level": 1,
             "color": "#0f7700",
-            "salary": 37281
+            "salary": 37281,
+            "college": "College of Applied Health Sciences"
         },
         {
             "id": "social work",
             "label": "Social Work",
             "level": 1,
             "color": "#046900",
-            "salary": 31530
+            "salary": 31530,
+            "college": "School of Social Work"
         },
         {
             "id": "information sciences",
             "label": "Information Sciences",
             "level": 1,
             "color": "#4C4E52",
-            "salary": "Not Enough Data"
+            "salary": "Not Enough Data",
+            "college": "School of Information Sciences"
         },
         {
             "id": "information sciences + data science",
             "label": "Information Sciences + Data Science",
             "level": 1,
             "color": "#4C4E52",
-            "salary": "Not Enough Data"
+            "salary": "Not Enough Data",
+            "college": "School of Information Sciences"
         },
         {
             "id": "dance, ba and kinesiology, bs (dual degree program)",
             "label": "Dance, BA and Kinesiology, BS (Dual Degree Program)",
             "level": 1,
             "color": "#4C4E52",
-            "salary": "Not Enough Data"
+            "salary": "Not Enough Data",
+            "college": "College of Fine & Applied Arts"
         },
         {
             "id": "agricultural and consumer economics",
             "label": "Agricultural and Consumer Economics",
             "level": 1,
             "color": "#359a00",
-            "salary": 51576
+            "salary": 51576,
+            "college": "College of Agricultural, Consumer & Environmental Sciences"
         },
         {
             "id": "agricultural leadership, education, and communications",
             "label": "Agricultural Leadership, Education, and Communications",
             "level": 1,
             "color": "#278f00",
-            "salary": 47120
+            "salary": 47120,
+            "college": "College of Agricultural, Consumer & Environmental Sciences"
         },
         {
             "id": "secondary education",
             "label": "Secondary Education",
             "level": 1,
             "color": "#359a00",
-            "salary": 51527
+            "salary": 51527,
+            "college": "College of Liberal Arts & Sciences"
         },
         {
             "id": "secondary education: biology",
             "label": "Secondary Education: Biology",
             "level": 1,
             "color": "#359a00",
-            "salary": 51527
+            "salary": 51527,
+            "college": "College of Liberal Arts & Sciences"
         },
         {
             "id": "secondary education: chemistry",
             "label": "Secondary Education: Chemistry",
             "level": 1,
             "color": "#359a00",
-            "salary": 51527
+            "salary": 51527,
+            "college": "College of Liberal Arts & Sciences"
         },
         {
             "id": "secondary education: english ",
             "label": "Secondary Education: English ",
             "level": 1,
             "color": "#359a00",
-            "salary": 51527
+            "salary": 51527,
+            "college": "College of Liberal Arts & Sciences"
         },
         {
             "id": "secondary education: earth science",
             "label": "Secondary Education: Earth Science",
             "level": 1,
             "color": "#359a00",
-            "salary": 51527
+            "salary": 51527,
+            "college": "College of Liberal Arts & Sciences"
         },
         {
             "id": "secondary education: mathematics (las)",
             "label": "Secondary Education: Mathematics (LAS)",
             "level": 1,
             "color": "#359a00",
-            "salary": 51527
+            "salary": 51527,
+            "college": "College of Liberal Arts & Sciences"
         },
         {
             "id": "secondary education: physics",
             "label": "Secondary Education: Physics",
             "level": 1,
             "color": "#359a00",
-            "salary": 51527
+            "salary": 51527,
+            "college": "College of Liberal Arts & Sciences"
         },
         {
             "id": "secondary education: social studies",
             "label": "Secondary Education: Social Studies",
             "level": 1,
             "color": "#359a00",
-            "salary": 51527
+            "salary": 51527,
+            "college": "College of Liberal Arts & Sciences"
         },
         {
             "id": "teacher education: french (k-12)",
             "label": "Teacher Education: French (K-12)",
             "level": 1,
             "color": "#359a00",
-            "salary": 51527
+            "salary": 51527,
+            "college": "College of Liberal Arts & Sciences"
         },
         {
             "id": "teacher education: german (k-12)",
             "label": "Teacher Education: German (K-12)",
             "level": 1,
             "color": "#359a00",
-            "salary": 51527
+            "salary": 51527,
+            "college": "College of Liberal Arts & Sciences"
         },
         {
             "id": "teacher education: kinesiology - physical education (k-12)",
             "label": "Teacher Education: Kinesiology - Physical Education (K-12)",
             "level": 1,
             "color": "#167f00",
-            "salary": 40577
+            "salary": 40577,
+            "college": "College of Applied Health Sciences"
         },
         {
             "id": "teacher education: spanish (k-12)",
             "label": "Teacher Education: Spanish (K-12)",
             "level": 1,
             "color": "#359a00",
-            "salary": 51527
+            "salary": 51527,
+            "college": "College of Liberal Arts & Sciences"
         },
         {
             "id": "a.t. still university of health sciences",
