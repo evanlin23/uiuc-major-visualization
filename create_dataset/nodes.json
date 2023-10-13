@@ -6,7 +6,8 @@
             "level": 1,
             "color": "#0a7200",
             "salary": 35047,
-            "college": "College of Agricultural, Consumer & Environmental Sciences"
+            "college": "College of Agricultural, Consumer & Environmental Sciences",
+            "description": "This major will combine your interests in biology and animals in a learning environment that goes beyond the classroom. During your freshman and sophomore year, you\u2019ll take core Animal Sciences courses. These may include animal care and use, genetics, anatomy, nutrition, reproduction, and growth. During your junior and senior year, you\u2019ll have the flexibility to pick courses that interest you. You\u2019ll also have opportunities to do undergraduate research and gain experience in our laboratories and farms. You can choose from three concentrations:"
         },
         {
             "id": "crop sciences",
@@ -14,7 +15,8 @@
             "level": 1,
             "color": "#218900",
             "salary": 44932,
-            "college": "College of Agricultural, Consumer & Environmental Sciences"
+            "college": "College of Agricultural, Consumer & Environmental Sciences",
+            "description": "Our Crop Sciences program emphasizes solving important global problems. You'll learn to make plants more efficient, sustainable, and productive while reducing risk and cost to producers. You will have the opportunity to work in labs and help with the latest research projects under our best faculty. You\u2019ll also have the chance to travel the world while earning class credit. You may take part in paid internships with reputable companies. With this major, you'll have the skills to set yourself up for a career you love helping those in need. You can choose from three concentrations:"
         },
         {
             "id": "human development and family studies",
@@ -22,7 +24,8 @@
             "level": 1,
             "color": "#4C4E52",
             "salary": "Not Enough Data",
-            "college": "College of Agricultural, Consumer & Environmental Sciences"
+            "college": "College of Agricultural, Consumer & Environmental Sciences",
+            "description": "This major prepares you to address real-world problems in communities across the globe. Through innovative research and outreach programs, you can improve the lives of children, adolescents, adults, and families. You\u2019ll also help faculty in research projects, practicums, and internships."
         },
         {
             "id": "natural resources and environmental sciences",
@@ -30,7 +33,8 @@
             "level": 1,
             "color": "#066d00",
             "salary": 32944,
-            "college": "College of Agricultural, Consumer & Environmental Sciences"
+            "college": "College of Agricultural, Consumer & Environmental Sciences",
+            "description": "This program provides an active, scientific education. Students will learn to address critical environmental issues facing the world. Our interdisciplinary major brings biological, physical, and social science together. With this degree, students can improve the sustainability of ecosystems on both a local and global scale. First, you\u2019ll gain a thorough understanding of ecosystem processes and human interactions. Then, you'll build your expertise in one of the following concentrations:"
         },
         {
             "id": "agronomy",
@@ -38,7 +42,8 @@
             "level": 1,
             "color": "#4C4E52",
             "salary": "Not Enough Data",
-            "college": "College of Agricultural, Consumer & Environmental Sciences"
+            "college": "College of Agricultural, Consumer & Environmental Sciences",
+            "description": "Agronomy is for students interested in sustainable agriculture production solutions. It helps address urgent global food security and environmental sustainability challenges. This field manages many parts of the agricultural system. It integrates science and the practice of crop production to sustain and economically meet the need for food, fuel, and fiber."
         },
         {
             "id": "food science",
@@ -46,7 +51,8 @@
             "level": 1,
             "color": "#1f8800",
             "salary": 44253,
-            "college": "College of Agricultural, Consumer & Environmental Sciences"
+            "college": "College of Agricultural, Consumer & Environmental Sciences",
+            "description": "This major combines chemistry, biology, and engineering to improve food. You will learn how to improve product safety, quality, and affordability. Food Science will teach you about the psychology of humans and their connection to food. You will also learn about food production and how raw materials become safe food products. Other topics cover problems with harvesting, handling, and storing foods. You will have the opportunity to work in interactive classrooms, labs, and field trips to specialized operations."
         },
         {
             "id": "agri-accounting",
@@ -54,7 +60,8 @@
             "level": 1,
             "color": "#359a00",
             "salary": 51576,
-            "college": "College of Agricultural, Consumer & Environmental Sciences"
+            "college": "College of Agricultural, Consumer & Environmental Sciences",
+            "description": "A concentration under Agricultural and Consumer Economics, Agri-Accounting will teach you accounting in areas like production, processing, and retail. Your classes will consist of business courses, accountancy courses, and economics. You will especially focus on quantitative courses that will help companies in agribusiness. An international business or agricultural component is also included."
         },
         {
             "id": "farm management",
@@ -62,7 +69,8 @@
             "level": 1,
             "color": "#359a00",
             "salary": 51576,
-            "college": "College of Agricultural, Consumer & Environmental Sciences"
+            "college": "College of Agricultural, Consumer & Environmental Sciences",
+            "description": "In Farm Management, a concentration under Agricultural and Consumer Economics, you\u2019ll study the principles of economics, finance, and risk management. All these topics are central to caring for a farm. You\u2019ll develop skills to manage land, labor, and capital resources for a competitive return. You will also learn how to appraise farmland and other assets. Farm Management will give you the skills to manage a farm as an owner, tenant, employee, and more. You can apply into this concentration."
         },
         {
             "id": "agribusiness, markets & management",
@@ -70,7 +78,8 @@
             "level": 1,
             "color": "#359a00",
             "salary": 51576,
-            "college": "College of Agricultural, Consumer & Environmental Sciences"
+            "college": "College of Agricultural, Consumer & Environmental Sciences",
+            "description": "This concentration within\u00a0Agricultural and Consumer Economics focuses on learning management skills, planning, and human resource management. We place emphasis on the interaction between marketing firms and the business environment. You will learn about agricultural technology, supply, distribution, and processing. Many hands-on opportunities for learning, like seminars and internships, are also included. You can apply directly into this concentration."
         },
         {
             "id": "consumer economics & finance",
@@ -78,7 +87,8 @@
             "level": 1,
             "color": "#359a00",
             "salary": 51576,
-            "college": "College of Agricultural, Consumer & Environmental Sciences"
+            "college": "College of Agricultural, Consumer & Environmental Sciences",
+            "description": "Consumer Economics and Finance is a concentration under Agricultural and Consumer Economics. This concentration helps you develop skills that help consumers with everyday problems. Coursework will teach you the role of consumers in the marketplace. You will learn about consumer economics, personal finance, and economics. You may choose to focus on consumer economics, family economics, or financial planning and counseling. You can apply into this concentration."
         },
         {
             "id": "environmental economics & policy",
@@ -86,7 +96,8 @@
             "level": 1,
             "color": "#359a00",
             "salary": 51576,
-            "college": "College of Agricultural, Consumer & Environmental Sciences"
+            "college": "College of Agricultural, Consumer & Environmental Sciences",
+            "description": "This is a concentration within Agricultural and Consumer Economics. This major will prepare you to handle environmental and resource management issues. Classes range from international business and economic development to computer science and mathematics. In classes, you'll focus on:"
         },
         {
             "id": "policy, international trade & development",
@@ -94,7 +105,8 @@
             "level": 1,
             "color": "#359a00",
             "salary": 51576,
-            "college": "College of Agricultural, Consumer & Environmental Sciences"
+            "college": "College of Agricultural, Consumer & Environmental Sciences",
+            "description": "This program is a concentration within our Agricultural and Consumer Economics major. Students gain an economic perspective on policy, international trade, and agricultural development. With our program, you can take an in-depth look at economic and environmental policies. You'll also learn about international business. This is a great concentration for students interested in how economics relates to food and agriculture. You can apply directly into this concentration."
         },
         {
             "id": "public policy & law",
@@ -102,7 +114,8 @@
             "level": 1,
             "color": "#359a00",
             "salary": 51576,
-            "college": "College of Agricultural, Consumer & Environmental Sciences"
+            "college": "College of Agricultural, Consumer & Environmental Sciences",
+            "description": "This is a concentration within our Agricultural and Consumer Economics major. Our program is designed for students interested in governance and law. In this major, you'll analyze the impact of policies and social programs. You'll study the legal and institutional structures in which policies are developed. Students will also consider the special circumstances of public policy and law. These include policies relating to the environment, the agricultural and food sector, consumers, and international relations. With this degree, you\u2019ll gain an understanding of the U.S. institutions that make and implement policies. You can apply directly into this concentration."
         },
         {
             "id": "financial planning",
@@ -110,7 +123,8 @@
             "level": 1,
             "color": "#359a00",
             "salary": 51576,
-            "college": "College of Agricultural, Consumer & Environmental Sciences"
+            "college": "College of Agricultural, Consumer & Environmental Sciences",
+            "description": "This Agricultural and Consumer Economics concentration will teach you how finance applies to individuals, households, and businesses. You\u2019ll also learn about:"
         },
         {
             "id": "agricultural and biological engineering (aces)",
@@ -118,7 +132,8 @@
             "level": 1,
             "color": "#56b000",
             "salary": 60681,
-            "college": "College of Agricultural, Consumer & Environmental Sciences"
+            "college": "College of Agricultural, Consumer & Environmental Sciences",
+            "description": "Agricultural and Biological Engineering applies science and engineering to production systems. These may include agriculture, food, environment, and energy. Other areas are natural resources, environmental protection and control, and related biological systems. This major may be for you if you\u2019re interested in sustainability or renewable fuel sources. You\u2019ll begin this major in the College of ACES. In your junior year, you will enroll in the College of Engineering to complete the degree. You can choose a concentration in either Agricultural Engineering or Biological Engineering."
         },
         {
             "id": "finance in agri-business",
@@ -126,7 +141,8 @@
             "level": 1,
             "color": "#359a00",
             "salary": 51576,
-            "college": "College of Agricultural, Consumer & Environmental Sciences"
+            "college": "College of Agricultural, Consumer & Environmental Sciences",
+            "description": "In this Agricultural and Consumer Economics concentration, you can study finance as it applies to agriculture, business, and the finance industry. You'll take many courses aimed at both small business and large corporations. You'll work with numbers and data that will help you enter into banking, insurance, or supply firms. You\u2019ll learn the necessary skills to work in a variety of agricultural finance fields. You can apply directly into this concentration."
         },
         {
             "id": "plant biotechnology",
@@ -134,7 +150,8 @@
             "level": 1,
             "color": "#4C4E52",
             "salary": "Not Enough Data",
-            "college": "College of Agricultural, Consumer & Environmental Sciences"
+            "college": "College of Agricultural, Consumer & Environmental Sciences",
+            "description": "Biotechnology is part of our daily lives. It's used to develop nutritionally enhanced foods, enable sustainable agricultural production, and engineer plants for industrial and medical purposes."
         },
         {
             "id": "aces undeclared",
@@ -142,7 +159,8 @@
             "level": 1,
             "color": "#278f00",
             "salary": 47120,
-            "college": "College of Agricultural, Consumer & Environmental Sciences"
+            "college": "College of Agricultural, Consumer & Environmental Sciences",
+            "description": "If you\u2019re interested in the agricultural, consumer, and environmental sciences but aren\u2019t sure which path you want to take, this program is for you. You\u2019ll work with staff to select the right coursework based on your interests. You can explore various majors within the College of ACES with the purpose of later declaring one."
         },
         {
             "id": "computer science and crop sciences",
@@ -150,7 +168,8 @@
             "level": 1,
             "color": "#4C4E52",
             "salary": "Not Enough Data",
-            "college": "College of Agricultural, Consumer & Environmental Sciences"
+            "college": "College of Agricultural, Consumer & Environmental Sciences",
+            "description": "Computer science is the study of theory, design, and applications of digital computers. In this major, you will learn software design and informational processing techniques. Crop Sciences is the study of solving important global agricultural problems. Students learn to make plants more efficient, sustainable, and productive. You will also learn how to reduce risk and cost to producers. Our program will help you pursue a career in agriculture that emphasizes both technology and management."
         },
         {
             "id": "agricultural education",
@@ -158,7 +177,8 @@
             "level": 1,
             "color": "#278f00",
             "salary": 47120,
-            "college": "College of Agricultural, Consumer & Environmental Sciences"
+            "college": "College of Agricultural, Consumer & Environmental Sciences",
+            "description": "This is a concentration under Agricultural Leadership, Education, and Communications. It prepares you to be a high school agriculture teacher. You will be able to teach agricultural science, agribusiness, agricultural mechanics, and horticulture. Your classes will focus on technical subject matter, and you\u2019ll gain hands-on experience at the local, state, and national levels with the FFA organization. You will complete more than 100 hours of instructional experiences prior to student teaching, conduct workshops, and teach in high school classrooms. You\u2019ll also complete a 12-week student teaching experience."
         },
         {
             "id": "organizational and community leadership",
@@ -166,7 +186,8 @@
             "level": 1,
             "color": "#278f00",
             "salary": 47120,
-            "college": "College of Agricultural, Consumer & Environmental Sciences"
+            "college": "College of Agricultural, Consumer & Environmental Sciences",
+            "description": "This is a concentration under Agricultural Leadership, Education, and Communications. It prepares you for leadership, training, and organizational development positions in agricultural, community, and governmental agencies. The curriculum provides you the option to specialize in a chosen area of agriculture. Your coursework will focus on human development, theories of leadership, and design and implementation of training programs. You will also develop leadership and communication skills and gain hands-on experience through a 10-week internship with an agriculture business or community organization."
         },
         {
             "id": "computer science and animal sciences",
@@ -174,7 +195,8 @@
             "level": 1,
             "color": "#4C4E52",
             "salary": "Not Enough Data",
-            "college": "College of Agricultural, Consumer & Environmental Sciences"
+            "college": "College of Agricultural, Consumer & Environmental Sciences",
+            "description": "This major is the first of its kind to address the digital revolution in animal sciences. As a student, you will prepare to work with sensor technology, large data sets, and predictive analytics, improving the health and well-being of production animals and pets in Illinois and throughout the world."
         },
         {
             "id": "engineering technology and management for agricultural systems",
@@ -182,7 +204,8 @@
             "level": 1,
             "color": "#4C4E52",
             "salary": "Not Enough Data",
-            "college": "College of Agricultural, Consumer & Environmental Sciences"
+            "college": "College of Agricultural, Consumer & Environmental Sciences",
+            "description": "This major applies both engineering principles and business management concepts. Students will work with systems involving agriculture, food, energy, water, and the environment. In our program, you will gain important problem-solving skills and learn how to operate new technology. You'll also learn how to manage supplies to maintain healthier, more sustainable environments. Students may specialize in one of the following areas:"
         },
         {
             "id": "agricultural communications",
@@ -190,7 +213,8 @@
             "level": 1,
             "color": "#4C4E52",
             "salary": "Not Enough Data",
-            "college": "College of Agricultural, Consumer & Environmental Sciences"
+            "college": "College of Agricultural, Consumer & Environmental Sciences",
+            "description": "This is a concentration under Agricultural Leadership, Education, and Communications. You'll learn how to develop and deliver information people need to make balanced, informed decisions. You'll also create a portfolio of communications work. It will serve as a vibrant calling card when you apply for jobs or graduate studies."
         },
         {
             "id": "dietetics and nutrition",
@@ -198,7 +222,8 @@
             "level": 1,
             "color": "#4C4E52",
             "salary": "Not Enough Data",
-            "college": "College of Agricultural, Consumer & Environmental Sciences"
+            "college": "College of Agricultural, Consumer & Environmental Sciences",
+            "description": "Dietetics and Nutrition is the science of applying food to nutrition and health. It is a vital, growing field that addresses today\u2019s complex nutrition and health issues. Your classes will cover many topics, including:"
         },
         {
             "id": "hospitality management",
@@ -206,7 +231,8 @@
             "level": 1,
             "color": "#1f8800",
             "salary": 44253,
-            "college": "College of Agricultural, Consumer & Environmental Sciences"
+            "college": "College of Agricultural, Consumer & Environmental Sciences",
+            "description": "Hospitality Management blends business principles, biological and social sciences. These studies will prepare you for a career in the hospitality industry. Classes will teach you basic marketing and business skills, and how to analyze employee performance. You'll study how to plan, produce, and serve meals in a safe and efficient manner. You\u2019ll also learn how to manage institutional, commercial catering and fine-dining facilities. You will have the opportunity to develop your skills through real-world experience at our own Bevier Caf\u00e9 and Spice Box."
         },
         {
             "id": "nutrition and health",
@@ -214,7 +240,8 @@
             "level": 1,
             "color": "#4C4E52",
             "salary": "Not Enough Data",
-            "college": "College of Agricultural, Consumer & Environmental Sciences"
+            "college": "College of Agricultural, Consumer & Environmental Sciences",
+            "description": "This major combines chemistry, biology, physiology, sociology, and nutrition. These areas will help you learn the impact of genes, diet, and lifestyle on human health. Classes focus on the biology and chemistry of nutrition and the human body. Other courses will focus on outside factors that affect both communities and individuals in their daily lives. You\u2019ll also learn how to keep food safe through sanitation, storage, marketing, and more."
         },
         {
             "id": "sustainability in food & environmental systems",
@@ -222,7 +249,8 @@
             "level": 1,
             "color": "#4C4E52",
             "salary": "Not Enough Data",
-            "college": "College of Agricultural, Consumer & Environmental Sciences"
+            "college": "College of Agricultural, Consumer & Environmental Sciences",
+            "description": "This major will help you find solutions for the serious challenges our food systems face. It provides a strong background in science and applied knowledge in food production, urban planning, and policy. You'll also develop leadership and communication skills. Throughout your studies, you'll engage in research and take part in an off-campus internship. The knowledge you gain will prepare you to make positive changes in food system infrastructure and policy."
         },
         {
             "id": "business undeclared",
@@ -230,7 +258,8 @@
             "level": 1,
             "color": "#4C4E52",
             "salary": "Not Enough Data",
-            "college": "Gies College of Business"
+            "college": "Gies College of Business",
+            "description": "All first-year students admitted to the Gies College of Business begin in our Business Undeclared program. You can explore all areas of study while learning from top professors. After finding the best fit for you, you'll declare your major by the end of your sophomore year."
         },
         {
             "id": "accountancy",
@@ -238,7 +267,8 @@
             "level": 1,
             "color": "#5cb300",
             "salary": 62142,
-            "college": "Gies College of Business"
+            "college": "Gies College of Business",
+            "description": "Accountancy is about the recording, analysis, and reporting of financial  information. In this major, you'll learn how to ask questions,  analyze, make judgments, solve problems, and make decisions. Our program will prepare you for accounting positions in a variety of fields. Pursuing our fifth-year master\u2019s degree also is an  option."
         },
         {
             "id": "finance",
@@ -246,7 +276,8 @@
             "level": 1,
             "color": "#68ba00",
             "salary": 65053,
-            "college": "Gies College of Business"
+            "college": "Gies College of Business",
+            "description": "Finance is concerned with the acquisition and management of funds by business firms, governments, and individuals. In our program, you\u2019ll learn both the theoretical background and the analytical tools required to make effective judgements when determining the value of financial and real assets and derivatives. You\u2019ll choose from three specializations:"
         },
         {
             "id": "marketing",
@@ -254,7 +285,8 @@
             "level": 1,
             "color": "#45a500",
             "salary": 56125,
-            "college": "Gies College of Business"
+            "college": "Gies College of Business",
+            "description": "Marketing encompasses business activities related to connecting consumers with goods. It includes the study of the consumer and how to use data to create business insights. In turn, this helps companies better target those consumers. You'll also learn how to manage customer relationships."
         },
         {
             "id": "supply chain management",
@@ -262,7 +294,8 @@
             "level": 1,
             "color": "#61b700",
             "salary": 63420,
-            "college": "Gies College of Business"
+            "college": "Gies College of Business",
+            "description": "Supply Chain Management is one of the most important functions in manufacturing. This major studies how raw materials become end products. You'll study the procurement, manufacturing, marketing, and  distribution of industrial and commercial materials. You'll also take part in a 10- to 12-week summer internship. This program will help you develop vision, versatility, leadership, communication skills, and technical competence. Your degree will prepare you to be an entry-level manager able to meet today's requirements for business success."
         },
         {
             "id": "management",
@@ -270,7 +303,8 @@
             "level": 1,
             "color": "#40a200",
             "salary": 54681,
-            "college": "Gies College of Business"
+            "college": "Gies College of Business",
+            "description": "This program will prepare you to be a leader and innovator. You'll learn to analyze and solve problems that every organization faces daily. Effective managers design organizations that can compete in complex and volatile business environments. They also execute their  strategies within these organizations. Our program focuses on  cultivating such managers. You'll learn to be an ethical leader and a competent decision-maker. You'll also learn how to create goals and long-term  plans, build effective teams, and motivate your employees."
         },
         {
             "id": "information systems",
@@ -278,7 +312,8 @@
             "level": 1,
             "color": "#65b900",
             "salary": 64602,
-            "college": "Gies College of Business"
+            "college": "Gies College of Business",
+            "description": "In this major, you'll learn how to design platforms to support the information processing needs of an organization. You'll gain skills necessary to manage information, as well as information technology development. You'll also learn about systems analysis, e-business management, and electronic commerce."
         },
         {
             "id": "operations management",
@@ -286,7 +321,8 @@
             "level": 1,
             "color": "#56b000",
             "salary": 60571,
-            "college": "Gies College of Business"
+            "college": "Gies College of Business",
+            "description": "This field focuses on crafting new ways to deliver a firm\u2019s goods and services. In our program, you\u2019ll study the productive management of capital. You'll also learn about human and information resources as well as the process of value creation. Coursework will devote particular attention to defining business goals. Students will then learn how to achieve these goals by designing management policies."
         },
         {
             "id": "finance + data science",
@@ -294,7 +330,8 @@
             "level": 1,
             "color": "#4C4E52",
             "salary": "Not Enough Data",
-            "college": "Gies College of Business"
+            "college": "Gies College of Business",
+            "description": "The finance profession has a strong affinity for data science. It has a strong quantitative orientation and uses evidence-based approach to decision-making."
         },
         {
             "id": "accountancy + data science",
@@ -302,7 +339,8 @@
             "level": 1,
             "color": "#4C4E52",
             "salary": "Not Enough Data",
-            "college": "Gies College of Business"
+            "college": "Gies College of Business",
+            "description": "All business is being transformed by technology and data. Accounting organizes, analyzes, audits, and communicates the \u201cdata\u201d of business. Accountants, auditors, and tax consultants must have a native familiarity with data. They should have a natural facility for consuming and analyzing data, and the ability to communicate the lessons from that analysis."
         },
         {
             "id": "strategy, innovation and entrepreneurship",
@@ -310,7 +348,8 @@
             "level": 1,
             "color": "#4C4E52",
             "salary": "Not Enough Data",
-            "college": "Gies College of Business"
+            "college": "Gies College of Business",
+            "description": "In this major, you'll learn skills needed to develop and manage new business. This includes start-ups or new areas of existing organizations, both for-profit and not-for-profit. You can pursue career paths such as business development, consulting, entrepreneurship, private equity, product management, and venture capital."
         },
         {
             "id": "business + data science",
@@ -318,7 +357,8 @@
             "level": 1,
             "color": "#4C4E52",
             "salary": "Not Enough Data",
-            "college": "Gies College of Business"
+            "college": "Gies College of Business",
+            "description": "In this major, you'll learn about business on a broad scale while also focusing on one of four specializations. The Business + DS major is paired with our data science curriculum. It will prepare you for many careers that allow you to manage and interpret datasets. It will also help you make informed decisions to improve business. Students can choose from four specializations, offered by the Department of Business Administration:"
         },
         {
             "id": "special education",
@@ -326,7 +366,8 @@
             "level": 1,
             "color": "#1d8500",
             "salary": 43213,
-            "college": "College of Education"
+            "college": "College of Education",
+            "description": "This major will prepare you to teach students from ages 3 to 21 with any disability in a range of educational settings. This includes teaching people with learning disabilities, social or emotional disabilities, autism, intellectual disability, physical disabilities, and multiple disabilities. Our program emphasizes an inclusive approach to education. This approach encourages the education of students with disabilities alongside their peers without disabilities. In this major, you will gain real-world experience through extensive fieldwork. This fieldwork will give you the opportunity to work with people of diverse abilities and ages."
         },
         {
             "id": "early childhood education (birth-grade 2)",
@@ -334,7 +375,8 @@
             "level": 1,
             "color": "#188100",
             "salary": 41112,
-            "college": "College of Education"
+            "college": "College of Education",
+            "description": "This major prepares you to teach children from birth to grade two. You\u2019ll learn how to teach students subjects like reading and math as well as skills like studying and communicating with others. You\u2019ll learn to assess students to test their abilities, strengths, and weaknesses. You'll also work with them to overcome specific learning challenges."
         },
         {
             "id": "elementary education (grades 1-6)",
@@ -342,7 +384,8 @@
             "level": 1,
             "color": "#157e00",
             "salary": 40087,
-            "college": "College of Education"
+            "college": "College of Education",
+            "description": "This major prepares you to teach grades 1 through 6. You\u2019ll learn how to teach students subjects like reading and math as well as skills like studying and communicating with others. You'll create lesson plans and develop skills on how to teach fundamental ideas to students. You'll also learn to assess students to test their abilities, strengths, and weaknesses. You'll be able to work with them individually to overcome specific learning challenges."
         },
         {
             "id": "secondary education: mathematics",
@@ -350,7 +393,8 @@
             "level": 1,
             "color": "#4C4E52",
             "salary": "Not Enough Data",
-            "college": "College of Education"
+            "college": "College of Education",
+            "description": "As a Secondary Math Education major, you'll develop skills and dispositions to become a high school math teacher. You'll also have the option of earning an endorsement to teach math in middle school.\u00a0In our program, you'll learn how to apply research on learning math to your teaching. Through your experiences, you'll refine your ability to teach students considering current demands. You'll also refine your ability to revisit important math ideas."
         },
         {
             "id": "learning and education studies",
@@ -358,7 +402,8 @@
             "level": 1,
             "color": "#188100",
             "salary": 41112,
-            "college": "College of Education"
+            "college": "College of Education",
+            "description": "In our program, you will gain expertise needed for formal and informal educational settings without being required to become a licensed teacher. With a growing demand for leading knowledge workers, this degree is very valuable. You\u2019ll choose one of three concentrations to focus on in your last two years:"
         },
         {
             "id": "middle grades education (grades 5-8)",
@@ -366,7 +411,8 @@
             "level": 1,
             "color": "#188100",
             "salary": 41112,
-            "college": "College of Education"
+            "college": "College of Education",
+            "description": "This major prepares you to teach grades 5 through 8. If you join our program, you'll develop expertise in a specific content area such as math, science, social studies, or literacy. You will also learn how to plan teaching lessons in more than one content area. Our curriculum prepares you to work with school colleagues using a team approach."
         },
         {
             "id": "computer science and education, learning sciences",
@@ -374,7 +420,8 @@
             "level": 1,
             "color": "#4C4E52",
             "salary": "Not Enough Data",
-            "college": "College of Education"
+            "college": "College of Education",
+            "description": "In this concentration, you'll gain computer science and design skills to create digital technologies that engage people in meaningful learning experiences."
         },
         {
             "id": "computer science and education, secondary education",
@@ -382,7 +429,8 @@
             "level": 1,
             "color": "#4C4E52",
             "salary": "Not Enough Data",
-            "college": "College of Education"
+            "college": "College of Education",
+            "description": "In this concentration, you'll learn how to teach computer science to secondary students (grades 5-12). This program combines coursework in both Computer Science and Education. You'll learn the foundations of computer science and computer programming. In addition, you'll learn how to plan lessons and assess the strengths and weaknesses of your students. You\u2019ll practice strategies on how to help students overcome specific learning challenges."
         },
         {
             "id": "civil engineering",
@@ -390,7 +438,8 @@
             "level": 1,
             "color": "#51ac00",
             "salary": 59226,
-            "college": "Grainger College of Engineering"
+            "college": "Grainger College of Engineering",
+            "description": "Civil and environmental engineers apply basic science principles to address society's biggest challenges. They use mathematical and computational tools to support their work."
         },
         {
             "id": "computer engineering",
@@ -398,7 +447,8 @@
             "level": 1,
             "color": "#ddf200",
             "salary": 88109,
-            "college": "Grainger College of Engineering"
+            "college": "Grainger College of Engineering",
+            "description": "Computer Engineering is the design and use of computing systems at all levels. This major may interest you if you enjoy understanding, designing, and working with computers. In this major, you will learn every part of a computer system from top to bottom. As a computer engineer, you will be well prepared to create the wide array of computing systems and devices that we all use and depend on every day."
         },
         {
             "id": "computer science",
@@ -406,7 +456,8 @@
             "level": 1,
             "color": "#ff0",
             "salary": 93500,
-            "college": "Grainger College of Engineering"
+            "college": "Grainger College of Engineering",
+            "description": "Computer Science is the study of theory, design, and applications of digital computers. You will also learn software design and informational processing techniques. If you\u2019re creative, logical, and a good problem solver, this major may be for you."
         },
         {
             "id": "electrical engineering",
@@ -414,7 +465,8 @@
             "level": 1,
             "color": "#7fc700",
             "salary": 70183,
-            "college": "Grainger College of Engineering"
+            "college": "Grainger College of Engineering",
+            "description": "Electrical Engineering is a major within the Department of Engineering. The major involves technology in all aspects of life, whether it's wires, devices, space, the human body, or other mediums. It has applications in electrical power, communications, information technology, nanotechnology, and biotechnology. This major may be for you if you enjoy tinkering and dream of making something new."
         },
         {
             "id": "engineering mechanics",
@@ -422,7 +474,8 @@
             "level": 1,
             "color": "#70bf00",
             "salary": 66952,
-            "college": "Grainger College of Engineering"
+            "college": "Grainger College of Engineering",
+            "description": "This major focuses on solving mechanics problems through mathematical, scientific, and engineering principles. You will learn the building blocks of statics, dynamics, strength of materials, and fluid dynamics. As an Engineering Mechanics student, you\u2019ll learn the basis of all mechanical sciences:"
         },
         {
             "id": "industrial engineering",
@@ -430,7 +483,8 @@
             "level": 1,
             "color": "#64b800",
             "salary": 64216,
-            "college": "Grainger College of Engineering"
+            "college": "Grainger College of Engineering",
+            "description": "Industrial Engineering solves problems through the integration of engineering and business principles. Industrial systems engineers work to improve performance and productivity using problem solving. This major creates leaders who often serve as a link between engineering and management. Upon graduation, you will know how to manage budgets and projects. This major may be for you if you\u2019re interested in:"
         },
         {
             "id": "materials science and engineering",
@@ -438,7 +492,8 @@
             "level": 1,
             "color": "#60b600",
             "salary": 63282,
-            "college": "Grainger College of Engineering"
+            "college": "Grainger College of Engineering",
+            "description": "Materials Science and Engineering is the manipulation and creation of materials to meet and exceed societal and technological needs."
         },
         {
             "id": "mechanical engineering",
@@ -446,7 +501,8 @@
             "level": 1,
             "color": "#6bbc00",
             "salary": 65785,
-            "college": "Grainger College of Engineering"
+            "college": "Grainger College of Engineering",
+            "description": "Mechanical Engineering is one the most diverse fields in engineering. This program applies mathematical, scientific, and engineering principles. Students study forces acting on bodies of solids or fluids as well as the resulting dynamic motion of those bodies. With these principles, we are able to design and control machines and systems. Examples include systems that apply loads, transport matter and energy, and convert one form of energy to another. If you\u2019re interested in how the world around you moves and changes, this major might be for you."
         },
         {
             "id": "physics",
@@ -454,7 +510,8 @@
             "level": 1,
             "color": "#5fb500",
             "salary": 62989,
-            "college": "Grainger College of Engineering"
+            "college": "Grainger College of Engineering",
+            "description": "Physics is the study of nature that focuses on the properties of matter, energy, space, and time. It is the branch of science that forms the foundation of all natural sciences. Physics is the science behind many everyday technologies, including computers, cell phones, and supermarket scanners. It is also the foundation of great breakthroughs such as lasers, magnetic resonance imaging (MRI), particle accelerators, fiber-optic communications, and many others. Physics majors at the University of Illinois earn a Bachelor of Science in Physics. The major provides you with the tools to investigate and analyze scientific mysteries. You'll also develop a deep conceptual and mathematical understanding of the world. Our flexible program will prepare you for a variety of careers, including teaching. It will also allow you to continue your education through graduate study in physics, science, or engineering fields. The curriculum provides a rigorous foundation in physics, mathematics, and laboratory techniques. The comprehensive elective options allow you to tune your individual program of study to suit your interests and career goals."
         },
         {
             "id": "bioengineering",
@@ -462,7 +519,8 @@
             "level": 1,
             "color": "#54af00",
             "salary": 60237,
-            "college": "Grainger College of Engineering"
+            "college": "Grainger College of Engineering",
+            "description": "Bioengineers use tools from biology, chemistry, physics, and math to solve engineering problems. These problems arise in human biological systems related to"
         },
         {
             "id": "environmental engineering",
@@ -470,7 +528,8 @@
             "level": 1,
             "color": "#4C4E52",
             "salary": "Not Enough Data",
-            "college": "Grainger College of Engineering"
+            "college": "Grainger College of Engineering",
+            "description": "Environmental engineers apply basic principles of science to achieve healthy, prosperous, and equitable communities. They also enhance the ecosystems that support these communities. They use mathematical and computational tools to do this."
         },
         {
             "id": "aerospace engineering",
@@ -478,7 +537,8 @@
             "level": 1,
             "color": "#69bb00",
             "salary": 65361,
-            "college": "Grainger College of Engineering"
+            "college": "Grainger College of Engineering",
+            "description": "Aerospace Engineering focuses on the research, development, integration, and production of aerospace systems. This major may interest you if you enjoy working in teams to create systems that include many types of engineering. You may learn about aerodynamics, design, and performance of air and spacecraft and their propulsion systems. Aerospace engineers will gain experience in mechanical, electrical, computer, material, and aerospace applications."
         },
         {
             "id": "agricultural and biological engineering (eng)",
@@ -486,7 +546,8 @@
             "level": 1,
             "color": "#56b000",
             "salary": 60681,
-            "college": "Grainger College of Engineering"
+            "college": "Grainger College of Engineering",
+            "description": "Agricultural and Biological Engineering applies science and engineering to production systems. These may include agriculture, food, environment, and energy. Other areas are natural resources, environmental protection and control, and related biological systems. This major may be for you if you\u2019re interested in sustainability or renewable fuel sources. You\u2019ll begin this major in the College of ACES. In your junior year, you will enroll in the College of Engineering to complete the degree. You can choose a concentration in either Agricultural Engineering or Biological Engineering."
         },
         {
             "id": "nuclear, plasma, and radiological engineering",
@@ -494,7 +555,8 @@
             "level": 1,
             "color": "#63b700",
             "salary": 63686,
-            "college": "Grainger College of Engineering"
+            "college": "Grainger College of Engineering",
+            "description": "This major focuses on how sources of nuclear energy and radiation are developed and used. Many of the exciting applications of this major are in energy production, materials processing, and science. This degree is also relevant for biomedical and industrial fields. In your classes you will think about the big picture of energy production and consumption. You\u2019ll study radiological technology, risk assessment, and analysis. In this major, you can learn how to ensure homeland security through detection technology. Our program is also a good fit for students interested in current and developing fission and fusion technology. With this degree, you can learn how to make computers, cell phones, and game consoles better, cheaper, and faster."
         },
         {
             "id": "engineering undeclared",
@@ -502,7 +564,8 @@
             "level": 1,
             "color": "#4C4E52",
             "salary": "Not Enough Data",
-            "college": "Grainger College of Engineering"
+            "college": "Grainger College of Engineering",
+            "description": "If you're interested in the field of engineering but need more time to decide on a major, this program is for you. As an Engineering Undeclared student, you'll have a chance to explore your major options while studying in The Grainger College of Engineering. During your first year, you'll work with advisors to find the major that best fits your career goals."
         },
         {
             "id": "systems engineering and design ",
@@ -510,7 +573,8 @@
             "level": 1,
             "color": "#68ba00",
             "salary": 65116,
-            "college": "Grainger College of Engineering"
+            "college": "Grainger College of Engineering",
+            "description": "This major provides a solid foundation in math, science, and engineering fundamentals. If you like multiple engineering disciplines, our program may be for you. System engineers must be able to lead others and make decisions. The ability to take risks and deal with the business landscape is also essential. Your curriculum will integrate principles of business, new technology, and entrepreneurship. You will focus your studies on either Pre-approved or Customized Secondary Field Options. Examples of Pre-approved Secondary Field Options include automotive engineering, control systems, and robotics. Examples of Customized Secondary Field Options include pre-med, applied math, and solar energy."
         },
         {
             "id": "neural engineering",
@@ -518,7 +582,8 @@
             "level": 1,
             "color": "#4C4E52",
             "salary": "Not Enough Data",
-            "college": "Grainger College of Engineering"
+            "college": "Grainger College of Engineering",
+            "description": "Neural engineers apply engineering principles to the design of technologies to understand, repair, and enhance the function of the nervous system."
         },
         {
             "id": "computer science and physics",
@@ -526,7 +591,8 @@
             "level": 1,
             "color": "#4C4E52",
             "salary": "Not Enough Data",
-            "college": "Grainger College of Engineering"
+            "college": "Grainger College of Engineering",
+            "description": "Physics is the study of nature that focuses on the properties of matter, energy, space, and time. Computer science is the study of the theory, design, and applications of digital computers. Our CS + Physics degree blends the two subjects and teaches you the skills to model physical (and other) systems computationally."
         },
         {
             "id": "computer science and bioengineering",
@@ -534,7 +600,8 @@
             "level": 1,
             "color": "#4C4E52",
             "salary": "Not Enough Data",
-            "college": "Grainger College of Engineering"
+            "college": "Grainger College of Engineering",
+            "description": "In this major, you'll develop an integrative understanding of computational and bioengineering principles to:"
         },
         {
             "id": "graphic design",
@@ -542,7 +609,8 @@
             "level": 1,
             "color": "#9dd600",
             "salary": 76522,
-            "college": "College of Fine & Applied Arts"
+            "college": "College of Fine & Applied Arts",
+            "description": "Graphic Design is the art of communicating with an audience through images, words, and ideas. You will address challenges as traditional craft and evolving communication technologies overlap. Our major will prepare you to affect positive change in contemporary social and cultural systems. Your coursework will address graphic design fundamentals like:"
         },
         {
             "id": "landscape architecture ",
@@ -550,7 +618,8 @@
             "level": 1,
             "color": "#329700",
             "salary": 50503,
-            "college": "College of Fine & Applied Arts"
+            "college": "College of Fine & Applied Arts",
+            "description": "Landscape Architecture is the design of all spaces beyond buildings. Our program will teach you about the specialties of this profession and how to succeed as the scope of the field continues to grow. With this major, you will study Landscape Architecture from two perspectives. Through one lens, you\u2019ll explore the impact of human activity on the environment. Through another, you\u2019ll study the influence of natural and historic factors on settlements, behavior, and well-being."
         },
         {
             "id": "music voice performance",
@@ -558,7 +627,8 @@
             "level": 1,
             "color": "#329700",
             "salary": 50503,
-            "college": "College of Fine & Applied Arts"
+            "college": "College of Fine & Applied Arts",
+            "description": "Voice Performance centers around performing and studio teaching. You will study solo and ensemble literature in addition to working on vocal performance. Core classes include Italian, French, and German so you can master the diction of any piece you perform. You'll also have opportunities to perform onstage throughout your time as an undergraduate. This program will help you master performance, vocal control, and professionality in the music world. You must pass an audition to be accepted into this program."
         },
         {
             "id": "music instrumental performance",
@@ -566,7 +636,8 @@
             "level": 1,
             "color": "#329700",
             "salary": 50503,
-            "college": "College of Fine & Applied Arts"
+            "college": "College of Fine & Applied Arts",
+            "description": "This major will prepare you for an artistic career in creative performance, studio teaching, or cultural ambassadorship. Coursework includes lessons, recitals, conducting, and ensemble experiences. You'll also take classes in music history and theory. You'll have opportunities to take part in small chamber groups and arts management. All orchestra and band instruments apply to this major. This includes piano, organ, and harpsichord. You must pass an audition to be accepted into this program."
         },
         {
             "id": "music composition ",
@@ -574,7 +645,8 @@
             "level": 1,
             "color": "#329700",
             "salary": 50503,
-            "college": "College of Fine & Applied Arts"
+            "college": "College of Fine & Applied Arts",
+            "description": "This major focuses on the concepts of composition and teaching. Students take specialized classes in orchestration, music formalization, and jazz arranging. Coursework also includes experimental, electronic, and computer music. In this major, you'll be able collaborate with fellow music students. You can also use experimental music studios and have your original works performed. Students learn from exceptional faculty pushing the boundaries of contemporary music. Our program also prepares students for graduate study. You must pass an audition to be accepted into this major."
         },
         {
             "id": "music open studies",
@@ -582,7 +654,8 @@
             "level": 1,
             "color": "#329700",
             "salary": 50503,
-            "college": "College of Fine & Applied Arts"
+            "college": "College of Fine & Applied Arts",
+            "description": "This program is the chance for you to design your own major within Music. Students can explore areas of study according to their own musical interests. These interests can include jazz, piano pedagogy, musical theatre, arts administration, foreign language, and more. Whatever you choose, Music Open Studies allows you to find what interests you. You must pass an audition to be accepted into this program."
         },
         {
             "id": "music education (k-12)",
@@ -590,7 +663,8 @@
             "level": 1,
             "color": "#117a00",
             "salary": 38311,
-            "college": "College of Fine & Applied Arts"
+            "college": "College of Fine & Applied Arts",
+            "description": "Music Education prepares you to be an accredited teacher for grades kindergarten through 12. You\u2019ll choose from one of four concentrations:"
         },
         {
             "id": "art education (k-12)",
@@ -598,7 +672,8 @@
             "level": 1,
             "color": "#107800",
             "salary": 37544,
-            "college": "College of Fine & Applied Arts"
+            "college": "College of Fine & Applied Arts",
+            "description": "Art Education prepares teachers of art for kindergarten through grade 12 in schools. This major places emphasis on methods, materials, processes, and practice teaching in Illinois. Through this area of study, you\u2019ll learn to embrace many roles, like artist, educator, and activist. Your coursework will cover a rigorous study of contemporary art and visual culture. You must submit a portfolio before the university accepts you into this program."
         },
         {
             "id": "dance (ba)",
@@ -606,7 +681,8 @@
             "level": 1,
             "color": "#4C4E52",
             "salary": "Not Enough Data",
-            "college": "College of Fine & Applied Arts"
+            "college": "College of Fine & Applied Arts",
+            "description": "The Bachelor of Arts in Dance is a flexible degree that empowers students to pursue dance as well as other academic interests. You\u2019ll study three core areas of dance:"
         },
         {
             "id": "dance (bfa)",
@@ -614,7 +690,8 @@
             "level": 1,
             "color": "#329700",
             "salary": 50503,
-            "college": "College of Fine & Applied Arts"
+            "college": "College of Fine & Applied Arts",
+            "description": "Through this rigorous major focused on contemporary modern dance, you\u2019ll learn how the body works, research the art form\u2019s expansive history, and define your own voice as a performer and choreographer. With strong relationships across the professional dance world, our intimate program features one-on-one mentoring from an extraordinary group of resident performers, choreographers, scholars, and educators, as well as numerous guest artists. You must pass an audition for acceptance into this program."
         },
         {
             "id": "music",
@@ -622,7 +699,8 @@
             "level": 1,
             "color": "#329700",
             "salary": 50503,
-            "college": "College of Fine & Applied Arts"
+            "college": "College of Fine & Applied Arts",
+            "description": "This major is intended for students interested in the broad historical, cultural, and theoretical aspects of music, rather than professional training. There are four areas of study in our Bachelor of Arts program:"
         },
         {
             "id": "musicology",
@@ -630,7 +708,8 @@
             "level": 1,
             "color": "#329700",
             "salary": 50503,
-            "college": "College of Fine & Applied Arts"
+            "college": "College of Fine & Applied Arts",
+            "description": "Musicology is designed for students interested in learning about music and sound in relation to their cultural, intellectual, and historical contexts. In this major, you\u2019ll work with your advisor to structure a curriculum that works for you. Your coursework will include both music and non-music courses that focus on subjects you\u2019re passionate about. Our professors are specialists in a wide range of topics and approaches to music and sound study. We offer both a Bachelor of Arts (BA) and a Bachelor of Music (BM) degree in Musicology."
         },
         {
             "id": "stage management",
@@ -638,7 +717,8 @@
             "level": 1,
             "color": "#329700",
             "salary": 50503,
-            "college": "College of Fine & Applied Arts"
+            "college": "College of Fine & Applied Arts",
+            "description": "Stage Management is a concentration within Theatre. This program helps theatre artists develop into professional stage managers. Students will gain the resources and experiences needed to meet the demands of any live performance genre. Learning takes place in a creative and dynamic production environment. In this program, you will develop communication, team management, and technical skills. You\u2019ll also gain hands-on experience working as a stage manager and production coordinator in theatre, lyric theatre, and dance productions. You can apply directly into this concentration, although you must submit a portfolio before being accepted."
         },
         {
             "id": "theatre studies",
@@ -646,7 +726,8 @@
             "level": 1,
             "color": "#329700",
             "salary": 50503,
-            "college": "College of Fine & Applied Arts"
+            "college": "College of Fine & Applied Arts",
+            "description": "Theatre Studies is a concentration within Theatre. This program lays the groundwork for students who are planning to pursue advanced training or graduate studies. Our curriculum includes a comprehensive study of theatre. Students will learn about both historical and current theatre practices. In this program, you'll also discover new theatre practices and learn how to apply them in the future. This concentration has a lot of flexibility, allowing for individual exploration. Applications of this degree range from playwriting to theatre management. You must submit a portfolio before being accepted into this program."
         },
         {
             "id": "acting",
@@ -654,7 +735,8 @@
             "level": 1,
             "color": "#329700",
             "salary": 50503,
-            "college": "College of Fine & Applied Arts"
+            "college": "College of Fine & Applied Arts",
+            "description": "This program is a concentration within Theatre. It provides in-depth training in a variety of performing media with a personal approach. You\u2019ll spend the first 2 years studying all types of theatre. You will also take introductory courses in movement, voice, and acting. After passing a review to enter your final 2 years, you\u2019ll meet in daily 4-hour studio sessions that expand on your previous studies. These may include training in Shakespeare, dialects, stage combat, contemporary and period plays, musical theatre, and on-camera technique. You can apply directly into this concentration, although you must pass an audition before being accepted."
         },
         {
             "id": "costume design and technology",
@@ -662,7 +744,8 @@
             "level": 1,
             "color": "#329700",
             "salary": 50503,
-            "college": "College of Fine & Applied Arts"
+            "college": "College of Fine & Applied Arts",
+            "description": "Costume Design and Technology is a concentration within Theatre. You\u2019ll explore design as well as costume construction, costume crafts, and historical costumes. This concentration provides theoretical, artistic, and practical training for theatre, opera, and entertainment. This concentration\u2019s goal is to educate and train young designers. You will learn to become a leading artist of the 21st century; collaborative, creative, open-minded, and critical. You can apply into this concentration, but you must submit a portfolio before being accepted."
         },
         {
             "id": "scenic technology",
@@ -670,7 +753,8 @@
             "level": 1,
             "color": "#329700",
             "salary": 50503,
-            "college": "College of Fine & Applied Arts"
+            "college": "College of Fine & Applied Arts",
+            "description": "Scenic Technology is a concentration within Theatre. Our program provides both classroom and practical instruction that will prepare you for any type of production. Students gain hands-on experience in theatre, musical theatre, opera, and dance performances. As a student, you can work as deck chief, a member of the stage run crew, or a head fly person. You can even be a master carpenter or assistant technical director. Students must submit a portfolio before being accepted into this major."
         },
         {
             "id": "lighting design and technology ",
@@ -678,7 +762,8 @@
             "level": 1,
             "color": "#329700",
             "salary": 50503,
-            "college": "College of Fine & Applied Arts"
+            "college": "College of Fine & Applied Arts",
+            "description": "This program is a concentration within Theatre. Lighting designers help set the mood on the stage. They are responsible for planning and executing the way light is used in the theater. Our program includes a genuine mentorship and incorporates different types of learning. Classroom lectures and training will combine with many hours of hands-on opportunities. You will gain experience working with the latest technology in lighting systems for all kinds of shows and venues. You can apply directly into this concentration, although you must submit a portfolio before being accepted."
         },
         {
             "id": "sound design and technology",
@@ -686,7 +771,8 @@
             "level": 1,
             "color": "#329700",
             "salary": 50503,
-            "college": "College of Fine & Applied Arts"
+            "college": "College of Fine & Applied Arts",
+            "description": "This program is a concentration within Theatre. A degree in Sound Design and Technology prepares students for professional roles in sound design. In this program, you will gain current knowledge of sound design, equipment standards, and trends. You'll gain technical skills that allow you to troubleshoot and solve problems. Students learn how to create and collaborate with other designers. Our program offers students hands-on experience working as sound designers and engineers on productions in theatre, lyric theatre, and dance. You can apply directly into this concentration, although you must submit a portfolio before being accepted."
         },
         {
             "id": "scenic design",
@@ -694,7 +780,8 @@
             "level": 1,
             "color": "#329700",
             "salary": 50503,
-            "college": "College of Fine & Applied Arts"
+            "college": "College of Fine & Applied Arts",
+            "description": "Scenic Design is a concentration within Theatre. Our curriculum incorporates rigorous studio and production work. Through this, students develop a deep understanding of scenography. In our program, your classes will focus on fostering your individual growth while also introducing you to a competitive professional environment. You\u2019ll collaborate with guest artists and gain experience in design, props, and paints. You\u2019ll also have opportunities to work on productions in theatre, lyric theatre, and dance. Our graduates leave with a strong foundation in both scenic design and theatre studies. You can apply directly into this concentration, although you must submit a portfolio before being accepted."
         },
         {
             "id": "art undeclared ",
@@ -702,7 +789,8 @@
             "level": 1,
             "color": "#4C4E52",
             "salary": "Not Enough Data",
-            "college": "College of Fine & Applied Arts"
+            "college": "College of Fine & Applied Arts",
+            "description": "If you\u2019re interested in art and design but aren\u2019t sure where to start, Art Undeclared is the option for you.  You\u2019ll have the opportunity to explore different majors in our School of Art and Design, including art and art history, art education (K-12), graphic design, industrial design, and studio art. You'll take a variety of classes, including  drawing, 2D, 3D, and 4D art practices, and declare a major by March 1 of your first year of study."
         },
         {
             "id": "architectural studies",
@@ -710,7 +798,8 @@
             "level": 1,
             "color": "#1f8700",
             "salary": 43828,
-            "college": "College of Fine & Applied Arts"
+            "college": "College of Fine & Applied Arts",
+            "description": "Architects conceptualize and construct physical structures like buildings. In this major, you\u2019ll receive a foundation in 2- and 3-dimensional design. You will focus on both aesthetics and technology. This major will prepare you to be a creative thinker and create inventive solutions to social, political, economic, and environmental problems."
         },
         {
             "id": "jazz performance",
@@ -718,7 +807,8 @@
             "level": 1,
             "color": "#329700",
             "salary": 50503,
-            "college": "College of Fine & Applied Arts"
+            "college": "College of Fine & Applied Arts",
+            "description": "This major will prepare you for a career in instrumental or vocal jazz performance. You\u2019ll study comprehensive coursework in jazz solo and ensemble literatures. Courses offered include:"
         },
         {
             "id": "urban studies and planning",
@@ -726,7 +816,8 @@
             "level": 1,
             "color": "#1a8300",
             "salary": 42173,
-            "college": "College of Fine & Applied Arts"
+            "college": "College of Fine & Applied Arts",
+            "description": "Urban Studies & Planning focuses on the way our cities are designed, constructed, and planned. You'll have the opportunity to decide what you enjoy more, from planning parks to working on highway transportation. Projects can range from upgrading a historical neighborhood to city planning. As an Urban Studies and Planning student, you\u2019ll study:"
         },
         {
             "id": "computer science and music",
@@ -734,7 +825,8 @@
             "level": 1,
             "color": "#4C4E52",
             "salary": "Not Enough Data",
-            "college": "College of Fine & Applied Arts"
+            "college": "College of Fine & Applied Arts",
+            "description": "This major is for students interested in pursuing a career in music technology, music composition, or audio technology. Your degree will prepare you for the changing music production industry. You\u2019ll take courses in music theory, musicianship, computer science, math, and more. This major will prepare you to challenge the status quo in music composition and explore new avenues of expression. You must submit a portfolio and pass an interview before being accepted into this program."
         },
         {
             "id": "lyric theatre",
@@ -742,7 +834,8 @@
             "level": 1,
             "color": "#329700",
             "salary": 50503,
-            "college": "College of Fine & Applied Arts"
+            "college": "College of Fine & Applied Arts",
+            "description": "Lyric Theatre is housed within our School of Music. This major combines vocal and acting training needed for the 21st century musical stage. Through our program, you'll take part in fully-staged musical and opera productions each year. You will learn how to use the body and voice in a healthy manner and how to sing many styles of music. Students choose between performance and creative concentrations. You can pick electives based on your professional interests. Students learn in a friendly, supportive environment. If you join our program, dedicated teachers and top industry professionals will instruct you. They will provide you with excellent career advice suited to your talents. With this major, you will gain opportunities to engage with the professional world."
         },
         {
             "id": "studio art (ba)",
@@ -750,7 +843,8 @@
             "level": 1,
             "color": "#329700",
             "salary": 50503,
-            "college": "College of Fine & Applied Arts"
+            "college": "College of Fine & Applied Arts",
+            "description": "This major focuses on the study of art, design, and art history in the context of a broader program of study. Students gain a strong education in studio art while having the flexibility to pursue studies in other areas. You will have an individual studio space housed in a communal studio building. You'll be able to work alongside other student-artists in a strong, vibrant community. A significant part of the educational experience will also occur outside of the studio. As you progress through the program, you'll establish your focus and participate in exhibitions, performances, and critiques. You'll concentrate in one of seven areas:"
         },
         {
             "id": "studio art (bfa)",
@@ -758,7 +852,8 @@
             "level": 1,
             "color": "#107800",
             "salary": 37544,
-            "college": "College of Fine & Applied Arts"
+            "college": "College of Fine & Applied Arts",
+            "description": "This major focuses on the skills necessary to create artwork, think critically, and gain experience in a broad range of topics. The goal is to prepare students as innovative artists and as global citizens. You\u2019ll navigate a dynamic curriculum that is responsive to current trends in art, culture, and creativity. You'll concentrate in one of seven areas:"
         },
         {
             "id": "art and art history ",
@@ -766,7 +861,8 @@
             "level": 1,
             "color": "#329700",
             "salary": 50503,
-            "college": "College of Fine & Applied Arts"
+            "college": "College of Fine & Applied Arts",
+            "description": "Illinois offers two distinct majors related to art history. Our Art and Art History program in FAA unites academic and studio training by offering a Bachelor of Fine Arts degree in a combined art history and studio/design course of study. You'll gain experience in making art along with studying its history. You'll also develop skills in visual analysis, critical thinking, and writing. Earning this degree will qualify you to pursue a range of careers, museum work, or graduate study in either art history or studio practice. A portfolio review is required for admission to the School of Art and Design."
         },
         {
             "id": "sustainable design",
@@ -774,7 +870,8 @@
             "level": 1,
             "color": "#4C4E52",
             "salary": "Not Enough Data",
-            "college": "College of Fine & Applied Arts"
+            "college": "College of Fine & Applied Arts",
+            "description": "Sustainable Design focuses on creating sustainable communities through intentional design. You'll learn how to build objects, places, systems, and policies to solve problems of sustainability in a constantly evolving society. Challenges you\u2019ll take on include:"
         },
         {
             "id": "arts and entertainment technology ",
@@ -782,7 +879,8 @@
             "level": 1,
             "color": "#4C4E52",
             "salary": "Not Enough Data",
-            "college": "College of Fine & Applied Arts"
+            "college": "College of Fine & Applied Arts",
+            "description": "Arts and Entertainment Technology is a concentration within Theatre. This concentration combines new technologies with traditional theatre practices. It focuses on craft, technique, and problem-solving skills. As an Arts and Entertainment Technology student, you'll develop your technical and design skills. This includes computer networking, app development, and program design and development. You'll also build relationships with professionals in the industry. You can apply directly into this concentration, but you must submit a portfolio before being accepted."
         },
         {
             "id": "advertising",
@@ -790,7 +888,8 @@
             "level": 1,
             "color": "#1d8500",
             "salary": 43041,
-            "college": "College of Media"
+            "college": "College of Media",
+            "description": "Draw upon insights from psychology, sociology, history, and anthropology with advertising. In this major, you will learn to promote products, services, and events. You\u2019ll be able to examine consumer behavior and consumer-oriented messages. You will also study the history of advertising and advertising research methods."
         },
         {
             "id": "journalism",
@@ -798,7 +897,8 @@
             "level": 1,
             "color": "#0c7400",
             "salary": 35828,
-            "college": "College of Media"
+            "college": "College of Media",
+            "description": "Journalism is the process of gathering, verifying, and sharing news across a wide variety of platforms. These platforms range from television, radio, and newspapers to websites and mobile devices. In this major, you'll learn the skills required to succeed as a journalist and the news media's role in democratic life. Our program places a heavy emphasis on real-world, hands-on experience. This includes working at campus and local news outlets and on special projects with faculty and fellow students."
         },
         {
             "id": "media and cinema studies",
@@ -806,7 +906,8 @@
             "level": 1,
             "color": "#0a7100",
             "salary": 34663,
-            "college": "College of Media"
+            "college": "College of Media",
+            "description": "Media and Cinema Studies will prepare you for careers in media, information, creative, and visual industries. Students in this major learn to interact with everyday media technologies. Our interdisciplinary curriculum emphasizes collaboration, creativity, and problem-solving. If you join our program, you'll learn how to navigate an ever-changing media landscape both today and in the future. You\u2019ll be able to understand the media you consume as well as produce complex media of your own. You will also have the flexibility to design a path of study based on your own interests and goals."
         },
         {
             "id": "computer science and advertising",
@@ -814,7 +915,8 @@
             "level": 1,
             "color": "#4C4E52",
             "salary": "Not Enough Data",
-            "college": "College of Media"
+            "college": "College of Media",
+            "description": "This major combines two fields of study that are becoming tied together in our ever-changing media landscape. Advertising has long been a field of storytelling intended to engage consumers. Computer Science is a field born out of our digital world based around data. CS & Advertising prepares students to address today\u2019s digital advertising world. With this major, you will learn advertising methods as well as modern data knowledge."
         },
         {
             "id": "economics",
@@ -822,7 +924,8 @@
             "level": 1,
             "color": "#3c9e00",
             "salary": 53419,
-            "college": "College of Liberal Arts & Sciences"
+            "college": "College of Liberal Arts & Sciences",
+            "description": "Economics is the study of creation, consumption, and transfer of wealth. The major includes two major areas: microeconomics and macroeconomics. Microeconomics focuses on how individuals and firms produce and consume goods and services. Macroeconomics is concerned with mass economic progress and international trade. As a student in Economics, you\u2019ll learn about markets and how capital moves, is gained and lost, and transfers among individuals. You\u2019ll gain an understanding of the numbers and theories behind economics. With this understanding, you can use quantitative skills like calculus and statistics to solve economic issues. These issues include the use of:"
         },
         {
             "id": "history of art",
@@ -830,7 +933,8 @@
             "level": 1,
             "color": "#0b7300",
             "salary": 35560,
-            "college": "College of Liberal Arts & Sciences"
+            "college": "College of Liberal Arts & Sciences",
+            "description": "Illinois offers two distinct majors related to art history. The History of Art major in LAS, which results in a Bachelor of Arts degree, focuses on liberal arts courses, including literature and history. You\u2019ll analyze and interpret visual cultures, both past and present, from around the globe. You'll learn skills that will help you in understanding a world based on visual communication. You\u2019ll examine art, artifacts, and environments produced by contemporary and historical societies. You'll learn skills to appropriately research, write, and speak about your findings."
         },
         {
             "id": "east asian languages and cultures",
@@ -838,7 +942,8 @@
             "level": 1,
             "color": "#1b8400",
             "salary": 42419,
-            "college": "College of Liberal Arts & Sciences"
+            "college": "College of Liberal Arts & Sciences",
+            "description": "Through East Asian Languages and Cultures, you'll"
         },
         {
             "id": "latin american studies",
@@ -846,7 +951,8 @@
             "level": 1,
             "color": "#0d7500",
             "salary": 36509,
-            "college": "College of Liberal Arts & Sciences"
+            "college": "College of Liberal Arts & Sciences",
+            "description": "In this major, you\u2019ll have the opportunity to explore Latin America. Our program provides in-depth, integrative coursework that spans across multiple perspectives. Students use both historical and humanistic lenses to study the society, politics, and economics of the area. Anthropology, ecology, and geography are also examined. You will also gain command of a Latin American language. Possibilities include Spanish, Portuguese, Quechua, or another Native language indigenous to Middle or South America. On top of everything, you will develop critical thinking, research, and writing skills."
         },
         {
             "id": "chemical engineering",
@@ -854,7 +960,8 @@
             "level": 1,
             "color": "#80c800",
             "salary": 70588,
-            "college": "College of Liberal Arts & Sciences"
+            "college": "College of Liberal Arts & Sciences",
+            "description": "This major focuses on the chemical transformation of substances to products and energy for society. Chemical Engineering is rooted in chemistry. As a Chemical Engineering student, you\u2019ll develop knowledge in physics, math, and chemistry. You'll learn about momentum transfer, separations, and reactor design. You\u2019ll also apply this knowledge to real-world projects in lab and design classes in a way that will safely operate chemical processes. You can choose from two concentrations: Chemical Engineering and Biomolecular Engineering."
         },
         {
             "id": "linguistics",
@@ -862,7 +969,8 @@
             "level": 1,
             "color": "#299000",
             "salary": 47721,
-            "college": "College of Liberal Arts & Sciences"
+            "college": "College of Liberal Arts & Sciences",
+            "description": "Linguistics studies the structure, use, and development of languages over time. Our program provides a solid background in all the core areas of theoretical linguistics. As a Linguistics student, you will become competent in at least two languages. You'll also gain knowledge in linguistic areas of psychology, sociology, and anthropology. You will study speech and hearing science, computer science, and more. In this major, your coursework will build skills in analytical reasoning and argumentation. Classes will also enhance your writing and observational skills. Students may gain additional training by combining this major with certificate programs. Possibilities include:"
         },
         {
             "id": "french",
@@ -870,7 +978,8 @@
             "level": 1,
             "color": "#117a00",
             "salary": 38242,
-            "college": "College of Liberal Arts & Sciences"
+            "college": "College of Liberal Arts & Sciences",
+            "description": "Our French major and minor build a strong competency in the language as well as the cultures who speak it. Students will engage with:"
         },
         {
             "id": "italian",
@@ -878,7 +987,8 @@
             "level": 1,
             "color": "#1b8400",
             "salary": 42419,
-            "college": "College of Liberal Arts & Sciences"
+            "college": "College of Liberal Arts & Sciences",
+            "description": "This major is the study of the Italian language as well as an analysis of Italian culture. You will study Mediterranean societies in a global context. You'll also have the opportunity to learn European tradition in relation to globalization. You\u2019ll gain language and cultural skills that will allow you to explain the role of culture in economics, politics, and society. You\u2019ll also have ample and diverse opportunities to study in Italy."
         },
         {
             "id": "portuguese",
@@ -886,7 +996,8 @@
             "level": 1,
             "color": "#1b8400",
             "salary": 42419,
-            "college": "College of Liberal Arts & Sciences"
+            "college": "College of Liberal Arts & Sciences",
+            "description": "In this major, you will learn to speak Portuguese with professional proficiency. You'll also study the cultural and academic aspects of globalization, migration, and nation-making. Our program teaches many aspects of history, including modernity, postmodernity, colonialism, and postcolonialism. Students also consider ethnicity, race, gender, sexuality, and class. With all these lenses, you'll address topics like the economy, the environment, and society at large. Coursework will focus on Brazil. Our program offers classes on Brazilian film and Luso-Brazilian culture. Portuguese texts and advanced grammar are also included in coursework to ensure fluency."
         },
         {
             "id": "spanish",
@@ -894,7 +1005,8 @@
             "level": 1,
             "color": "#1f8800",
             "salary": 44043,
-            "college": "College of Liberal Arts & Sciences"
+            "college": "College of Liberal Arts & Sciences",
+            "description": "In this major, you\u2019ll gain mastery of the Spanish language while learning core concepts of Spanish culture, literature, and linguistics. Our program offers a variety of opportunities so that you can shape your studies to fit your interests. You'll have chances to study abroad, work with faculty, and take part in community service. This degree will prepare you to engage in a changing world where Spanish is a crucial language. The Spanish major is often chosen in conjunction with another major. There is also a Teacher Education option that prepares students to teach Spanish."
         },
         {
             "id": "classics",
@@ -902,7 +1014,8 @@
             "level": 1,
             "color": "#1b8400",
             "salary": 42419,
-            "college": "College of Liberal Arts & Sciences"
+            "college": "College of Liberal Arts & Sciences",
+            "description": "Classics is the study of languages, culture, history, and thought of the civilizations of ancient Greece and Rome. Through this major, you will develop strong analytical and communication skills. The major also has an option for teaching if you would like to teach Latin. As a Classics student, you\u2019ll study:"
         },
         {
             "id": "english",
@@ -910,7 +1023,8 @@
             "level": 1,
             "color": "#0e7700",
             "salary": 37070,
-            "college": "College of Liberal Arts & Sciences"
+            "college": "College of Liberal Arts & Sciences",
+            "description": "This major studies literature, text, and culture. You\u2019ll learn how to apply critical thinking skills to a variety of pieces of literature. You'll look at situations from new angles, and communicate your ideas through writing. Your coursework will delve into subjects like:"
         },
         {
             "id": "biology",
@@ -918,7 +1032,8 @@
             "level": 1,
             "color": "#4C4E52",
             "salary": "Not Enough Data",
-            "college": "College of Liberal Arts & Sciences"
+            "college": "College of Liberal Arts & Sciences",
+            "description": "Illinois offers two Biology majors: Integrative Biology and Molecular and Cellular Biology. If you\u2019re interested in either of these majors, you\u2019ll apply into our Biology program. You\u2019ll spend your first year exploring the world of biology before deciding which path to pursue."
         },
         {
             "id": "biochemistry",
@@ -926,7 +1041,8 @@
             "level": 1,
             "color": "#359a00",
             "salary": 51527,
-            "college": "College of Liberal Arts & Sciences"
+            "college": "College of Liberal Arts & Sciences",
+            "description": "Biochemistry is an advanced field that encompasses the biological sciences, physics, and chemistry. You\u2019ll develop a higher level of understanding of chemistry and physics and place these in a modern research context. Your coursework will also consist of molecular and cellular biology and chemistry courses. This major might be the right fit for you if you\u2019re interested in a career in research or have advanced degree aspirations."
         },
         {
             "id": "neuroscience",
@@ -934,7 +1050,8 @@
             "level": 1,
             "color": "#4C4E52",
             "salary": "Not Enough Data",
-            "college": "College of Liberal Arts & Sciences"
+            "college": "College of Liberal Arts & Sciences",
+            "description": "Neuroscience is the study of the nervous system and brain function at many levels. These levels include information processing, systems and integrative physiology, and behavior. Our neuroscience curriculum combines the study of molecular and cellular biology with neuroscience, neurophysiology, neurochemistry, and neuropathology."
         },
         {
             "id": "statistics",
@@ -942,7 +1059,8 @@
             "level": 1,
             "color": "#4ca900",
             "salary": 57962,
-            "college": "College of Liberal Arts & Sciences"
+            "college": "College of Liberal Arts & Sciences",
+            "description": "Statistics is the science of modeling, summarizing, and analyzing data. With statistics, you can make predictions and decisions about uncertain situations. This branch of mathematics is applicable in any area involving quantitative measurement. In this major, you'll gain an understanding of statistical inference. You will also learn about applied statistical analysis. This includes experimental design, simulation, model selection, and validation."
         },
         {
             "id": "philosophy",
@@ -950,7 +1068,8 @@
             "level": 1,
             "color": "#359a00",
             "salary": 51527,
-            "college": "College of Liberal Arts & Sciences"
+            "college": "College of Liberal Arts & Sciences",
+            "description": "Philosophy is the oldest, broadest, and most fundamental body of inquiry. In this major, you\u2019ll ask investigative questions to better understand yourself, others, and more. You\u2019ll explore the range of knowledge and experience, ethical issues, and value in society. This theoretical discipline emphasizes both deductive reasoning and rational argumentation. With this degree, you\u2019ll learn powerful critical and independent thinking skills. You'll also enhance your verbal and written communication."
         },
         {
             "id": "astronomy",
@@ -958,7 +1077,8 @@
             "level": 1,
             "color": "#4ba900",
             "salary": 57842,
-            "college": "College of Liberal Arts & Sciences"
+            "college": "College of Liberal Arts & Sciences",
+            "description": "Astronomy is the study of physics, chemistry, and the evolution of the universe. In this major, you\u2019ll study stars, planets, moons, comets, nebulae and galaxies. You'll determine the positions and motions of these phenomena. You\u2019ll gain analytical skills and learn to draw conclusions from data. You\u2019ll also learn how to apply physics concepts to understanding the universe. Our department also provides many opportunities for involvement in faculty research projects."
         },
         {
             "id": "atmospheric sciences",
@@ -966,7 +1086,8 @@
             "level": 1,
             "color": "#4ba900",
             "salary": 57842,
-            "college": "College of Liberal Arts & Sciences"
+            "college": "College of Liberal Arts & Sciences",
+            "description": "Atmospheric Sciences is a major that focuses on the study of Earth\u2019s atmosphere, weather, and climate. Your coursework will also include a firm foundation in mathematics, physics, and chemistry. You\u2019ll learn how to solve complex problems, develop critical and analytical thinking skills, and be ready to apply these skills to the world. Our program adheres to the recommendation of the American Meteorological Society. In other words, we will prepare you with a degree that satisfies applications for employment and graduate programs."
         },
         {
             "id": "chemistry",
@@ -974,7 +1095,8 @@
             "level": 1,
             "color": "#248c00",
             "salary": 45611,
-            "college": "College of Liberal Arts & Sciences"
+            "college": "College of Liberal Arts & Sciences",
+            "description": "Chemistry is the study of matter at the molecular level. Professional chemists"
         },
         {
             "id": "geology",
@@ -982,7 +1104,8 @@
             "level": 1,
             "color": "#359a00",
             "salary": 51527,
-            "college": "College of Liberal Arts & Sciences"
+            "college": "College of Liberal Arts & Sciences",
+            "description": "As a Geology major, you\u2019ll learn how to analyze and help find solutions to many social issues. You'll explore how to reduce negative environmental impacts and find other natural resources. When you apply to Illinois, you can choose to apply to either Geology or Geology BSLAS. This major has fewer technical requirements and allows flexibility to pursue other interests. This will result in a Bachelor of Science in Liberal Arts and Sciences. It also offers a Secondary Education option for the teaching of Earth Science in high schools. Our Geology major includes a specialized curriculum through which you\u2019ll earn a Bachelor of Science in Geology. Through your coursework, you\u2019ll combine field study, theory, and computer and lab analysis. You can choose from three concentrations: Geology, Geophysics, or Environmental Geology."
         },
         {
             "id": "anthropology",
@@ -990,7 +1113,8 @@
             "level": 1,
             "color": "#278e00",
             "salary": 46748,
-            "college": "College of Liberal Arts & Sciences"
+            "college": "College of Liberal Arts & Sciences",
+            "description": "Anthropology is the study of difference. It teaches us about what it means to be human from cross-cultural points of view."
         },
         {
             "id": "history",
@@ -998,7 +1122,8 @@
             "level": 1,
             "color": "#198200",
             "salary": 41546,
-            "college": "College of Liberal Arts & Sciences"
+            "college": "College of Liberal Arts & Sciences",
+            "description": "As a History major, you\u2019ll learn the skills to understand the past, connect it to the present, and confront some of the greatest challenges of our time. Through your classes, you\u2019ll master critical thinking, research, and writing skills. Your coursework will also include an original independent, historical research project. You\u2019ll consider complex problems, analyze data, and offer new interpretations. This major also offers a Secondary Education option for the teaching of Social Studies in high schools."
         },
         {
             "id": "political science",
@@ -1006,7 +1131,8 @@
             "level": 1,
             "color": "#238b00",
             "salary": 45463,
-            "college": "College of Liberal Arts & Sciences"
+            "college": "College of Liberal Arts & Sciences",
+            "description": "In this major, you\u2019ll study policy in nations, between nations, and in non-governmental settings. Students delve into questions of power, conflict, cooperation, and diversity in the U.S. and across the world. With these questions, you'll learn about decision-making and disagreement management. Instruction is divided into five areas: American politics, comparative politics, public policy, political theory, and international relations. Your coursework will teach you how to gather, analyze, and interpret data and evidence. You will also learn how to write and communicate with confidence. In your classes, you'll learn how to collaborate on projects. You can choose from seven concentrations:"
         },
         {
             "id": "sociology",
@@ -1014,7 +1140,8 @@
             "level": 1,
             "color": "#117a00",
             "salary": 38493,
-            "college": "College of Liberal Arts & Sciences"
+            "college": "College of Liberal Arts & Sciences",
+            "description": "In this major, you\u2019ll learn about the inner workings of society. Sociology students gain a distinctive set of conceptual tools. These tools can be used to understand and solve the problems in our complex social world. Our program will teach you research methods that will help you better understand social diversity and change. You'll learn both in the classroom and through hands-on opportunities. Students will gain analytical skills by delving into social statistics. Students will also develop creativity, critical thinking, collaboration, and excellent written expression."
         },
         {
             "id": "molecular and cellular biology",
@@ -1022,7 +1149,8 @@
             "level": 1,
             "color": "#137b00",
             "salary": 39086,
-            "college": "College of Liberal Arts & Sciences"
+            "college": "College of Liberal Arts & Sciences",
+            "description": "Molecular and Cellular Biology (MCB) is the study of living organisms through two lenses. One is the understanding of basic molecular and cellular structure and function. The other is the metabolic, genetic, and physiological processes common to all organisms."
         },
         {
             "id": "integrative biology",
@@ -1030,7 +1158,8 @@
             "level": 1,
             "color": "#0b7300",
             "salary": 35471,
-            "college": "College of Liberal Arts & Sciences"
+            "college": "College of Liberal Arts & Sciences",
+            "description": "Integrative Biology (IB) is the study of living organisms through an integrative lens. It pulls concepts and skills from many disciplines to answer questions about how life works, from the level of the gene to the global ecosystem."
         },
         {
             "id": "mathematics",
@@ -1038,7 +1167,8 @@
             "level": 1,
             "color": "#54af00",
             "salary": 60191,
-            "college": "College of Liberal Arts & Sciences"
+            "college": "College of Liberal Arts & Sciences",
+            "description": "This major establishes a strong foundation in many areas of mathematics. Students will study algebra, geometry, topology, logic, analysis, probability, and differential equations. Subjects of study also include algebraic geometry, combinatorics, optimization, number theory, and applied mathematics. In this program, your coursework will strengthen your abstract thinking and quantitative reasoning. You will leave with both proof-based and applied math as a foundation for your future career. Students have the opportunity to specialize in:"
         },
         {
             "id": "actuarial science",
@@ -1046,7 +1176,8 @@
             "level": 1,
             "color": "#59b200",
             "salary": 61563,
-            "college": "College of Liberal Arts & Sciences"
+            "college": "College of Liberal Arts & Sciences",
+            "description": "Actuarial Science is a field that combines other fields to find the numbers behind risks and contingencies. In this major, you\u2019ll enjoy the program\u2019s strong foundation of mathematics and receive training in probability modeling. You\u2019ll also learn important skills in math, data analysis, economics, statistics, and finance. With this degree, you\u2019ll be able to determine the risk of certain actions in any industry. Using that information, you will consult on whether those plans are the best course of action."
         },
         {
             "id": "statistics and computer science",
@@ -1054,7 +1185,8 @@
             "level": 1,
             "color": "#d5ef00",
             "salary": 86661,
-            "college": "College of Liberal Arts & Sciences"
+            "college": "College of Liberal Arts & Sciences",
+            "description": "This major provides students with a strong foundation in Computer Science coupled with advanced coursework in Statistics. Students gain a fundamental understanding of statistical analysis, probability, mathematics, computing, and computer science. In this major, you will have opportunities to work closely with faculty on research. You'll also have the chance to gain hands-on experience through consulting and internships. Our program will prepare you for professional or graduate work in Statistics and Computer Science. You will also be prepared for applications of Computer Science involving Statistics."
         },
         {
             "id": "african american studies",
@@ -1062,7 +1194,8 @@
             "level": 1,
             "color": "#0d7500",
             "salary": 36509,
-            "college": "College of Liberal Arts & Sciences"
+            "college": "College of Liberal Arts & Sciences",
+            "description": "African American Studies is a field that explores the life and culture of African American peoples. You will learn about African diaspora, with a focus on relationships, patterns, and ties. As an African American Studies student, you\u2019ll analyze the historical, political, social, and economic issues affecting African Americans.\u00a0You\u2019ll also develop creative, critical thinking, communication, computer, and statistical skills."
         },
         {
             "id": "gender and women's studies",
@@ -1070,7 +1203,8 @@
             "level": 1,
             "color": "#0d7500",
             "salary": 36509,
-            "college": "College of Liberal Arts & Sciences"
+            "college": "College of Liberal Arts & Sciences",
+            "description": "Gender and Women\u2019s Studies explores, analyzes, and challenges the ways gender shapes people\u2019s lives. In this major, you\u2019ll learn how assumptions about gender difference influence many aspects of social and political life. You will learn about different forms of inequality in the workforce, education and scientific research. You\u2019ll also analyze how race, ethnicity, class, sexuality, and physical ability shape gender inequality. You\u2019ll gain the skills to spark change and work for justice."
         },
         {
             "id": "germanic studies",
@@ -1078,7 +1212,8 @@
             "level": 1,
             "color": "#1b8400",
             "salary": 42419,
-            "college": "College of Liberal Arts & Sciences"
+            "college": "College of Liberal Arts & Sciences",
+            "description": "As a Germanic Studies major, you'll explore areas such as"
         },
         {
             "id": "mathematics and computer science",
@@ -1086,7 +1221,8 @@
             "level": 1,
             "color": "#e5f500",
             "salary": 89187,
-            "college": "College of Liberal Arts & Sciences"
+            "college": "College of Liberal Arts & Sciences",
+            "description": "Mathematics gives you unique tools for solving problems. Computer science lets you translate ideas into action. In a world focused on science and technology, our program is a powerful combination. This major is designed for students who would like a strong foundation in computer science coupled with advanced coursework in mathematics. You\u2019ll have the chance to work directly with faculty on their research. Students have a wide variety of opportunities, from analyzing the HIV capsid to pioneering virtual reality. Our program will prepare you for professional or graduate work. You will also be prepared for other applications in computer science and mathematics."
         },
         {
             "id": "interdisciplinary studies",
@@ -1094,7 +1230,8 @@
             "level": 1,
             "color": "#359a00",
             "salary": 51527,
-            "college": "College of Liberal Arts & Sciences"
+            "college": "College of Liberal Arts & Sciences",
+            "description": "This major includes two concentrations: Jewish Studies and Medieval Studies. Jewish Studies will provide you with knowledge of the Hebrew language. You will have the opportunity to study Yiddish. This concentration will also expose you to an appreciation of Jewish religion, culture, and history. Medieval Studies will introduce you to medieval cultures across the world. You will learn about the history, ideas, beliefs, and values of the diverse cultures that comprised the medieval globe. If the topic you\u2019re interested in isn\u2019t part of this major, consider developing your own major through our Individual Plans of Study program."
         },
         {
             "id": "russian, east european, and eurasian studies",
@@ -1102,7 +1239,8 @@
             "level": 1,
             "color": "#0d7500",
             "salary": 36509,
-            "college": "College of Liberal Arts & Sciences"
+            "college": "College of Liberal Arts & Sciences",
+            "description": "In this major, you\u2019ll develop a broad expertise in the history, politics and culture of an important area of the world. Students will learn about Russia as well as many other countries, from the Czech Republic to Estonia to Uzbekistan. This is an interdisciplinary major with a focus on current affairs. Your coursework will include classes in history, sociology, and political science. Students can construct their own program that suits their interests and career goals."
         },
         {
             "id": "communication",
@@ -1110,7 +1248,8 @@
             "level": 1,
             "color": "#208900",
             "salary": 44534,
-            "college": "College of Liberal Arts & Sciences"
+            "college": "College of Liberal Arts & Sciences",
+            "description": "Communication teaches you to speak, write, and think critically about others\u2019 messages as well as your own. As a Communication student, you will study communication across many domains. You will develop effective communication skills and learn how to teach others to improve their skills. You\u2019ll learn how to be a critical thinker and problem solver for every situation you face. You\u2019ll achieve knowledge of public advocacy and debate. You'll also learn about the political and social importance of communication in public and private life. If going into a field that includes a lot of collaboration sounds exciting, this major may be right for you."
         },
         {
             "id": "latina/latino studies",
@@ -1118,7 +1257,8 @@
             "level": 1,
             "color": "#0d7500",
             "salary": 36509,
-            "college": "College of Liberal Arts & Sciences"
+            "college": "College of Liberal Arts & Sciences",
+            "description": "This interdisciplinary major is devoted to the study of Latin American origin populations in the United States. We offer a variety of courses in which students critically explore various facets of Latina/o social, political, and cultural life. Latina/o Studies faculty are trained in diverse disciplines. These include anthropology, sociology, history, media studies, literature, performance studies, public health, and ethnic studies. They are excellent teachers and scholars deeply committed to working with undergraduates. Our goal is to provide students with the skills and knowledge they need to be active and successful participants in our multi-racial, multi-cultural democracy."
         },
         {
             "id": "religion",
@@ -1126,7 +1266,8 @@
             "level": 1,
             "color": "#1b8400",
             "salary": 42419,
-            "college": "College of Liberal Arts & Sciences"
+            "college": "College of Liberal Arts & Sciences",
+            "description": "In this major, you'll learn about diverse religious traditions from many disciplinary perspectives. You will study religion in different cultures and historical periods. You'll also learn about the impact of religion in ethics, politics, literature, intellectual history, philosophy, and society in general. This gives students a broad exposure of the major religious traditions of the world. In our program, students concentrate on a particular area of interest as well. Concentrations include:"
         },
         {
             "id": "global studies",
@@ -1134,7 +1275,8 @@
             "level": 1,
             "color": "#1f8800",
             "salary": 44179,
-            "college": "College of Liberal Arts & Sciences"
+            "college": "College of Liberal Arts & Sciences",
+            "description": "Global Studies allows you to create an individualized plan of study that prepares you for a future in global thematic areas. These include:"
         },
         {
             "id": "las undeclared",
@@ -1142,7 +1284,8 @@
             "level": 1,
             "color": "#4C4E52",
             "salary": "Not Enough Data",
-            "college": "College of Liberal Arts & Sciences"
+            "college": "College of Liberal Arts & Sciences",
+            "description": "If you\u2019re interested in the liberal arts and sciences but aren\u2019t sure which path you want to take, this program is for you! You\u2019ll work with staff to select the right coursework based on your interests. You can explore various majors within the College of LAS with the purpose of later declaring one."
         },
         {
             "id": "earth, society, and environmental sustainability",
@@ -1150,7 +1293,8 @@
             "level": 1,
             "color": "#278f00",
             "salary": 46914,
-            "college": "College of Liberal Arts & Sciences"
+            "college": "College of Liberal Arts & Sciences",
+            "description": "Earth, Society, and Environmental Sustainability is a degree that focuses on the environmental, economic, and social systems of the world. You'll explore the implications of our actions on the environment. You'll research innovative solutions for improving sustainability. As an Earth, Society, and Environmental Sustainability student, you\u2019ll develop key skills in the following areas:"
         },
         {
             "id": "econometrics and quantitative economics",
@@ -1158,7 +1302,8 @@
             "level": 1,
             "color": "#359a00",
             "salary": 51527,
-            "college": "College of Liberal Arts & Sciences"
+            "college": "College of Liberal Arts & Sciences",
+            "description": "In this major, you will have a strong foundation of economics and be able to apply statistics through data analysis to the market. This major will allow you to analyze data and apply it to your studies to focus on quantitative reasoning. Courses will range from microeconomics to calculus to statistics to matrix theory. If you\u2019re interested in the numbers behind the market, consumption, and how capital is exchanged, then this major may be right for you."
         },
         {
             "id": "geography and geographic information science",
@@ -1166,7 +1311,8 @@
             "level": 1,
             "color": "#379b00",
             "salary": 52326,
-            "college": "College of Liberal Arts & Sciences"
+            "college": "College of Liberal Arts & Sciences",
+            "description": "This major combines physical and social science and technology in the study of people, places, and the environment. You\u2019ll learn how to analyze spatial processes, or why things vary from place to place. You will learn how to combine physical and social science, and understand global and local perspectives on places and space. You can choose from four concentrations:"
         },
         {
             "id": "creative writing",
@@ -1174,7 +1320,8 @@
             "level": 1,
             "color": "#137b00",
             "salary": 39000,
-            "college": "College of Liberal Arts & Sciences"
+            "college": "College of Liberal Arts & Sciences",
+            "description": "As a Creative Writing major, you\u2019ll learn how to develop your own individual voice. You'll also learn to produce original works in fiction, poetry, and creative nonfiction. Coursework consists of creative writing classes, and classes in English, history, and culture. Small writing workshops that focus on giving and receiving feedback will teach you to communicate your ideas to others. You\u2019ll also develop your skills in these areas:"
         },
         {
             "id": "computer science and anthropology",
@@ -1182,7 +1329,8 @@
             "level": 1,
             "color": "#4C4E52",
             "salary": "Not Enough Data",
-            "college": "College of Liberal Arts & Sciences"
+            "college": "College of Liberal Arts & Sciences",
+            "description": "This flexible program combines coursework in our Anthropology program with Computer Science classes. You\u2019ll learn the anthropological studies of biology, archaeology, linguistics, and cultural knowledge. You\u2019ll also gain the skills to study how people live and communicate as social beings, and create designs and user interfaces that meet their needs. In this major, you\u2019ll become a global citizen with both problem-solving and intercultural skills."
         },
         {
             "id": "computer science and astronomy",
@@ -1190,7 +1338,8 @@
             "level": 1,
             "color": "#4C4E52",
             "salary": "Not Enough Data",
-            "college": "College of Liberal Arts & Sciences"
+            "college": "College of Liberal Arts & Sciences",
+            "description": "As a Computer Science and Astronomy student, you\u2019ll study space, time, and the origins of life in our universe. You\u2019ll use supercomputers, work with computer models of black holes and galaxy clusters, and mine large datasets. Upon graduation, you\u2019ll apply the knowledge you gain to challenges like:"
         },
         {
             "id": "computer science and chemistry",
@@ -1198,7 +1347,8 @@
             "level": 1,
             "color": "#4C4E52",
             "salary": "Not Enough Data",
-            "college": "College of Liberal Arts & Sciences"
+            "college": "College of Liberal Arts & Sciences",
+            "description": "This is a flexible program for students who plan to pursue technical or professional careers in Chemistry. Technology continues to enhance and change the study of chemistry. With this program, you will gain a deep understanding of both chemistry and computer applications. You\u2019ll equip yourself to calculate structures and properties of molecules and design new drugs and materials. You will be able to identify new compounds, study the properties of atoms, molecules, and chemical reactions. These studies will help you make more efficient and productive processes. As a result, you will learn to create safer, more effective medicines and energies."
         },
         {
             "id": "computer science and linguistics",
@@ -1206,7 +1356,8 @@
             "level": 1,
             "color": "#d9f000",
             "salary": 87450,
-            "college": "College of Liberal Arts & Sciences"
+            "college": "College of Liberal Arts & Sciences",
+            "description": "This is a program for students who plan to pursue careers in Linguistics with a background in Computer Science."
         },
         {
             "id": "slavic studies",
@@ -1214,7 +1365,8 @@
             "level": 1,
             "color": "#0d7500",
             "salary": 36509,
-            "college": "College of Liberal Arts & Sciences"
+            "college": "College of Liberal Arts & Sciences",
+            "description": "In this major, you\u2019ll focus on the language, literature, and culture of Russia in a historical context. Students will develop intensive cultural literacy and communication skills through humanities-oriented training. Our program will encourage you to study abroad in places like Moscow, St. Petersburg, Prague, and Krakow. These opportunities will expand your education in ways that aren't available in the United States. You can choose from five concentrations:"
         },
         {
             "id": "asian american studies",
@@ -1222,7 +1374,8 @@
             "level": 1,
             "color": "#359a00",
             "salary": 51527,
-            "college": "College of Liberal Arts & Sciences"
+            "college": "College of Liberal Arts & Sciences",
+            "description": "In this major, you\u2019ll gain training in the humanities. You will learn more about race, gender, sexuality, diversity, citizenship, and globalization. You\u2019ll learn how to identify and consider theory issues and methods. You\u2019ll also improve your understanding of Asian American history, experiences, and current issues. This will also help you in understanding race and diversity across the United States as a whole."
         },
         {
             "id": "psychology",
@@ -1230,7 +1383,8 @@
             "level": 1,
             "color": "#157e00",
             "salary": 39986,
-            "college": "College of Liberal Arts & Sciences"
+            "college": "College of Liberal Arts & Sciences",
+            "description": "Psychology is the study of human and animal behavior. Your coursework will take you from studying single cells to large communities. In this program, you'll learn research techniques and methodologies so that you can form hypotheses. You\u2019ll also study statistical analysis and gain a larger understanding of the biological processes of behavior. With this knowledge, you can better understand the human condition. You can choose from ten concentrations:"
         },
         {
             "id": "computer science and economics ",
@@ -1238,7 +1392,8 @@
             "level": 1,
             "color": "#4C4E52",
             "salary": "Not Enough Data",
-            "college": "College of Liberal Arts & Sciences"
+            "college": "College of Liberal Arts & Sciences",
+            "description": "This major gives students data, analytics, and digital skills needed to excel at a career in computer science. They will also learn economics and how it relates to society. Within the major, students will take intro-level and advanced courses in both computer science and economics. They will also take courses related to CS+Economics. Courses will help form a strong bond between the two areas of interest. The curriculum will teach students to not only learn about economic theory, but apply the language of coding and data to back up their findings."
         },
         {
             "id": "computer science and geography & geographic information science",
@@ -1246,7 +1401,8 @@
             "level": 1,
             "color": "#4C4E52",
             "salary": "Not Enough Data",
-            "college": "College of Liberal Arts & Sciences"
+            "college": "College of Liberal Arts & Sciences",
+            "description": "This major provides students with an education in Computer Science and Geography and Geographic Information Science. These two fields complement each other in today\u2019s digital world. Technological tools enhance the study of our planet. Classes within this major cover topics like software design and political geography. Students in this major will apply knowledge from both fields to future careers like:"
         },
         {
             "id": "computer science and philosophy",
@@ -1254,7 +1410,8 @@
             "level": 1,
             "color": "#4C4E52",
             "salary": "Not Enough Data",
-            "college": "College of Liberal Arts & Sciences"
+            "college": "College of Liberal Arts & Sciences",
+            "description": "This major is for students who would like a strong foundation in both Computer Science and Philosophy. You\u2019ll gain a deep understanding of how to harness investigative questions to understand the world around you. Students will take courses in computer science, math, logic and reasoning, and ethics. They will also take courses specific to the CS + Philosophy major. The combination of these programs will allow you to use technology and data to create viable, creative answers. If you\u2019re interested in virtual reality, artificial intelligence, or robotics, then this major may be right for you."
         },
         {
             "id": "comparative and world literature",
@@ -1262,7 +1419,8 @@
             "level": 1,
             "color": "#1b8400",
             "salary": 42419,
-            "college": "College of Liberal Arts & Sciences"
+            "college": "College of Liberal Arts & Sciences",
+            "description": "Comparative and World Literature invites you to look creatively at literature. Your coursework will allow you to compare both literary and cultural traditions. You\u2019ll gain critical, analytical, cultural, and foreign language knowledge. You will learn the writing and speaking skills necessary to succeed in a globalized world. You can choose from two concentrations: Comparative Literature and World Literature. Comparative Literature focuses on many traditions studied in their original languages. World Literature focuses on literature from around the world in English translation."
         },
         {
             "id": "brain and cognitive science",
@@ -1270,7 +1428,8 @@
             "level": 1,
             "color": "#4C4E52",
             "salary": "Not Enough Data",
-            "college": "College of Liberal Arts & Sciences"
+            "college": "College of Liberal Arts & Sciences",
+            "description": "Brain and Cognitive Science investigates the brain and behavior of people. Thinking of the brain as a kind of computer, you\u2019ll explore how brains and computers work. You\u2019ll also learn how they explain mental functions like perception, learning, memory, and language. This major provides fundamental training in psychology, neuroscience, and computation. It allows for a great deal of flexibility in advanced courses. You\u2019ll create a plan of study that best meets your career goals."
         },
         {
             "id": "linguistics and teaching english as a second language",
@@ -1278,7 +1437,8 @@
             "level": 1,
             "color": "#4C4E52",
             "salary": "Not Enough Data",
-            "college": "College of Liberal Arts & Sciences"
+            "college": "College of Liberal Arts & Sciences",
+            "description": "Linguistics and Teaching English as a Second Language (Linguistics + TESL) studies an overarching question: How do speakers of different languages learn, use, teach, and assess English as a second language (ESL)? Linguistics + TESL is an interdisciplinary program for students who plan to pursue careers in areas related to English as second and foreign language education. As a Linguistics + TESL major, you'll gain a solid background in both general linguistics and educational linguistics. You'll learn subject knowledge from multiple disciplines that help understand linguistics principles and linguistic developmental trajectories. You'll also receive a practical training in ESL/EFL teaching, assessment, and material development."
         },
         {
             "id": "astrophysics",
@@ -1286,7 +1446,8 @@
             "level": 1,
             "color": "#4C4E52",
             "salary": "Not Enough Data",
-            "college": "College of Liberal Arts & Sciences"
+            "college": "College of Liberal Arts & Sciences",
+            "description": "Modern astronomy is astrophysics. It is the study of how the universe works by applying the methods and principles of physics. Astrophysicists study some of the biggest questions known today, from stars and planets to black holes and dark energy. Leveraging the strengths of our astronomy and physics departments, this program offers you one of the most flexible astrophysics options in the country. We'll provide you with the rigorous preparation necessary for graduate study in astronomy and astrophysics. We'll also prepare you for employment in technical or scientific fields."
         },
         {
             "id": "astronomy + data science",
@@ -1294,7 +1455,8 @@
             "level": 1,
             "color": "#4C4E52",
             "salary": "Not Enough Data",
-            "college": "College of Liberal Arts & Sciences"
+            "college": "College of Liberal Arts & Sciences",
+            "description": "The field of astronomy is being transformed by the advent of large astronomical data sets. This degree incorporates a strong foundation in data science and astronomy. In this program, you'll learn how to work with modern large data sets using current computational and statistical methods. You'll also have a strong grounding in data curation and ethics. These skills are transferrable to the many careers that handle and communicate data across the knowledge economy. This includes jobs in agribusiness, computing, education, engineering, finance, government, insurance, marketing, medicine, supply chain, and more."
         },
         {
             "id": "undeclared",
@@ -1302,7 +1464,8 @@
             "level": 1,
             "color": "#4C4E52",
             "salary": "Not Enough Data",
-            "college": "Division of General Studies"
+            "college": "Division of General Studies",
+            "description": "You can explore different majors as part of this flexible program. This college allows you to figure things out while keeping you on track for graduation. You might like this program if you\u2019re interested in exploring your options before declaring a major. This college may also interest you if you have professional goals but are unsure which major will best help you achieve them. Or, if you want to tailor your class schedule to meet requirements for many academic interests, this program may be right for you. As an undeclared student, you\u2019ll declare a major by the start of your junior year."
         },
         {
             "id": "community health",
@@ -1310,7 +1473,8 @@
             "level": 1,
             "color": "#218900",
             "salary": 44877,
-            "college": "College of Applied Health Sciences"
+            "college": "College of Applied Health Sciences",
+            "description": "This major prepares future practitioners for the world of health care and health behavior. Special emphasis is placed on the community context in which health care is delivered. You\u2019ll choose from one of three concentrations:"
         },
         {
             "id": "kinesiology",
@@ -1318,7 +1482,8 @@
             "level": 1,
             "color": "#107800",
             "salary": 37578,
-            "college": "College of Applied Health Sciences"
+            "college": "College of Applied Health Sciences",
+            "description": "Kinesiology is the study of human movement. In this major, you\u2019ll learn about exercise stress, movement efficiency, and fitness; coordination, control, and skill in physical activities; and physical growth, development, and body form throughout a lifetime. You\u2019ll also study the instructional process of teaching or coaching and the social, cultural, and psychological aspects of participating in physical activities and sports. Finally, you\u2019ll learn the effects of therapeutic techniques on those recovering from physical injuries. Gaining real-world experience through work and research, you\u2019ll be prepared for careers in human movement-related fields or advanced professional or graduate study."
         },
         {
             "id": "speech and hearing science",
@@ -1326,7 +1491,8 @@
             "level": 1,
             "color": "#006400",
             "salary": 29304,
-            "college": "College of Applied Health Sciences"
+            "college": "College of Applied Health Sciences",
+            "description": "Our Speech and Hearing Science major focuses on human communication across the lifespan. This includes its biological, behavioral, and social science foundations as well as related disorders. You'll tailor this major to your individual interests by choosing from four specializations:"
         },
         {
             "id": "recreation, sport and tourism",
@@ -1334,7 +1500,8 @@
             "level": 1,
             "color": "#0e7700",
             "salary": 37034,
-            "college": "College of Applied Health Sciences"
+            "college": "College of Applied Health Sciences",
+            "description": "In this major, you\u2019ll learn how to design, manage, and evaluate a variety of recreation, sport and tourism activities and services to diverse populations. You'll receive a broad general education and take courses in management, special events, and marketing to prepare you for a professional career. You\u2019ll choose from one of three concentrations:"
         },
         {
             "id": "health sciences, interdisciplinary ",
@@ -1342,7 +1509,8 @@
             "level": 1,
             "color": "#0f7700",
             "salary": 37281,
-            "college": "College of Applied Health Sciences"
+            "college": "College of Applied Health Sciences",
+            "description": "In this major, you\u2019ll form a better understanding of health from perspectives related to individual lifestyle, family, community, and culture."
         },
         {
             "id": "social work",
@@ -1350,7 +1518,8 @@
             "level": 1,
             "color": "#046900",
             "salary": 31530,
-            "college": "School of Social Work"
+            "college": "School of Social Work",
+            "description": "The goal of social work is to better society by improving the conditions of those living in it. Our program will teach you how to help all sorts of people. You'll learn how to assist people who are suffering from poverty, unemployment, substance abuse, and mental illness. In this major, you'll gain skills to work with people with disabilities as well as people with chronic illnesses. Social work students also learn how to help those who have experienced abuse such as domestic violence or sexual assault. Our program offers a valuable close-knit academic community. Students have the opportunity to engage with other units across the campus, community, and nation."
         },
         {
             "id": "information sciences",
@@ -1358,7 +1527,8 @@
             "level": 1,
             "color": "#4C4E52",
             "salary": "Not Enough Data",
-            "college": "School of Information Sciences"
+            "college": "School of Information Sciences",
+            "description": "Information Science focuses on how people use technology to better organize, analyze, and manage information, as well as how society and individuals relate to information. In our program, you\u2019ll learn programming, database concepts, and research methods. You\u2019ll also explore broader social issues such as information equity and ethics. Our program will prepare you to become a specialist in the information sciences who understands the human perspective, social context, and policy implications of information in society."
         },
         {
             "id": "information sciences + data science",
@@ -1366,7 +1536,8 @@
             "level": 1,
             "color": "#4C4E52",
             "salary": "Not Enough Data",
-            "college": "School of Information Sciences"
+            "college": "School of Information Sciences",
+            "description": "Society is being transformed by the rise of digital technology and the emergence of massive data sets. Information Science and Data Science will teach you how to collect, organize, analyze, and store data in ways that help organizations manage processes and make decisions."
         },
         {
             "id": "dance, ba and kinesiology, bs (dual degree program)",
@@ -1374,7 +1545,8 @@
             "level": 1,
             "color": "#4C4E52",
             "salary": "Not Enough Data",
-            "college": "College of Fine & Applied Arts"
+            "college": "College of Fine & Applied Arts",
+            "description": "This dual degrees pathway is for motivated students who wish to earn two bachelor's degrees: a BA in Dance and a BS in Kinesiology. It requires 158 university credits.\u00a0You'll study how the body moves with in-depth Kinesiology courses in:"
         },
         {
             "id": "agricultural and consumer economics",
@@ -1382,7 +1554,8 @@
             "level": 1,
             "color": "#359a00",
             "salary": 51576,
-            "college": "College of Agricultural, Consumer & Environmental Sciences"
+            "college": "College of Agricultural, Consumer & Environmental Sciences",
+            "description": "This major combines knowledge of the food, environment, and consumer areas. You will become an expert in management, accounting, marketing, policy, and finance. This major will ready you to analyze and make decisions on how to finance the world's aspirations. You\u2019ll apply to one of the following concentrations:"
         },
         {
             "id": "agricultural leadership, education, and communications",
@@ -1390,7 +1563,8 @@
             "level": 1,
             "color": "#278f00",
             "salary": 47120,
-            "college": "College of Agricultural, Consumer & Environmental Sciences"
+            "college": "College of Agricultural, Consumer & Environmental Sciences",
+            "description": "In this major, you\u2019ll learn how to take an interdisciplinary approach to modern agricultural problems. You\u2019ll focus on topics like how people work together and lead their peers, how to learn from and educate others, and how to communicate and report on agricultural issues. You\u2019ll apply directly into one of the following concentrations:"
         },
         {
             "id": "secondary education",
@@ -1398,7 +1572,8 @@
             "level": 1,
             "color": "#359a00",
             "salary": 51527,
-            "college": "College of Liberal Arts & Sciences"
+            "college": "College of Liberal Arts & Sciences",
+            "description": "Secondary Education is a component of the teaching option within the following majors: Biology, Chemistry, English, Geology, History, Mathematics, and Physics. This minor fulfills state requirements to teach grades 9 through 12 in your chosen content area. As a Secondary Education student, you will learn how to plan lessons. Our program will teach you how to assess the strengths and weaknesses of your students. You'll practice strategies on how to help students overcome specific learning challenges. If you\u2019re interested in Secondary Education, you\u2019ll apply to one of the majors listed above. Once you\u2019ve completed most of your major requirements, you\u2019ll apply into the Secondary Education minor. This is usually by the end of your sophomore year."
         },
         {
             "id": "secondary education: biology",
@@ -1406,7 +1581,8 @@
             "level": 1,
             "color": "#359a00",
             "salary": 51527,
-            "college": "College of Liberal Arts & Sciences"
+            "college": "College of Liberal Arts & Sciences",
+            "description": "Our Secondary Education minor is a component of the teaching option within Biology. This minor fulfills state requirements to teach Biology in grades 9 through 12. As a Secondary Education student, you will learn how to plan lessons. Our program will teach you how to assess the strengths and weaknesses of your students. You'll practice strategies on how to help students overcome specific learning challenges. If you\u2019re interested in this program, you\u2019ll apply to the Biology major. Once you\u2019ve completed most of your major requirements, you\u2019ll apply into the Secondary Education minor. This is usually by the end of your sophomore year."
         },
         {
             "id": "secondary education: chemistry",
@@ -1414,7 +1590,8 @@
             "level": 1,
             "color": "#359a00",
             "salary": 51527,
-            "college": "College of Liberal Arts & Sciences"
+            "college": "College of Liberal Arts & Sciences",
+            "description": "Our Secondary Education minor is a component of the teaching option within Chemistry. This minor fulfills state requirements to teach Chemistry in grades 9 through 12. As a Secondary Education student, you will learn how to plan lessons. Our program will teach you how to assess the strengths and weaknesses of your students. You'll practice strategies on how to help students overcome specific learning challenges. If you\u2019re interested in this program, you\u2019ll apply to the Chemistry major. Once you\u2019ve completed most of your major requirements, you\u2019ll apply into the Secondary Education minor. This is usually by the end of your sophomore year."
         },
         {
             "id": "secondary education: english ",
@@ -1422,7 +1599,8 @@
             "level": 1,
             "color": "#359a00",
             "salary": 51527,
-            "college": "College of Liberal Arts & Sciences"
+            "college": "College of Liberal Arts & Sciences",
+            "description": "Our Secondary Education minor is a component of the teaching option within English. This minor fulfills state requirements to teach English in grades 9 through 12. As a Secondary Education student, you will learn how to plan lessons. Our program will teach you how to assess the strengths and weaknesses of your students. You'll practice strategies on how to help students overcome specific learning challenges. If you\u2019re interested in this program, you\u2019ll apply to the English major. Once you\u2019ve completed most of your major requirements, you\u2019ll apply into the Secondary Education minor. This is usually by the end of your sophomore year."
         },
         {
             "id": "secondary education: earth science",
@@ -1430,7 +1608,8 @@
             "level": 1,
             "color": "#359a00",
             "salary": 51527,
-            "college": "College of Liberal Arts & Sciences"
+            "college": "College of Liberal Arts & Sciences",
+            "description": "Our Secondary Education minor is a component of the teaching option within Geology. This minor fulfills state requirements to teach Earth Sciences in grades 9 through 12. As a Secondary Education student, you will learn how to plan lessons. Our program will teach you how to assess the strengths and weaknesses of your students. You'll practice strategies on how to help students overcome specific learning challenges. If you\u2019re interested in this program, you\u2019ll apply to the Geology major. Once you\u2019ve completed most of your major requirements, you\u2019ll apply into the Secondary Education minor. This is usually by the end of your sophomore year."
         },
         {
             "id": "secondary education: mathematics (las)",
@@ -1438,7 +1617,8 @@
             "level": 1,
             "color": "#359a00",
             "salary": 51527,
-            "college": "College of Liberal Arts & Sciences"
+            "college": "College of Liberal Arts & Sciences",
+            "description": "Our Secondary Education minor is a component of the teaching option within Math. This minor fulfills state requirements to teach Math in grades 9 through 12. As a Secondary Education student, you will learn how to plan lessons. Our program will teach you how to assess the strengths and weaknesses of your students. You'll practice strategies on how to help students overcome specific learning challenges. If you\u2019re interested in this program, you\u2019ll apply to the Math major. Once you\u2019ve completed most of your major requirements, you\u2019ll apply into the Secondary Education minor. This is usually by the end of your sophomore year."
         },
         {
             "id": "secondary education: physics",
@@ -1446,7 +1626,8 @@
             "level": 1,
             "color": "#359a00",
             "salary": 51527,
-            "college": "College of Liberal Arts & Sciences"
+            "college": "College of Liberal Arts & Sciences",
+            "description": "Our Secondary Education minor is a component of the teaching option within Physics. This minor fulfills state requirements to teach Physics in grades 9 through 12. As a Secondary Education student, you will learn how to plan lessons. Our program will teach you how to assess the strengths and weaknesses of your students. You'll practice strategies on how to help students overcome specific learning challenges. If you\u2019re interested in this program, you\u2019ll apply to the Physics major. Once you\u2019ve completed most of your major requirements, you\u2019ll apply into the Secondary Education minor. This is usually by the end of your sophomore year."
         },
         {
             "id": "secondary education: social studies",
@@ -1454,7 +1635,8 @@
             "level": 1,
             "color": "#359a00",
             "salary": 51527,
-            "college": "College of Liberal Arts & Sciences"
+            "college": "College of Liberal Arts & Sciences",
+            "description": "Our Secondary Education minor is a component of the teaching option within History. This minor fulfills state requirements to teach Social Studies in grades 9 through 12. As a Secondary Education student, you will learn how to plan lessons. Our program will teach you how to assess the strengths and weaknesses of your students. You'll practice strategies on how to help students overcome specific learning challenges. If you\u2019re interested in this program, you\u2019ll apply to the History major. Once you\u2019ve completed most of your major requirements, you\u2019ll apply into the Secondary Education minor. This is usually by the end of your sophomore year."
         },
         {
             "id": "teacher education: french (k-12)",
@@ -1462,7 +1644,8 @@
             "level": 1,
             "color": "#359a00",
             "salary": 51527,
-            "college": "College of Liberal Arts & Sciences"
+            "college": "College of Liberal Arts & Sciences",
+            "description": "This program will prepare you to teach French in grades kindergarten through 12 in Illinois public schools. As part of your curriculum, you\u2019ll also be encouraged to study abroad in a country that speaks French. If you\u2019re interested in Teacher Education, you\u2019ll apply to the French major. Once you\u2019ve completed most of your major requirements, you\u2019ll apply into the Teacher Education program. This is usually by the end of your sophomore year."
         },
         {
             "id": "teacher education: german (k-12)",
@@ -1470,7 +1653,8 @@
             "level": 1,
             "color": "#359a00",
             "salary": 51527,
-            "college": "College of Liberal Arts & Sciences"
+            "college": "College of Liberal Arts & Sciences",
+            "description": "This program will prepare you to teach German in grades kindergarten through 12 in Illinois public schools. As part of your curriculum, you\u2019ll also be encouraged to study abroad in a country that speaks German. If you\u2019re interested in Teacher Education, you\u2019ll apply to the Germanic Studies major. Once you\u2019ve completed most of your major requirements, you\u2019ll apply into the Teacher Education program. This is usually by the end of your sophomore year."
         },
         {
             "id": "teacher education: kinesiology - physical education (k-12)",
@@ -1478,7 +1662,8 @@
             "level": 1,
             "color": "#167f00",
             "salary": 40577,
-            "college": "College of Applied Health Sciences"
+            "college": "College of Applied Health Sciences",
+            "description": "This program will certify you to teach physical education in grades kindergarten through 12. It emphasizes real work experience, including student teaching. By integrating what you learn in the university classroom with your experiences at local schools, you'll gain the skills necessary to effectively educate the next generation."
         },
         {
             "id": "teacher education: spanish (k-12)",
@@ -1486,7 +1671,8 @@
             "level": 1,
             "color": "#359a00",
             "salary": 51527,
-            "college": "College of Liberal Arts & Sciences"
+            "college": "College of Liberal Arts & Sciences",
+            "description": "This program will prepare you to teach Spanish in grades kindergarten through 12 in Illinois public schools. As part of your curriculum, you\u2019ll also be encouraged to study abroad in a country that speaks Spanish. If you\u2019re interested in this program, you\u2019ll apply to the Spanish major. Once you\u2019ve completed most of your major requirements, you\u2019ll apply into the Teacher Education program. This is usually by the end of your sophomore year."
         },
         {
             "id": "a.t. still university of health sciences",
