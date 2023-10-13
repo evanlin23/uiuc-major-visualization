@@ -13,13 +13,13 @@ for item in data["grad_school_list"]:
     dictionary["nodes"].append({"id": item.lower(), "label": item, "level": 2})
 
 for item in data["employer_list"]:
-    dictionary["nodes"].append({"id": item.lower(), "label": item, "level": 2})
+    dictionary["nodes"].append({"id": item.lower(), "label": item, "level": 3})
 
 for item in data["majors_list"]:
     for item2 in data["majors_list"]:
         dictionary["links"].append(
-                {"target": item.lower(), "source": item2.lower(), "strength": 0.1}
-            )
+            {"target": item.lower(), "source": item2.lower(), "strength": 0.1}
+        )
 
 for key in data["majors_information"]:
     for item in data["majors_information"][key]["data"]["post_graduation_success"][

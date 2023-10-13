@@ -68,8 +68,17 @@ with open("index.html", "r") as input:
                     .capitalize()
                 )
 
-        aaaa = tag.find("span", class_="number")
-        print(aaaa)
+        related_majors_elem = tag.find("div", class_="relatedMajors section")
+        related_majors = []
+        if related_majors_elem:
+            # print(related_majors_elem)
+            for item in related_majors_elem.find_all(
+                "a", class_="data-description major-link"
+            ):
+                # print(item.get_text().split(" - ")[0])
+                related_majors.append(item.get_text().split(" - ")[0])
+        # print(related_majors)
+
         post_graduation_elem = tag.find("div", class_="programPercentJob")
         if post_graduation_elem:
             # employed_or_continuing_education = post_graduation_elem.find(
@@ -127,6 +136,7 @@ with open("index.html", "r") as input:
                         "description": tag.div.div.p.contents[0].get_text().strip(),
                         "career_options": options,
                         "college": tag.p.a.contents[0].get_text(),
+                        "related_majors": related_majors,
                         "post_graduation_success": {
                             # "employed_or_continuing_education": employed_or_continuing_education,
                             # "employed_after_graduation": employed_after_graduation,
