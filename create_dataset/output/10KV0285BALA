@@ -1,0 +1,743 @@
+<!doctype html>
+<html class="no-js" lang="en-US">
+
+<head>
+    <script src="https://cdn.cookielaw.org/consent/fd31c61a-15d6-4769-9802-5eafcc1098ba.js" type="text/javascript" charset="UTF-8"></script>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Major Detail</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="user-scalable=no, initial-scale=1.0, width=device-width">
+
+    <!--Favicon-->
+    <link rel="shortcut icon" type="image/x-icon" href="https://admissions.illinois.edu/Content/images/favicon.ico">
+    <!--Fonts-->
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:700|Roboto+Condensed:300" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Fjalla+One&family=Montserrat:wght@300;600;700&family=Roboto+Condensed:wght@300&family=Source+Sans+Pro:ital,wght@0,300;0,600;1,300&display=swap" rel="stylesheet">
+
+    <script type="text/javascript" src="/js/frontEndScripts.js?v=Y_y8bDBsl6x0FRxx64A_U8hFB2vhctSq8-LXqeEkjhs"></script>
+
+    <!-- Bootstrap & Popper JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js">
+    </script>
+<script>(window.jQuery && window.jQuery.fn && window.jQuery.fn.modal||document.write("\u003Cscript src=\u0022/js/bootstrap.min.js\u0022\u003E\u003C/script\u003E"));</script>
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+
+    <link rel="stylesheet" type="text/css" href="/css/reset.min.css?v=4WINiE8wG28WpvKH_WVhON-mkhY3DWd-f-5I9p2LQsc" />
+    <link href="https://admissions.illinois.edu/Content/css/cookie/cookie-styles.css" rel="stylesheet" type="text/css">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" />
+<meta name="x-stylesheet-fallback-test" content="" class="sr-only" /><script>!function(a,b,c,d){var e,f=document,g=f.getElementsByTagName("SCRIPT"),h=g[g.length-1].previousElementSibling,i=f.defaultView&&f.defaultView.getComputedStyle?f.defaultView.getComputedStyle(h):h.currentStyle;if(i&&i[a]!==b)for(e=0;e<c.length;e++)f.write('<link href="'+c[e]+'" '+d+"/>")}("position","absolute",["/css/bootstrap.min.css"], "rel=\u0022stylesheet\u0022 ");</script>
+
+    
+        <link rel="stylesheet" type="text/css" href="/css/imBundle.min.css?v=TUTParMsXgCQzgejwTcKs-J4rkY2CIL2JILI7GrwhoI" />
+    
+    
+
+    <script type="text/javascript">
+        //load compare cart
+            var cookieItems = new Array();
+
+        var cartItems = new Array();
+        var cartItemDescriptions = new Array();
+
+
+
+        $(function () {
+            //if (cookieItems.length > 0) {
+            //    for (i = 0; i < cookieItems.length; i++) {
+            //        var cartItemArr = cookieItems[i].split(";")
+            //        cartItems.push(cartItemArr[0]);
+            //        cartItemDescriptions.push(cartItemArr[1]);
+            //    }
+            //    $(".cartCount").text(cartItems.length);
+            //} else {
+            //    $(".cartCount").hide();
+
+            //}
+            //showHideCompare();
+            //updateCompareDescriptionPopup();
+
+            $(document).on("click", ".addToCart", function (e) {
+                e.preventDefault();
+                var $this = $(this);
+                var desc = getCartItemDescription($this);
+                showLoading();
+                $.post($this.attr("href"), function (data) {
+                    if (data.length == 0) {
+                        //increaseCartCount($this.attr("data"), desc);
+                        //$("#cartDialogModal").modal("show");
+                        window.location = "/Programs/ComparePrograms";
+                    } else {
+                        bsAlert(data, "Alert");
+                        //alert(data);
+                        hideLoading();
+                    }
+                }).fail(function () {
+                    alert("Add To Cart Failed. Please Try Again");
+                    hideLoading();
+                });
+                return false;
+            });
+
+
+            $(document).on("click", ".removeFromCart, .removeDirectlyFromCart", function (e) {
+                e.preventDefault();
+
+                var $this = $(this);
+                showLoading();
+                $.post($this.attr("href"), function (data) {
+                    if (data.length == 0) {
+                        //decreaseCartCount($this.attr("data"));
+                        //bsAlert("<p>The major has been removed from your comparison.</p>", "Major Removed");
+                        window.location = "/Programs/ComparePrograms";
+                    } else {
+                        bsAlert(data, "Alert");
+                         hideLoading();
+                    }
+                }).fail(function () {
+                    alert("Program removal failed. Please try again.");
+                     hideLoading();
+                });
+                return false;
+
+            });
+
+            //$(".majorItemCollapse").on("show.bs.collapse", function () {
+            //    getProgramDescription(this);
+            //});
+
+        });
+
+        function bsAlert(bsText, bsHead) {
+            $("#modalAlertBody").html(bsText);
+            $("#modalAlertLabel").text(bsHead);
+            $("#modalAlert").modal('show');
+        }
+
+        //function increaseCartCount(programCode, programDesc) {
+        //    var currCount = cartItems.push(programCode);
+        //    $(".cartCount").text(currCount);
+        //    //showHideCompare();
+        //    cartItemDescriptions.push(programDesc);
+        //    //updateCompareDescriptionPopup();
+        //    $(".cartCount").show();
+        //}
+
+
+        //function decreaseCartCount(programCode) {
+        //    var dataIndex = cartItems.indexOf(programCode);
+        //    if (dataIndex > -1) {
+        //        cartItems.splice(dataIndex, 1);
+        //        cartItemDescriptions.splice(dataIndex, 1);
+        //    }
+        //    $(".cartCount").text(cartItems.length);
+        //    if (cartItems.length == 0) {
+        //        $(".cartCount").hide();
+        //    }
+        //    //showHideCompare();
+        //    //updateCompareDescriptionPopup();
+        //}
+
+
+        function getCartItemDescription($e) {
+            return $e.attr("datadescription");
+        }
+
+        //function showHideCompare() {
+        //    $(".addToCart").show();
+        //    $(".removeFromCart").hide();
+        //    for (i = 0; i < cartItems.length; i++) {
+        //        //add back remove buttons and hide compare buttons
+        //        $(".removeFromCart[data='" + cartItems[i] + "']").show();
+        //        $(".addToCart[data='" + cartItems[i] + "']").hide();
+        //    }
+        //}
+
+
+
+    </script>
+
+    
+    <style type="text/css">
+        .programCriteria ul:first-of-type {
+            margin-bottom:0;
+        }
+
+        .programCriteria h3 {
+            margin-bottom: 10px;
+        }
+    </style>
+   
+
+    
+
+</head>
+
+<body class="microsite-template">
+    <noscript>
+        <meta http-equiv="refresh" content="0; url=/IdentityManagement/Home/BadBrowser" />
+    </noscript>
+    <!--[if lte IE 9]>
+        <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
+    <![endif]-->
+    <div id="loadingDiv">
+        <table>
+            <tr>
+                <td><img src="/images/ajax-loader.gif" alt="Loading...." /></td>
+            </tr>
+        </table>
+    </div>
+    <header id="masthead" role="banner">
+        <nav id="mobile-nav" class="navbar navbar-expand-md">
+            <div class="container-fluid container-max">
+                <a id="illinois-wordmark-link" class="navbar-brand" href="http://illinois.edu">
+                    <span id="illinois-wordmark-text">University of Illinois Urbana-Champaign</span>
+                </a>
+            </div>
+        </nav>
+        <div id="main-nav" class="navbar navbar-dark navbar-expand-md">
+            <div class="container-fluid container-max">
+                <div class="navbar-brand">
+                    <div class="UIUC-logo-box">
+                        <a href="https://illinois.edu">
+                            <svg version="1.1" class="UIUC-logo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                                 viewBox="0 0 54.15 78.22" style="enable-background:new 0 0 54.15 78.22;" xml:space="preserve">
+                            <g>
+                            <path class="UIUC-logo-outline" d="M54.15,21.06V0H0v21.06h12.03v36.1H0v21.06h54.15V57.16H42.12v-36.1H54.15z M42.12,60.17h9.03v15.04H3.01
+                                        V60.17h9.03c1.66,0,3.01-1.35,3.01-3.01v-36.1c0-1.66-1.35-3.01-3.01-3.01H3.01V3.01h48.14v15.04h-9.03
+                                        c-1.66,0-3.01,1.35-3.01,3.01v36.1C39.11,58.82,40.46,60.17,42.12,60.17z" />
+
+
+
+                            <g>
+                            <path class="UIUC-logo-fill" d="M42.12,18.05h9.03V3.01H3.01v15.04h9.03c1.66,0,3.01,1.35,3.01,3.01v36.1c0,1.66-1.35,3.01-3.01,3.01H3.01
+                                            v15.04h48.14V60.17h-9.03c-1.66,0-3.01-1.35-3.01-3.01v-36.1C39.11,19.4,40.46,18.05,42.12,18.05z" />
+
+
+
+                                        </g>
+                                    </g>
+                                </svg>
+                        </a>
+                    </div>
+                    <h1 class="site-id-programs">
+                        <a class="site-title" href="http://admissions.illinois.edu">
+                            Undergraduate <span>Admissions</span>
+                        </a>
+                    </h1>
+                </div>
+                <div aria-labelledby="small-screen-toggles">
+                    <button id="search-menu-button" class="navbar-toggler" type="button" data-toggle="collapse" data-target=".search-menu" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle search bar">
+                        <span class="icon-search"></span>
+                    </button>
+                    <button id="mobile-menu-button" class="navbar-toggler" type="button" data-toggle="collapse" data-target=".mobile-menu" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle primary navigation">
+                        <span class="icon-menu"></span>
+                    </button>
+                </div>
+
+                <div id="search-nav" class="collapse navbar-collapse justify-content-end search-menu" role="search">
+                    <form action="https://admissions.illinois.edu/Home/GoogleSearch" class="form-inline row mx-md-0 rounded" id="search-form" method="post">
+                        <div class="search-input col-9 col-sm-10 px-md-0">
+                            <label for="q" class="sr-only">Search Admissions</label>
+                            <input type="text" id="q" name="q" class="form-control" placeholder="Search" onclick="this.value = '';">
+                        </div>
+                        <div class="search-button col-3 col-sm-2 px-md-0">
+                            <button type="submit" id="sa" class="btn btn-secondary"><span class="icon-search mx-auto"></span><span class="search-text">Go</span></button>
+                        </div>
+                    </form>
+                </div>
+                <nav id="primary-nav-menu" class="collapse navbar-collapse justify-content-center mobile-menu" role="navigation" aria-labelledby="primary-nav-header">
+                    <h2 id="primary-nav-header" class="sr-only">Primary Menu</h2>
+                    <ul class="navbar-nav nav-fill w-100">
+                        <li id="nav-apply" class="nav-item dropdown mega-dropdown">
+                            <a href="#" id="nav-apply-link" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span>Apply</span></a>
+                            <div class="dropdown-menu mega-dropdown-menu" aria-labelledby="nav-apply-link">
+                                <div class="container-fluid">
+                                    <div class="row">
+                                        <div class="mega-menu-item freshman-mega-menu-item col-md-3">
+                                            <a href="https://admissions.illinois.edu/Home/myillini-apply" class="btn btn-secondary d-inline-block d-md-none" role="button">Apply Now</a>
+                                            <h3>First-Year</h3>
+                                            <ul>
+                                                <li><a href="https://admissions.illinois.edu/Apply/Freshman/process">How to Apply</a></li>
+                                                <li><a href="https://admissions.illinois.edu/Apply/Freshman/dates">Dates &amp; Deadlines</a></li>
+                                                <li><a href="https://admissions.illinois.edu/Apply/Freshman/requirements">Requirements</a></li>
+                                                <li><a href="https://myillini.illinois.edu/Programs">Majors</a></li>
+                                                <li><a href="https://admissions.illinois.edu/Apply/Freshman/essays">Essay Questions</a></li>
+                                                <li><a href="https://admissions.illinois.edu/Apply/Freshman/review">How We Review</a></li>
+                                                <li><a href="https://admissions.illinois.edu/Apply/Freshman/college-credit">College Credit</a></li>
+                                                <li><a href="https://admissions.illinois.edu/Apply/Freshman/action-plans">Yearly Planning</a></li>
+                                                <li><a href="https://admissions.illinois.edu/FAQ/applicant-freshman">Applicant FAQ</a></li>
+                                            </ul>
+                                        </div>
+                                        <div class="mega-menu-item transfer-mega-menu-item col-md-3">
+                                            <h3>Transfer</h3>
+                                            <ul>
+                                                <li><a href="https://admissions.illinois.edu/Apply/Transfer/process">How to Apply</a></li>
+                                                <li><a href="https://admissions.illinois.edu/Apply/Transfer/dates">Dates &amp; Deadlines</a></li>
+                                                <li><a href="https://myillini.illinois.edu/Programs/TransferGuide">Transfer Guide</a></li>
+                                                <li><a href="https://admissions.illinois.edu/Apply/Transfer/open-closed">Majors</a></li>
+                                                <li><a href="https://admissions.illinois.edu/Apply/Transfer/handbook">Transfer Handbook</a></li>
+                                                <!--<li><a href="https://admissions.illinois.edu/Apply/Transfer/TransferArticulationGuide">Articulation Guide</a></li>-->
+                                                <li><a href="https://admissions.illinois.edu/Apply/Freshman/college-credit">Credit Equivalencies</a></li>
+                                                <li><a href="https://admissions.illinois.edu/Apply/Transfer/gpa-guidelines">GPA Guidelines</a></li>
+                                                <li><a href="https://admissions.illinois.edu/Apply/Transfer/review">How We Review</a></li>
+                                                <li><a href="https://admissions.illinois.edu/FAQ/applicant-transfer">Applicant FAQ</a></li>
+                                            </ul>
+                                        </div>
+                                        <div class="mega-menu-item other-mega-menu-item col-md-3">
+                                            <h3>Other</h3>
+                                            <ul>
+                                                <li><a href="https://admissions.illinois.edu/Apply/international">International</a></li>
+                                                <li><a href="https://admissions.illinois.edu/Apply/undocumented">Undocumented</a></li>
+                                                <li><a href="https://admissions.illinois.edu/Apply/pathways">Pathway</a></li>
+                                                <li><a href="https://admissions.illinois.edu/Apply/nondegree">Nondegree</a></li>
+                                                <li><a href="https://admissions.illinois.edu/Apply/second-bachelors">Second Bachelor's</a></li>
+                                            </ul>
+                                            <a href="https://admissions.illinois.edu/Home/myillini-apply" class="btn btn-primary d-none d-md-inline-block" role="button">Apply Now</a>
+                                        </div>
+                                        <div class="mega-menu-item admitted-mega-menu-item col-md-3">
+                                            <h3>Admitted</h3>
+                                            <ul>
+                                                <li><a href="https://admissions.illinois.edu/Apply/admitted">Admitted Checklist</a></li>
+                                                <li><a href="https://www.admissions.illinois.edu/apply/admitted/financial-aid-notification">Financial Aid Notification</a></li>
+                                                <li><a href="https://admissions.illinois.edu/Apply/Admitted/summer-registration">New Student Registration</a></li>
+                                                <li><a href="https://www.admissions.illinois.edu/apply/admitted/building-community">Building Community</a></li>
+                                                <li><a href="https://admissions.illinois.edu/Apply/Admitted/welcome-days">Welcome Week</a></li>
+                                                <li><a href="https://admissions.illinois.edu/Apply/Admitted/international">International Students</a></li>
+                                                <li><a href="https://admissions.illinois.edu/Apply/Admitted/transfer-course-report">Transfer Course Report</a></li>
+                                                <li><a href="https://admissions.illinois.edu/FAQ/admitted">Admitted FAQ</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <li id="nav-visit" class="nav-item dropdown">
+                            <a href="#" id="nav-visit-link" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span>Visits</span></a>
+                            <div class="dropdown-menu" aria-labelledby="nav-visit-link">
+                                <a href="https://www.admissions.illinois.edu/visit/campus-visits/programs" class="dropdown-item">In-Person Visit Options</a>
+                                <a href="https://admissions.illinois.edu/Visit/virtual-visits" class="dropdown-item">Virtual Visit Options</a>
+                                <a href="https://www.admissions.illinois.edu/visit/campus-visits/accommodations" class="dropdown-item">Preparing to Visit</a>
+                                <a href="https://www.admissions.illinois.edu/visit/campus-visits/self-guided" class="dropdown-item">Self-Guided Tours</a>
+                                <a href="https://www.admissions.illinois.edu/visit/campus-visits/driving-tour" class="dropdown-item">Driving Tour</a>
+                                <a href="https://www.admissions.illinois.edu/visit/summer-programs" class="dropdown-item">Summer Programs</a>
+                                <a href="https://www.admissions.illinois.edu/visit/istar" class="dropdown-item">Become a Tour Guide</a>
+                                <p>
+                                    <a href="https://www.admissions.illinois.edu/visit/campus-visits/programs" class="btn btn-primary d-none d-md-inline-block" role="button">Schedule a Visit</a>
+                                </p>
+                            </div>
+                        </li>
+                        <li id="nav-cost" class="nav-item dropdown">
+                            <a href="#" id="nav-cost-link" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span>Cost &amp; Aid</span></a>
+                            <div class="dropdown-menu" aria-labelledby="nav-cost-link">
+                                <a href="https://admissions.illinois.edu/Invest/tuition" class="dropdown-item">Tuition</a>
+                                <a href="https://admissions.illinois.edu/Invest/financial-aid" class="dropdown-item">Financial Aid</a>
+                                <a href="https://admissions.illinois.edu/Invest/scholarships" class="dropdown-item">Scholarships</a>
+                            </div>
+                        </li>
+                        <li id="nav-academics" class="nav-item dropdown">
+                            <a href="#" id="nav-academics-link" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span>Academics</span></a>
+                            <div class="dropdown-menu" aria-labelledby="nav-academics-link">
+                                <a href="https://myillini.illinois.edu/Programs" class="dropdown-item">Majors</a>
+                                <a href="https://admissions.illinois.edu/Discover/Academics/classes" class="dropdown-item">Classes</a>
+                                <a href="https://admissions.illinois.edu/Discover/Academics/professors" class="dropdown-item">Professors</a>
+                                <a href="https://admissions.illinois.edu/Discover/Academics/research" class="dropdown-item">Research</a>
+                                <a href="https://admissions.illinois.edu/Discover/study-abroad" class="dropdown-item">Study Abroad</a>
+                                <a href="https://admissions.illinois.edu/Discover/Academics/honors" class="dropdown-item">Honors</a>
+                            </div>
+                        </li>
+                        <li id="nav-campus-life" class="nav-item dropdown">
+                            <a href="#" id="nav-campus-life-link" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span>Campus Life</span></a>
+                            <div class="dropdown-menu" aria-labelledby="nav-campus-life-link">
+                                <a href="https://admissions.illinois.edu/Discover/Campus-Life/housing" class="dropdown-item">Housing</a>
+                                <a href="https://admissions.illinois.edu/Discover/Campus-Life/activities" class="dropdown-item">Activities</a>
+                                <a href="https://admissions.illinois.edu/Discover/Campus-Life/diversity" class="dropdown-item">Diversity</a>
+                                <a href="https://admissions.illinois.edu/Discover/Campus-Life/support" class="dropdown-item">Support</a>
+                                <a href="https://admissions.illinois.edu/Discover/Campus-Life/traditions" class="dropdown-item">Traditions</a>
+                                <a href="https://admissions.illinois.edu/Discover/Campus-Life/safety" class="dropdown-item">Safety</a>
+                                <a href="https://journeys.illinois.edu" class="dropdown-item">Student Stories</a>
+                            </div>
+                        </li>
+                        <li id="nav-about" class="nav-item dropdown">
+                            <a href="#" id="nav-about-link" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span>About Illinois</span></a>
+                            <div class="dropdown-menu dropdown-menu-right" aria-labelledby="nav-about-link">
+                                <a href="https://admissions.illinois.edu/Discover/illinois-facts" class="dropdown-item">Facts &amp; Rankings</a>
+                                <a href="https://admissions.illinois.edu/Apply/Freshman/profile" class="dropdown-item">Class Profile</a>
+                                <a href="https://admissions.illinois.edu/Discover/illini-success" class="dropdown-item">Illini Success</a>
+                                <a href="https://admissions.illinois.edu/Discover/history" class="dropdown-item">History &amp; Mission</a>
+                                <a href="https://admissions.illinois.edu/Visit/cu" class="dropdown-item">Champaign-Urbana</a>
+                            </div>
+                        </li>
+                    </ul>
+                </nav>
+                <nav id="utility-nav-menu" class="collapse navbar-collapse justify-content-end mobile-menu" role="navigation" aria-labelledby="utility-nav-header">
+                    <h2 id="utility-nav-header" class="sr-only">Utility Menu</h2>
+                    <ul class="navbar-nav">
+                        <li class="nav-item"><a class="nav-link" href="https://admissions.illinois.edu/request-more">Request info</a></li>
+                        <li class="nav-item"><a class="nav-link" href="https://admissions.illinois.edu/contact">Contact us</a></li>
+                        <li class="nav-item"><a class="nav-link" href="https://www.admissions.illinois.edu/languages"><span class="icon icon-globe"></span>Language</a></li>
+                        <li class="nav-item"><a class="nav-link" href="https://myillini.illinois.edu/"><span class="myillini-lower">my</span>Illini</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+
+    <!--<div class="site-hero text-center">
+        <h1><a class="title-majors rounded" href="/Programs">Majors</a><span class="sr-only">:</span> <span class="title-calling d-block">Find your calling.</span></h1>
+        <p class="help-link">Need help? <a href="https://admissions.illinois.edu/Discover/Academics/explore">Start here.</a></p>
+    </div>-->
+    <!-- begin cart modal -->
+    <!--end modal-->
+
+    <main class="myillini-stealth">
+
+        <div class="container-fluid container-max">
+
+
+
+
+
+                <header role="pagetitle">
+                    <!--<h1></h1>-->
+                </header>
+            
+<script type="text/javascript">
+    $(function () {
+        $(document).on("click", ".employerPopup", function () {
+            showLoading();
+            $.get(this.href, function (data) {
+                $("#employer-modal-10KV0285BALA").html(data);
+                $("#employer-modal-container-10KV0285BALA").modal("show");
+            }).fail(function () {
+                alert("There was a program retrieving the list of employers. Please try again.");
+            }).always(function () {
+                hideLoading();
+            });
+            return false;
+        });
+
+        $(document).on("click", ".gradSchoolPopup", function () {
+            showLoading();
+            $.get(this.href, function (data) {
+                $("#gradschool-modal-10KV0285BALA").html(data);
+                $("#gradschool-modal-container-10KV0285BALA").modal("show");
+            }).fail(function () {
+                alert("There was a program retrieving the list of grad schools. Please try again.");
+            }).always(function () {
+                hideLoading();
+            });
+            return false;
+        });
+    });
+</script>
+<div class="majors-link-back">
+
+    <!--<a class="" href="/Programs">Majors</a>-->
+    <a href="/Programs"><span>&laquo; Back to </span>Majors</a>
+</div>
+<div class="programItem">
+    <h1 class="major-h1">East Asian Languages and Cultures</h1>
+<p><a href="http://www.las.illinois.edu/" target="_blank" class="">College of Liberal Arts &amp; Sciences</a></p>
+    <a class="addToCart btn btn-outline-secondary" data="10KV0285BALA" datadescription="East Asian Languages and Cultures - LAS" href="/Programs/AddMajorToCart?codeAndDesc=10KV0285BALA;East%20Asian%20Languages%20and%20Cultures%20-%20LAS">Compare</a>
+
+        <div class="row">
+            <div class="col-12 col-lg-6">
+                <div class="programDescription section">
+                    <h2>What is East Asian Languages and Cultures?</h2>
+                    <p><p>Through East Asian Languages and Cultures, you'll</p><ul><li>gain a firm competence in an East Asian language,</li><li>become more familiar with East Asian cultures through cross-disciplinary training,</li><li>and receive more advanced knowledge of the region. </li></ul><p>Our major and minor programs equip you with the knowledge and skills for careers in a variety of fields. In addition, they provide a broad liberal arts education for those interested in graduate or professional study involving East Asia. East Asian Languages and Cultures students have the ability to pursue a double major or dual degree.</p></p>
+                </div>
+
+                
+
+                    <div class="programCareerExamples section">
+                        <h2>Career Options</h2>
+                        <ul>
+                                    <li>Business</li>
+                                    <li>Education</li>
+                                    <li>Finance</li>
+                                    <li>Government</li>
+                                    <li>Industry</li>
+                                    <li>Journalism</li>
+                                    <li>Law</li>
+                                    <li>The arts</li>
+                        </ul>
+                    </div>
+
+                <div class="section">
+                    
+                        <h2>Post-Graduation Success<sup>1</sup></h2>
+                                <p><span class="number">88%</span> employed or continuing education</p>
+                                <div class="programPercentJob">
+                                    <p><span class="number">60%</span> employed after graduation</p>
+                                </div>
+                                <p><span class="number">25%</span> attending graduate school</p>
+                                <div class="programPercentVolunteering">
+                                    <p><span class="number">3%</span> volunteering</p>
+                                </div>
+                                <div class="programAnnualSalary">
+                                    <p><span class="number">$42,419</span> average starting annual income</p>
+                                </div>
+                            <div class="programJobDestinations">
+                                <p>
+                                    <strong>Sample employer destinations:</strong>
+ JET Program, Joins America, Japanese Exchange and Teaching (JET Program)                                        <a class="employerPopup" href="/Programs/ProgramSurveyEmployers/10KV0285BALA">View All</a>
+                                </p>
+                            </div>
+                            <div class="programGradSchoolDestinations">
+                                <p>
+                                    <strong>Sample grad school destinations:</strong>
+ University of Illinois at Urbana-Champaign, Florida State University, Harvard University                                        <a class="gradSchoolPopup" href="/Programs/ProgramSurveyGradSchools/10KV0285BALA">View All</a>
+
+                                </p>
+                            </div>
+                    <div class="programUrls list-group section">
+                        <h2>Program Resources</h2>
+                            <a href="http://www.las.illinois.edu/" target="_blank" class="list-group-item list-group-item-action">College of Liberal Arts &amp; Sciences</a>
+                            <a href="https://ealc.illinois.edu/" target="_blank" class="list-group-item list-group-item-action">Program Webpage</a>
+                            <a href="http://catalog.illinois.edu/undergraduate/las/east-asian-languages-cultures-balas/#degreerequirementstext" target="_blank" class="list-group-item list-group-item-action">Degree Requirements</a>
+                        
+                    </div>
+                </div>
+
+            </div>
+            <div class="col-12 col-lg-5 offset-lg-1">
+                <div class="programCriteria section">
+                    <h2>Review Criteria</h2>
+                    <h3>First-Year Major-Specific Criteria</h3>
+<ul><li>Demonstrated understanding of and interest in the major</li></ul>                        <p></p>
+                    <p><a href="https://admissions.illinois.edu/Apply/Freshman/review" target="_blank">View All Review Criteria</a></p>
+                    <h3>Transfer Criteria</h3>
+                    <a target="_blank" class="list-group-item list-group-item-action" href="/Programs/TransferGuide?MajorID=121&amp;Level=Junior&amp;Term=Fall">Transfer Guide</a>
+                 </div>
+                <div class="gradRetention section">
+                    <h2>Graduation &amp; Retention<sup>2</sup></h2>
+                                <p><span class="number">4.4</span> years to degree</p>
+                                <p><span class="number">93%</span> first-year retention rate</p>
+                                <p><span class="number">61%</span> four-year graduation rate</p>
+                                <p><span class="number">86%</span> six-year graduation rate</p>
+                </div>
+                
+                <div class="programCosts section">
+                    <h2>Annual Program Costs<sup>3</sup></h2>
+
+
+
+
+                    <div class="residentCosts">
+                                <h3>Illinois Resident</h3>
+                                <ul class="list-group list-group-flush tuition-list mb-4">
+                                    <li class="list-group-item"><span>Tuition: </span><span class="float-right">$12,712</span></li>
+                                    <li class="list-group-item"><span>Fees: </span><span class="float-right">$4,860</span></li>
+                                    <li class="list-group-item"><span>Expenses: </span><span class="float-right">$17,638</span></li>
+                                    <li class="list-group-item border-bottom-0"><strong><span class="sr-only">Total: </span><span class="float-right">$35,210</span></strong></li>
+                                </ul>
+                                <h3>Non-Resident</h3>
+                                <ul class="list-group list-group-flush tuition-list mb-4">
+                                    <li class="list-group-item"><span>Tuition: </span><span class="float-right">$31,208</span></li>
+                                    <li class="list-group-item"><span>Fees: </span><span class="float-right">$4,860</span></li>
+                                    <li class="list-group-item"><span>Expenses:</span><span class="float-right">$17,978</span></li>
+                                    <li class="list-group-item border-bottom-0"><strong><span class="sr-only">Total: </span><span class="float-right">$54,046</span></strong></li>
+                                </ul>
+                                <h3>International</h3>
+                                <ul class="list-group list-group-flush tuition-list">
+                                    <li class="list-group-item"><span>Tuition: </span><span class="float-right">$33,638</span></li>
+                                    <li class="list-group-item"><span>Fees: </span><span class="float-right">$4,860</span></li>
+                                    <li class="list-group-item"><span>Expenses: </span><span class="float-right">$17,978</span></li>
+                                    <li class="list-group-item"><strong><span class="sr-only">Total: </span><span class="float-right">$56,476</span></strong></li>
+                                </ul>
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+        <div class="relatedMajors section">
+            <a name="Related"></a>
+            <h2>Related Majors</h2>
+<div id="a0fc12c36-13fc-4e13-b929-9a12c7b11ba1_item_parent" class="data-parent major-holder">
+    <div id="a0fc12c36-13fc-4e13-b929-9a12c7b11ba1_item">
+        <a class="data-description major-link" href="/Programs/MajorDetail/10KV0340NONE">Anthropology - LAS</a>
+    </div>
+</div>
+<div id="af79779ea-f3bd-421e-9de7-7d07b89be501_item_parent" class="data-parent major-holder">
+    <div id="af79779ea-f3bd-421e-9de7-7d07b89be501_item">
+        <a class="data-description major-link" href="/Programs/MajorDetail/10KV5164BALA">Communication - LAS</a>
+    </div>
+</div>
+<div id="a8a86d42e-3111-4e8a-8ae9-38d5ea009365_item_parent" class="data-parent major-holder">
+    <div id="a8a86d42e-3111-4e8a-8ae9-38d5ea009365_item">
+        <a class="data-description major-link" href="/Programs/MajorDetail/10KV5215BALA">Global Studies - LAS</a>
+    </div>
+</div>
+<div id="a3373823f-39a7-4e0e-9330-2c9ae8f1b4b7_item_parent" class="data-parent major-holder">
+    <div id="a3373823f-39a7-4e0e-9330-2c9ae8f1b4b7_item">
+        <a class="data-description major-link" href="/Programs/MajorDetail/10KV0301BALA">Linguistics - LAS</a>
+    </div>
+</div>
+<div id="a83539f9a-7aae-4f24-aaf9-757b3f4d4527_item_parent" class="data-parent major-holder">
+    <div id="a83539f9a-7aae-4f24-aaf9-757b3f4d4527_item">
+        <a class="data-description major-link" href="/Programs/MajorDetail/10KV0344BALA">Sociology - LAS</a>
+    </div>
+</div>
+        </div>
+        <div class="footnote-footer section">
+            <p class="small">
+                <sup>1</sup>
+Due to insufficient survey results available for this particular program, post-graduation data comes from several majors within a similar interest area.                Post-graduate data was collected through the <a href=" http://illinisuccess.illinois.edu/">Illini Success initiative</a>, which primarily relies on self-reported survey data sources.
+                Statistics are aggregated from the past three years. Please note that total compensation may be greater than annual salary
+                as other forms of compensation (e.g., signing bonus, commission, benefits) are not included. For more information on Illini
+                Success data and methods, please visit the <a href="http://illinisuccess.illinois.edu/">Illini Success website</a>. For average wage or salary information five years after entry into an occupation, 
+                visit the <a href="https://www.mynextmove.org/">My Next Move website</a>.
+            </p>
+        <p class="small">
+            <sup>2</sup>
+Graduation and retention data comes from several majors within a similar interest area.            Graduation and retention data comes from several majors within a similar interest area. Data may not yet be
+            available for newly created programs. Years-to-degree data is only available for programs from which you can earn a degree. 
+            Retention and graduation rates are only available for programs that you can
+            apply directly into. Retention rates reflect retention to the university, 
+            not necessarily retention within the major.
+        </p>
+        <p class="small">
+            <sup>3</sup>
+            "Expenses" are estimated and include books, supplies, housing, and other living expenses.
+            The exact amount you’ll pay depends on where you decide to live, the meal plan you choose,
+            and your overall lifestyle. To learn more about costs, please visit the <a href="http://osfa.illinois.edu/cost/">Office of Student Financial Aid website</a>.
+            To learn the average monthly student loan payment over a period of 20 years based on estimated cost,
+            visit the <a href="https://www.ilcollege2career.com/#/">Illinois College2Career website</a>.
+        </p>
+        </div>
+</div>
+
+<div id="employer-modal-container-10KV0285BALA" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="employer-modal-header-10KV0285BALA" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 class="modal-title border-0 p-0" id="employer-modal-header-10KV0285BALA">Employer List</h2>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body" id="employer-modal-10KV0285BALA">
+                    
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="gradschool-modal-container-10KV0285BALA" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="gradschool-modal-header-10KV0285BALA" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 class="modal-title border-0 p-0" id="gradschool-modal-header-10KV0285BALA">Grad School List</h2>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body" id="gradschool-modal-10KV0285BALA">
+                    
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+        </div>
+    </main>
+
+    <footer>
+        <div id="footer-bottom">
+            <div class="container-fluid container-max">
+                <p id="footer-help"><strong>Need help?</strong> Email <a href="mailto:admissions@illinois.edu">admissions@illinois.edu</a> or call <span class="keep-together">217-333-0302.</span></p>
+                <p id="copyright">&copy; Copyright University of Illinois Board&nbsp;of&nbsp;Trustees</p>
+                <p id="privacy"><a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Web Privacy Notice</a></p>
+                <!--OneTrust Cookies Settings button start --><a class="optanon-show-settings">Cookie Settings</a><!--OneTrust Cookies Settings button end -->
+            </div>
+        </div>
+    </footer>
+
+
+    <a href="#0" class="cd-top">Top</a>
+
+    <div class="modal fade" id="modalAlert" tabindex="-1" role="dialog" aria-hidden="true" aria-labelledby="modalAlertLabel">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h3 class="modal-title" id="modalAlertLabel"></h3>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body" id="modalAlertBody"></div>
+                <div class="modal-footer" id="modalAlertFooter">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Ok</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script type="text/javascript">
+
+
+        function showLoading() {
+            $("#loadingDiv").show();
+            $("#loadingDiv").expose({ closeOnEsc: false, closeOnClick: false });
+        }
+
+
+        function hideLoading() {
+            $("#loadingDiv").hide();
+            $.mask.close();
+        }
+    </script>
+
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-2713828-26"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-2713828-26');
+    </script>
+    <script async="async" src="https://enroll.illinois.edu/ping">/**/</script>
+    <script type="text/javascript">
+        function OptanonWrapper() { }
+    </script>
+
+    <!-- Modal -->
+    <div class="modal fade" id="inquiry-popup" tabindex="-1" role="dialog" aria-labelledby="inquiry-popup-title" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h2 class="modal-title" id="inquiry-popup-title">Want more info?</h2>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <!-- email -->
+                    <!--<div id="form_93e0db30-b3f2-4579-a62b-238921e51597">Loading...</div><script async="async" src="https://enroll.illinois.edu/register/?id=93e0db30-b3f2-4579-a62b-238921e51597&amp;output=embed&amp;div=form_93e0db30-b3f2-4579-a62b-238921e51597">/**/</script>-->
+                    <!-- birthday -->
+                    <!--<div id="form_a99d5b39-6ca8-4e22-b893-b2a736011c0d">Loading...</div><script async="async" src="https://enroll.illinois.edu/register/?id=a99d5b39-6ca8-4e22-b893-b2a736011c0d&amp;output=embed&amp;div=form_a99d5b39-6ca8-4e22-b893-b2a736011c0d">/**/</script>-->
+                    <!-- entry term -->
+                    <!--<div id="form_0db2a1a0-d630-491f-9517-9b38388a56b7">Loading...</div><script async="async" src="https://enroll.illinois.edu/register/?id=0db2a1a0-d630-491f-9517-9b38388a56b7&amp;output=embed&amp;div=form_0db2a1a0-d630-491f-9517-9b38388a56b7">/**/</script>-->
+                </div>
+                <!--<div class="modal-footer">
+                  <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                </div>-->
+            </div>
+        </div>
+    </div>
+
+    <script type="text/javascript" src="https://admissions.illinois.edu/Scripts/inquiryFormPopup.js"></script>
+</body>
+</html>
