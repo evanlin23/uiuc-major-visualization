@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<style>
+    body, html {
+        margin: 0;
+        padding: 0;
+        height: 100%;
+        overflow: hidden;
+    }
+</style>
+<svg width="100%" height="100%"></svg>
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script type="module">
+    import nodes_links from './nodes.json' assert { type: 'json' };
+    console.log(data);
+    var screenWidth = window.innerWidth;
+    var screenHeight = window.innerHeight;
+
+    var svg = d3.select("svg"),
+        width = window.innerWidth,
+        height = window.innerHeight,
+        g = svg.append("g").attr("transform", "translate(" + width / 2 + "," + height / 2 + ")");
+
+    fetch('./nodes.json')
+      .then((response) => response.json())
+      .then((json) => console.log(json));
+    const nodes = []
+    const links = []
+    // Create a lookup object for nodes
+    const nodeById = new Map(nodes.map(d => [d.id, d]));
+
+    links.forEach(link => {
+        link.source = nodeById.get(link.source);
+        link.target = nodeById.get(link.target);
+    });
+
+    // Create a collision force
+    var collisionForce = d3.forceCollide().radius(20);
+
+    // Now, you can use the processed nodes and links for your D3 simulation
+    var simulation = d3.forceSimulation(nodes)
+        .force("charge", d3.forceManyBody().strength(-150))
+        .force("link", d3.forceLink(links).distance(150).strength(1).iterations(10))
+        .force("x", d3.forceX().x(function (d) { return Math.max(0, Math.min(screenWidth, d.x)); }))
+        .force("y", d3.forceY().y(function (d) { return Math.max(0, Math.min(screenHeight, d.y)); }))
+        .force("collision", collisionForce) // Add collision force to prevent nodes from colliding
+        .stop();
+
+    var loading = svg.append("text")
+        .attr("dy", "0.35em")
+        .attr("text-anchor", "middle")
+        .attr("font-family", "sans-serif")
+        .attr("font-size", 10)
+        .text("Simulating. One moment please…");
+        
+    function hideLoadingScreen() {
+        var loadingScreen = document.getElementById("loading-screen");
+        if (loadingScreen) {
+            loadingScreen.style.display = "none";
+        }
+    }
+    // Use a timeout to allow the rest of the page to load first.
+    d3.timeout(function () {
+        loading.remove();
+
+        // See https://github.com/d3/d3-force/blob/master/README.md#simulation_tick
+        for (var i = 0, n = Math.ceil(Math.log(simulation.alphaMin()) / Math.log(1 - simulation.alphaDecay())); i < n; ++i) {
+            simulation.tick();
+        }
+
+        g.append("g")
+            .attr("stroke", "#000")
+            .attr("stroke-width", 1.5)
+            .selectAll("line")
+            .data(links)
+            .enter().append("line")
+            .attr("x1", function (d) { return d.source.x; })
+            .attr("y1", function (d) { return d.source.y; })
+            .attr("x2", function (d) { return d.target.x; })
+            .attr("y2", function (d) { return d.target.y; });
+
+        var nodeCircles = g.append("g")
+            .attr("stroke", "#fff")
+            .attr("stroke-width", 1.5)
+            .selectAll("circle")
+            .data(nodes)
+            .enter().append("circle")
+            .attr("cx", function (d) { return d.x; })
+            .attr("cy", function (d) { return d.y; })
+            .attr("r", 4.5)
+            .attr("fill", function (d) {
+                if (d.level === 1) {
+                    return "red";
+                } else if (d.level === 2) {
+                    return "gray";
+                }
+                // You can add more conditions for other levels if needed.
+            })
+            .on("mouseover", handleMouseOver)  // Handle mouseover event
+            .on("mouseout", handleMouseOut);  // Handle mouseout event
+
+        var labels = g.append("g")
+            .selectAll("text")
+            .data(nodes)
+            .enter()
+            .append("text")
+            .text(function(d) { return d.label; })
+            .style("display", "none") // Initially hide labels
+            .attr("x", function(d) { return d.x + 10; })
+            .attr("y", function(d) { return d.y - 10; })
+            .attr("font-size", 12);
+
+        function handleMouseOver(d) {
+            // Show the label on mouseover
+            d3.select(this).attr("r", 8);  // Increase node size on hover
+            labels.filter(function(label) { return label.id === d.id; })
+                .style("display", "block"); // Display the label
+        }
+
+        function handleMouseOut(d) {
+            // Hide the label on mouseout
+            d3.select(this).attr("r", 4.5);  // Restore node size
+            labels.style("display", "none");  // Hide all labels
+        }
+    });
+</script>

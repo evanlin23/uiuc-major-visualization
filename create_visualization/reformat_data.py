@@ -1,4 +1,5 @@
 import json
+import random
 from colour import Color
 
 darkgreen = Color("darkgreen")
@@ -11,8 +12,11 @@ f = open("sample.json")
 data = json.load(f)
 
 dictionary = {"nodes": [], "links": []}
+dictionary_major_nodes = {"nodes": [], "links": []}
 max_salary = 93500
 min_salary = 29304
+
+idStart = 0
 
 print("Nodes")
 for item in data["majors_list"]:
@@ -30,15 +34,40 @@ for item in data["majors_list"]:
     # print(salary)
     hex = ""
     label = ""
+    college = data["majors_information"][item]["data"]["college"]
+    desc = data["majors_information"][item]["data"]["description"]
     if color_num == 999:
         hex = "#4C4E52"
         label = "Not Enough Data"
     else:
         hex = colors[color_num].hex
         label = salary
-    dictionary["nodes"].append(
-        {"id": item.lower(), "label": item, "level": 1, "color": hex, "salary": label}
+    size = random.randint(7, 27)
+    dictionary_major_nodes["nodes"].append(
+        {
+            "id": idStart,
+            "label": item,
+            "level": 1,
+            "color": hex,
+            "salary": label,
+            "college": college,
+            "description": desc,
+            "size": size,
+        }
     )
+    dictionary["nodes"].append(
+        {
+            "id": idStart,
+            "label": item,
+            "level": 1,
+            "color": hex,
+            "salary": label,
+            "college": college,
+            "description": desc,
+            "size": size,
+        }
+    )
+    idStart += 1
 
 for item in data["grad_school_list"]:
     dictionary["nodes"].append({"id": item.lower(), "label": item, "level": 2})
@@ -52,6 +81,22 @@ for item in data["majors_list"]:
         if item2 in data["majors_information"][item]["data"]["related_majors"]:
             dictionary["links"].append(
                 {"target": item2.lower(), "source": item.lower(), "strength": 0.1}
+            )
+            start_id = 0
+            for item3 in dictionary_major_nodes["nodes"]:
+                if item3["label"] == item:
+                    start_id = item3["id"]
+            end_id = 0
+            for item3 in dictionary_major_nodes["nodes"]:
+                if item3["label"] == item2:
+                    end_id = item3["id"]
+
+            dictionary_major_nodes["links"].append(
+                {
+                    "target": end_id,
+                    "source": start_id,
+                    "strength": 0.1,
+                }
             )
 
 print("links - employers, grad")
@@ -83,3 +128,8 @@ json_object = json.dumps(dictionary, indent=4)
 
 with open("nodes.json", "w") as outfile:
     outfile.write(json_object)
+
+json_object_nodes = json.dumps(dictionary_major_nodes, indent=4)
+
+with open("nodes_majors.json", "w") as outfile:
+    outfile.write(json_object_nodes)
